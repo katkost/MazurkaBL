@@ -1,0 +1,2732 @@
+opus	key	performer	year	time	seconds	label	pid	status
+6.1	F# min	Ashkenazy	1981	3:14	194	Decca 448 086-2	9058-01	-
+6.1	F# min	Bacha	1997	2:46	166	Forlane 126817	9166c-03	-
+6.1	F# min	Barbosa	1983	2:30	150	Centaur CRC2098/9	9174-01	-
+6.1	F# min	Biret	1990	3:29	209	Naxos 8.550359	9062-01	-
+6.1	F# min	Blet	2003	3:31	211	Marcal MA030501	9103-01	-
+6.1	F# min	Blumental	1952	2:30	150	Brana BR0018	9102-01	-
+6.1	F# min	Brailowsky	1960	3:21	201	Sony SB2K 63237	9060-01	-
+6.1	F# min	Chiu	1999	3:23	203	HMX 2907352.53	9048-01	-
+6.1	F# min	Clidat	1994	2:48	168	Forlane UCD16729 	9067-01	-
+6.1	F# min	Cohen	1997	4:04	244	Glossa 920506 	9105-01	-
+6.1	F# min	Cortot	1951	3:15	195	Concert Artist 9180/12 	9066-01	-
+6.1	F# min	Csalog	1996	3:16	196	Hungaroton HCD 31755/6	1263-01	-
+6.1	F# min	Czerny-Stefanska	1989	3:19	199	Pony Canyon Classics PCCL-00460	9192-01	-
+6.1	F# min	Ezaki	2006	3:18	198	Triton OVCT-00035	9139-01	-
+6.1	F# min	Falvay	1989	3:11	191	Naxos 8.550256 	9068-01	-
+6.1	F# min	Ferenczy	1958	3:50	230	Hungaroton HCD 32121	9097-09	-
+6.1	F# min	Fliere	1977	3:05	185	Melodia 10 00439	9063-01	-
+6.1	F# min	Fou	1978	2:53	173	Sony SB2K 53 246	9071-06	-
+6.1	F# min	Francois	1956	1:32	92	EMI CZS 7 67413 2	9070-09	-
+6.1	F# min	Hatto	1993	2:59	179	Con. Artist FED4-TC-0116/7	610003-03	-
+6.1	F# min	Hatto	2006	3:02	182	Con. Artist 9270/12	9073-03	-
+6.1	F# min	Indjic	1988	3:01	181	Calliope 3321	9050-01	-
+6.1	F# min	Kushner	1990	2:34	154	Connoisseur CD4181/2	9118-01	-
+6.1	F# min	Lilamand	2001	2:14	134	Concerto Royale 206220-3600	9186c-01	-
+6.1	F# min	Luisada	1990	3:09	189	DG 463054-2	9055-01	-
+6.1	F# min	Lushtak	2004	3:27	207	Centaur CRC 2707	9088-01	-
+6.1	F# min	Magaloff	1977	3:01	181	Phillips 426 817/29-2	9074f-01	-
+6.1	F# min	Magin	1975	2:51	171	Accord 465 665-2	9138-01	-
+6.1	F# min	Meguri	1997	2:10	130	Live Notes WWCC-7313	9137-01	-
+6.1	F# min	Milkina	1970	3:21	201	Unterschrift/EMI	9099-01	-
+6.1	F# min	Mohovich	1999	3:11	191	Agora AG 231.2	9104-01	-
+6.1	F# min	Ohlsson	1999	2:35	155	Arabesque Z6730-2	9153-01	-
+6.1	F# min	Osinska	1989	3:07	187	Cassiopee 969 213/6	9101-01	-
+6.1	F# min	Poblocka	1999	3:06	186	BeArTon CDB012/13	9093-01	-
+6.1	F# min	Rangell	2001	2:45	165	Dorian DOR-93258	9094-01	-
+6.1	F# min	Rosen	1989	3:07	187	Globe 5028 	52932-01	-
+6.1	F# min	Rubinstein	1939	2:00	120	Naxos 8.110656-57	9049-01	-
+6.1	F# min	Rubinstein	1952	2:49	169	BMG 09026 63027-2	9075-01	-
+6.1	F# min	Rubinstein	1966	2:37	157	BMG 09026-63050-2	9059-01	-
+6.1	F# min	Schilhawsky	1960	2:00	120	Accord 476 9011	9129-18	-
+6.1	F# min	Schoonderwoerd	2002	1:37	97	Alpha 040	9150-15	-
+6.1	F# min	Shebanova	2002	3:07	187	DUX 0350/0351	9072-01	-
+6.1	F# min	Smith	1975	2:15	135	EMI 724358576726	9054-01	-
+6.1	F# min	Sztompka	1959	2:32	152	Muza PNOD 313 A/B	9170-01	-
+6.1	F# min	Uninsky	1932	1:40	100	Muza PNCD006	9085-10	-
+6.1	F# min	Uninsky	1959	1:47	107	Philips 442 574-2	9061-01	-
+6.1	F# min	Vardi	1988	3:20	200	Carriere Classics 21.0017	9173-06	-
+6.1	F# min	Wasowski	1980	2:10	130	Concord CCD-42036	9111-01	-
+6.2	C# min	Ashkenazy	1981	2:28	148	Decca 448 086-2	9058-02	-
+6.2	C# min	Bacha	1997	2:22	142	Forlane 126817	9166c-04	-
+6.2	C# min	Barbosa	1983	2:36	156	Centaur CRC2098/9	9174-02	-
+6.2	C# min	Biret	1990	3:00	180	Naxos 8.550359	9062-02	-
+6.2	C# min	Brailowsky	1960	2:34	154	Sony SB2K 63237	9060-02	-
+6.2	C# min	Chiu	1999	2:42	162	HMX 2907352.53	9048-02	-
+6.2	C# min	Clidat	1994	2:21	141	Forlane UCD16729 	9067-02	-
+6.2	C# min	Cohen	1997	2:41	161	Glossa 920506 	9105-02	-
+6.2	C# min	Cortot	1951	2:40	160	Concert Artist 9180/12 	9066-02	-
+6.2	C# min	Csalog	1996	3:23	203	Hungaroton HCD 31755/6	1263-02	-
+6.2	C# min	Czerny-Stefanska	1989	2:21	141	Pony Canyon Classics PCCL-00460	9192-02	-
+6.2	C# min	Ezaki	2006	2:39	159	Triton OVCT-00035	9139-02	-
+6.2	C# min	Falvay	1989	2:29	149	Naxos 8.550256 	9068-02	-
+6.2	C# min	Ferenczy	1958	2:57	177	Hungaroton HCD 32121	9097-10	-
+6.2	C# min	Fiorentino	1958	2:40	160	Con. Artist 9200-2 	9065-01	-
+6.2	C# min	Fliere	1977	2:41	161	Melodia 10 00439	9063-02	-
+6.2	C# min	Fou	1978	2:45	165	Sony SB2K 53 246	9071-07	-
+6.2	C# min	Francois	1956	1:36	96	EMI CZS 7 67413 2	9070-10	-
+6.2	C# min	Grinberg	1949	2:30	150	Denon COCQ-84244	9112-04	-
+6.2	C# min	Guller	1956	2:30	150	Parnassus Dis PCCD 20291	9176-02	-
+6.2	C# min	Hatto	1993	2:48	168	Con. Artist FED4-TC-0116/7	610003-04	-
+6.2	C# min	Hatto	2006	2:45	165	Con. Artist 9270/12	9073-04	-
+6.2	C# min	Indjic	1988	2:46	166	Calliope 3321	9050-02	-
+6.2	C# min	Kapell	1951	2:16	136	RCA 09026-68990-2	9090-01	-
+6.2	C# min	Kiepura	1999	2:36	156	Patria KIE2000	9098-03	-
+6.2	C# min	Kushner	1990	2:31	151	Connoisseur CD4181/2	9118-02	-
+6.2	C# min	Levy	1951	1:48	108	TAHRA TAH 556/8	915406-12	-
+6.2	C# min	Lilamand	2001	2:07	127	Concerto Royale 206220-3600	9186c-02	-
+6.2	C# min	Luisada	1990	2:31	151	DG 463054-2	9055-02	-
+6.2	C# min	Lushtak	2004	2:22	142	Centaur CRC 2707	9088-02	-
+6.2	C# min	Magaloff	1977	2:46	166	Phillips 426 817/29-2	9074f-02	-
+6.2	C# min	Magin	1975	2:16	136	Accord 465 665-2	9138-02	-
+6.2	C# min	Meguri	1997	1:44	104	Live Notes WWCC-7313	9137-02	-
+6.2	C# min	Milkina	1970	2:30	150	Unterschrift/EMI	9099-02	-
+6.2	C# min	Mohovich	1999	2:42	162	Agora AG 231.2	9104-02	-
+6.2	C# min	Ohlsson	1999	2:37	157	Arabesque Z6730-2	9153-02	-
+6.2	C# min	Osinska	1989	2:29	149	Cassiopee 969 213/6	9101-02	-
+6.2	C# min	Poblocka	1999	2:25	145	BeArTon CDB012/13	9093-02	-
+6.2	C# min	Rangell	2001	2:00	120	Dorian DOR-93258	9094-02	-
+6.2	C# min	Rosen	1989	2:14	134	Globe 5028 	52932-02	-
+6.2	C# min	Rubinstein	1939	2:28	148	Naxos 8.110656-57	9049-02	-
+6.2	C# min	Rubinstein	1952	2:22	142	BMG 09026 63027-2	9075-02	-
+6.2	C# min	Rubinstein	1966	2:42	162	BMG 09026-63050-2	9059-02	-
+6.2	C# min	Schoonderwoerd	2002	3:57	237	Alpha 040	9150-16	-
+6.2	C# min	Shebanova	2002	2:25	145	DUX 0350/0351	9072-02	-
+6.2	C# min	Smith	1975	2:50	170	EMI 724358576726	9054-02	-
+6.2	C# min	Sztompka	1959	2:33	153	Muza PNOD 313 A/B	9170-02	-
+6.2	C# min	Uninsky	1971	2:04	124	Philips 442 574-2	9061-02	-
+6.2	C# min	Vardi	1988	2:40	160	Carriere Classics 21.0017	9173-07	-
+6.2	C# min	Wasowski	1980	2:06	126	Concord CCD-42036	9111-02	-
+6.3	E maj	Ashkenazy	1981	1:36	96	Decca 448 086-2	9058-03	-
+6.3	E maj	Bacha	1997	1:35	95	Forlane 126817	9166c-05	-
+6.3	E maj	Barbosa	1983	1:40	100	Centaur CRC2098/9	9174-03	-
+6.3	E maj	Biret	1990	2:09	129	Naxos 8.550359	9062-03	-
+6.3	E maj	Brailowsky	1960	1:55	115	Sony SB2K 63237	9060-03	-
+6.3	E maj	Chiu	1999	2:09	129	HMX 2907352.53	9048-03	-
+6.3	E maj	Clidat	1994	1:47	107	Forlane UCD16729 	9067-03	-
+6.3	E maj	Cohen	1997	1:50	110	Glossa 920506 	9105-03	-
+6.3	E maj	Cortot	1951	2:04	124	Concert Artist 9180/12 	9066-03	-
+6.3	E maj	Csalog	1996	1:43	103	Hungaroton HCD 31755/6	1263-03	-
+6.3	E maj	Czerny-Stefanska	1989	2:17	137	Pony Canyon Classics PCCL-00460	9192-03	-
+6.3	E maj	Ezaki	2006	1:49	109	Triton OVCT-00035	9139-03	-
+6.3	E maj	Ferenczy	1956	1:43	103	Hungaroton HCD 32121	9097-06	-
+6.3	E maj	Fliere	1977	1:44	104	Melodia 10 00439	9063-03	-
+6.3	E maj	Fou	1978	1:55	115	Sony SB2K 53 246	9071-08	-
+6.3	E maj	Francois	1956	1:32	92	EMI CZS 7 67413 2	9070-11	-
+6.3	E maj	Grinberg	1949	1:35	95	Denon COCQ-84244	9112-05	-
+6.3	E maj	Hatto	1993	1:55	115	Con. Artist FED4-TC-0116/7	610003-05	-
+6.3	E maj	Hatto	2006	1:52	112	Con. Artist 9270/12	9073-05	-
+6.3	E maj	Indjic	1988	1:55	115	Calliope 3321	9050-03	-
+6.3	E maj	Kushner	1990	2:13	133	Connoisseur CD4181/2	9118-03	-
+6.3	E maj	Lilamand	2001	1:28	88	Concerto Royale 206220-3600	9186c-03	-
+6.3	E maj	Luisada	1990	2:20	140	DG 463054-2	9055-03	-
+6.3	E maj	Lushtak	2004	1:50	110	Centaur CRC 2707	9088-03	-
+6.3	E maj	Magaloff	1977	1:55	115	Phillips 426 817/29-2	9074f-03	-
+6.3	E maj	Magin	1975	1:51	111	Accord 465 665-2	9138-03	-
+6.3	E maj	Meguri	1997	1:24	84	Live Notes WWCC-7313	9137-03	-
+6.3	E maj	Milkina	1970	2:05	125	Unterschrift/EMI	9099-03	-
+6.3	E maj	Mohovich	1999	1:57	117	Agora AG 231.2	9104-03	-
+6.3	E maj	Ohlsson	1999	1:46	106	Arabesque Z6730-2	9153-03	-
+6.3	E maj	Osinska	1989	1:56	116	Cassiopee 969 213/6	9101-03	-
+6.3	E maj	Poblocka	1999	1:47	107	BeArTon CDB012/13	9093-03	-
+6.3	E maj	Rangell	2001	1:50	110	Dorian DOR-93258	9094-03	-
+6.3	E maj	Rosen	1989	1:47	107	Globe 5028 	52932-03	-
+6.3	E maj	Rubinstein	1939	1:48	108	Naxos 8.110656-57	9049-03	-
+6.3	E maj	Rubinstein	1939	1:52	112	Muza PNCD 300	9091-20	-
+6.3	E maj	Rubinstein	1952	1:58	118	BMG 09026 63027-2	9075-03	-
+6.3	E maj	Rubinstein	1966	2:04	124	BMG 09026-63050-2	9059-03	-
+6.3	E maj	Schoonderwoerd	2002	1:39	99	Alpha 040	9150-17	-
+6.3	E maj	Shebanova	2002	1:48	108	DUX 0350/0351	9072-03	-
+6.3	E maj	Smith	1975	4:26	266	EMI 724358576726	9054-03	-
+6.3	E maj	Sofronitsky	1949	1:39	99	Vista Vera VVCD-00118-2	9114-27	-
+6.3	E maj	Sztompka	1959	1:54	114	Muza PNOD 313 A/B	9170-03	-
+6.3	E maj	Uninsky	1971	1:43	103	Philips 442 574-2	9061-03	-
+6.3	E maj	Vardi	1988	2:20	140	Carriere Classics 21.0017	9173-08	-
+6.3	E maj	Wasowski	1980	2:05	125	Concord CCD-42036	9111-03	-
+6.4	E min	Ashkenazy	1981	0:58	58	Decca 448 086-2	9058-04	precor
+6.4	E min	Bacha	1997	0:42	42	Forlane 126817	9166c-06	-
+6.4	E min	Barbosa	1983	0:37	37	Centaur CRC2098/9	9174-04	-
+6.4	E min	Biret	1990	0:43	43	Naxos 8.550359	9062-04	precor
+6.4	E min	Brailowsky	1960	0:48	48	Sony SB2K 63237	9060-04	precor
+6.4	E min	Chiu	1999	1:04	64	HMX 2907352.53	9048-04	precor
+6.4	E min	Clidat	1994	0:45	45	Forlane UCD16729 	9067-04	precor
+6.4	E min	Cohen	1997	1:16	76	Glossa 920506 	9105-04	-
+6.4	E min	Cortot	1951	1:01	61	Concert Artist 9180/12 	9066-04	-
+6.4	E min	Csalog	1996	0:40	40	Hungaroton HCD 31755/6	1263-04	-
+6.4	E min	Czerny-Stefanska	1989	1:11	71	Pony Canyon Classics PCCL-00460	9192-04	-
+6.4	E min	Ezaki	2006	0:54	54	Triton OVCT-00035	9139-04	-
+6.4	E min	Ferenczy	1958	1:30	90	Hungaroton HCD 32121	9097-11	-
+6.4	E min	Fliere	1977	0:46	46	Melodia 10 00439	9063-04	-
+6.4	E min	Fou	1978	0:58	58	Sony SB2K 53 246	9071-09	-
+6.4	E min	Francois	1956	0:25	25	EMI CZS 7 67413 2	9070-12	-
+6.4	E min	Grinberg	1949	1:16	76	Denon COCQ-84244	9112-06	-
+6.4	E min	Hatto	1993	0:45	45	Con. Artist FED4-TC-0116/7	610003-06	-
+6.4	E min	Hatto	2006	0:43	43	Con. Artist 9270/12	9073-06	-
+6.4	E min	Indjic	1988	0:46	46	Calliope 3321	9050-04	-
+6.4	E min	Kushner	1990	0:50	50	Connoisseur CD4181/2	9118-04	-
+6.4	E min	Lilamand	2001	0:39	39	Concerto Royale 206220-3600	9186c-04	-
+6.4	E min	Luisada	1990	0:57	57	DG 463054-2	9055-04	-
+6.4	E min	Lushtak	2004	1:00	60	Centaur CRC 2707	9088-04	-
+6.4	E min	Magaloff	1977	0:46	46	Phillips 426 817/29-2	9074f-04	-
+6.4	E min	Magin	1975	0:48	48	Accord 465 665-2	9138-04	-
+6.4	E min	Milkina	1970	1:12	72	Unterschrift/EMI	9099-04	-
+6.4	E min	Mohovich	1999	0:49	49	Agora AG 231.2	9104-04	-
+6.4	E min	Neighaus	1950	1:08	68	Classical Records CR-083	9119-05	-
+6.4	E min	Ohlsson	1999	0:40	40	Arabesque Z6730-2	9153-04	-
+6.4	E min	Osinska	1989	0:43	43	Cassiopee 969 213/6	9101-04	-
+6.4	E min	Poblocka	1999	0:42	42	BeArTon CDB012/13	9093-04	-
+6.4	E min	Rangell	2001	1:00	60	Dorian DOR-93258	9094-04	-
+6.4	E min	Rosen	1989	0:48	48	Globe 5028 	52932-04	-
+6.4	E min	Rubinstein	1939	0:26	26	Naxos 8.110656-57	9049-04	-
+6.4	E min	Rubinstein	1952	0:34	34	BMG 09026 63027-2	9075-04	-
+6.4	E min	Rubinstein	1966	0:40	40	BMG 09026-63050-2	9059-04	-
+6.4	E min	Schoonderwoerd	2002	0:39	39	Alpha 040	9150-18	-
+6.4	E min	Shebanova	2002	0:54	54	DUX 0350/0351	9072-04	-
+6.4	E min	Smith	1975	3:54	234	EMI 724358576726	9054-04	-
+6.4	E min	Sofronitsky	1949	0:46	46	Vista Vera VVCD-00118-2	9114-31	-
+6.4	E min	Sztompka	1959	0:50	50	Muza PNOD 313 A/B	9170-04	-
+6.4	E min	Uninsky	1971	0:39	39	Philips 442 574-2	9061-04	-
+6.4	E min	Vardi	1988	0:38	38	Carriere Classics 21.0017	9173-09	-
+6.4	E min	Wasowski	1980	0:40	40	Concord CCD-42036	9111-04	-
+7.1	B maj	Ashkenazy	1981	1:47	107	Decca 448 086-2	9058-05	-
+7.1	B maj	Bacha	1997	2:10	130	Forlane 126817	9166c-08	-
+7.1	B maj	Barbosa	1983	2:15	135	Centaur CRC2098/9	9174-05	-
+7.1	B maj	Biret	1990	2:35	155	Naxos 8.550359	9062-05	-
+7.1	B maj	Blet	2003	2:35	155	Marcal MA030501	9103-02	-
+7.1	B maj	Brailowsky	1960	2:38	158	Sony SB2K 63237	9060-05	-
+7.1	B maj	Chiu	1999	2:16	136	HMX 2907352.53	9048-05	-
+7.1	B maj	Clidat	1994	2:09	129	Forlane UCD16729 	9067-05	-
+7.1	B maj	Cohen	1997	2:56	176	Glossa 920506 	9105-05	-
+7.1	B maj	Cortot	1951	2:25	145	Concert Artist 9180/12 	9066-05	-
+7.1	B maj	Csalog	1996	2:26	146	Hungaroton HCD 31755/6	1263-05	-
+7.1	B maj	Czerny-Stefanska	1949	2:14	134	Muza PNCD002	9086-05	-
+7.1	B maj	Czerny-Stefanska	1989	2:14	134	Pony Canyon Classics PCCL-00460	9192-05	-
+7.1	B maj	Ezaki	2006	2:19	139	Triton OVCT-00035	9139-05	-
+7.1	B maj	Falvay	1989	2:05	125	Naxos 8.550256 	9068-03	-
+7.1	B maj	Ferenczy	1957	2:23	143	Hungaroton HCD 32121	9097-08	-
+7.1	B maj	Fiorentino	1990	2:36	156	Con. Artist 9200-2 	9065-02	-
+7.1	B maj	Fiorentino	1997	1:24	84	http://freenet-homepage.de/elumpe/mpegfiles.htm	7991-01	-
+7.1	B maj	Fliere	1977	2:16	136	Melodia 10 00439	9063-05	-
+7.1	B maj	Fou	1978	2:15	135	Sony SB2K 53 246	9071-10	-
+7.1	B maj	Francois	1956	1:10	70	EMI CZS 7 67413 2	9070-13	-
+7.1	B maj	Francois	1966	1:12	72	EMI 724382669029	9051-09	-
+7.1	B maj	Friedman	1929	2:04	124	Selene CD-s 9908.53	9148-12	-
+7.1	B maj	Friedman	1930	1:56	116	Philips 456 784-2 	5667230-08	-
+7.1	B maj	Hatto	1993	2:27	147	Con. Artist FED4-TC-0116/7	610003-07	-
+7.1	B maj	Hatto	2006	2:24	144	Con. Artist 9270/12	9073-07	-
+7.1	B maj	Indjic	1988	2:27	147	Calliope 3321	9050-05	-
+7.1	B maj	Iturbi	1959	2:17	137	EMI 351804	918719b-01	-
+7.1	B maj	Kiepura	1999	2:28	148	Patria KIE2000	9098-05	-
+7.1	B maj	Koczalski	1948	2:03	123	Selene CD-s 9903.48	9143-03	-
+7.1	B maj	Kushner	1990	2:12	132	Connoisseur CD4181/2	9118-05	-
+7.1	B maj	Lilamand	2001	2:01	121	Concerto Royale 206220-3600	9186c-05	-
+7.1	B maj	Luisada	1990	2:33	153	DG 463054-2	9055-05	-
+7.1	B maj	Malcuzynski	1961	2:32	152	EMI CZS 5 68226 2	918904-01	-
+7.1	B maj	Magaloff	1977	2:27	147	Phillips 426 817/29-2	9074f-05	-
+7.1	B maj	Magin	1975	2:10	130	Accord 465 665-2	9138-05	-
+7.1	B maj	Milkina	1970	2:28	148	Unterschrift/EMI	9099-05	-
+7.1	B maj	Mohovich	1999	2:27	147	Agora AG 231.2	9104-05	-
+7.1	B maj	Moravec	1982	2:15	135	Vox MCD 10016	51495-03	-
+7.1	B maj	Ohlsson	1999	2:17	137	Arabesque Z6730-2	9153-05	-
+7.1	B maj	Olejniczac	1990	2:38	158	Na&iuml;ve OP20002	9100b-01	-
+7.1	B maj	Osinska	1989	2:21	141	Cassiopee 969 213/6	9101-05	-
+7.1	B maj	Poblocka	1999	2:07	127	BeArTon CDB012/13	9093-06	-
+7.1	B maj	Rangell	2001	2:11	131	Dorian DOR-93258	9094-05	-
+7.1	B maj	Rubinstein	1939	2:14	134	Naxos 8.110656-57	9049-05	-
+7.1	B maj	Rubinstein	1952	2:09	129	BMG 09026 63027-2	9075-05	-
+7.1	B maj	Rubinstein	1966	2:35	155	BMG 09026-63050-2	9059-05	-
+7.1	B maj	Shebanova	2002	2:12	132	DUX 0350/0351	9072-05	-
+7.1	B maj	Smith	1975	1:35	95	EMI 724358576726	9054-05	-
+7.1	B maj	Sztompka	1959	2:18	138	Muza PNOD 313 A/B	9170-06	-
+7.1	B maj	Uninsky	1959	1:45	105	Philips 442 574-2	9061-05	-
+7.1	B maj	Vasary	1965	2:20	140	DG 449313-2	9053-22	-
+7.1	B maj	Vardi	1988	2:33	153	Carriere Classics 21.0017	9173-10	-
+7.1	B maj	Wasowski	1980	2:16	136	Concord CCD-42036	9111-05	-
+7.2	A min	Ashkenazy	1981	3:14	194	Decca 448 086-2	9058-06	-
+7.2	A min	Bacha	1997	3:08	188	Forlane 126817	9166c-09	-
+7.2	A min	Barbosa	1983	2:32	152	Centaur CRC2098/9	9174-06	-
+7.2	A min	Biret	1990	4:06	246	Naxos 8.550359	9062-06	-
+7.2	A min	Blet	2003	3:32	212	Marcal MA030501	9103-03	-
+7.2	A min	Block	1995	3:58	238	ProPiano PPR224507 	9064-05	-
+7.2	A min	Brailowsky	1960	3:07	187	Sony SB2K 63237	9060-06	precor
+7.2	A min	Chiu	1999	3:37	217	HMX 2907352.53	9048-06	tap20
+7.2	A min	Clidat	1994	2:53	173	Forlane UCD16729 	9067-06	-
+7.2	A min	Cohen	1997	3:32	212	Glossa 920506 	9105-06	-
+7.2	A min	Cortot	1951	3:58	238	Concert Artist 9180/12 	9066-06	-
+7.2	A min	Csalog	1996	3:34	214	Hungaroton HCD 31755/6	1263-06	-
+7.2	A min	Czerny-Stefanska	1989	3:46	226	Pony Canyon Classics PCCL-00460	9192-06	-
+7.2	A min	Ezaki	2006	4:39	279	Triton OVCT-00035	9139-06	-
+7.2	A min	Falvay	1989	3:08	188	Naxos 8.550256 	9068-04	-
+7.2	A min	Ferenczy	1958	3:30	210	Hungaroton HCD 32121	9097-12	-
+7.2	A min	Fiorentino	1958	3:15	195	Con. Artist 9200-2 	9065-03	-
+7.2	A min	Fliere	1977	3:20	200	Melodia 10 00439	9063-06	precor
+7.2	A min	Fou	1978	2:59	179	Sony SB2K 53 246	9071-11	-
+7.2	A min	Fou	2005	3:14	194	NIFC CD001	9092-17	-
+7.2	A min	Francois	1956	1:22	82	EMI CZS 7 67413 2	9070-14	-
+7.2	A min	Francois	1966	1:26	86	EMI 724382669029	9051-10	tap20
+7.2	A min	Friedman	1930	2:31	151	Philips 456 784-2 	5667230-09	tap20
+7.2	A min	Hatto	1993	3:25	205	Con. Artist FED4-TC-0116/7	610003-08	-
+7.2	A min	Hatto	2006	2:54	174	Con. Artist 9270/12	9073-08	-
+7.2	A min	Indjic	1988	2:57	177	Calliope 3321	9050-06	tap20
+7.2	A min	Iturbi	1959	2:39	159	EMI 351804	918719b-02	-
+7.2	A min	Kapell	1951	3:11	191	RCA 09026-68990-2	9090-02	-
+7.2	A min	Kushner	1990	3:45	225	Connoisseur CD4181/2	9118-06	-
+7.2	A min	Lilamand	2001	2:37	157	Concerto Royale 206220-3600	9186c-06	-
+7.2	A min	Luisada	1990	3:30	210	DG 463054-2	9055-06	tap20
+7.2	A min	Magaloff	1977	2:57	177	Phillips 426 817/29-2	9074f-06	-
+7.2	A min	Magin	1975	2:51	171	Accord 465 665-2	9138-06	-
+7.2	A min	Milkina	1970	3:44	224	Unterschrift/EMI	9099-06	-
+7.2	A min	Mohovich	1999	3:37	217	Agora AG 231.2	9104-06	-
+7.2	A min	Niedzielski	1931	3:10	190	HMV C-2008/10	610001-06	-
+7.2	A min	Ohlsson	1999	3:11	191	Arabesque Z6730-2	9153-06	-
+7.2	A min	Olejniczac	1990	3:38	218	Na&iuml;ve OP20002	9100b-02	-
+7.2	A min	Osinska	1989	3:52	232	Cassiopee 969 213/6	9101-06	-
+7.2	A min	Poblocka	1999	3:32	212	BeArTon CDB012/13	9093-07	-
+7.2	A min	Rangell	2001	3:20	200	Dorian DOR-93258	9094-06	-
+7.2	A min	Rubinstein	1939	2:51	171	Naxos 8.110656-57	9049-06	tap20
+7.2	A min	Rubinstein	1952	3:48	228	BMG 09026 63027-2	9075-06	-
+7.2	A min	Rubinstein	1966	3:29	209	BMG 09026-63050-2	9059-06	precor
+7.2	A min	Shebanova	2002	3:27	207	DUX 0350/0351	9072-06	-
+7.2	A min	Smith	1975	5:41	341	EMI 724358576726	9054-06	tap20
+7.2	A min	Sztompka	1959	3:33	213	Muza PNOD 313 A/B	9170-07	-
+7.2	A min	Uninsky	1959	2:23	143	Philips 442 574-2	9061-06	precor
+7.2	A min	Vardi	1988	3:19	199	Carriere Classics 21.0017	9173-11	-
+7.2	A min	Wasowski	1980	2:55	175	Concord CCD-42036	9111-06	-
+7.3	F min	Ashkenazy	1981	2:19	139	Decca 448 086-2	9058-07	-
+7.3	F min	Bacha	1997	2:29	149	Forlane 126817	9166c-10	-
+7.3	F min	Barbosa	1983	2:05	125	Centaur CRC2098/9	9174-07	-
+7.3	F min	Beliavsky	2004	2:22	142	Sonata Bop SB004	9152-12	-
+7.3	F min	Biret	1990	2:42	162	Naxos 8.550359	9062-07	-
+7.3	F min	Block	1995	2:14	134	ProPiano PPR224507 	9064-06	-
+7.3	F min	Blumental	1952	2:16	136	Brana BR0018	9102-02	-
+7.3	F min	Boshniakovich	1987	2:12	132	Vista Vera VVCD-00022	9127-02	-
+7.3	F min	Brailowsky	1960	2:43	163	Sony SB2K 63237	9060-07	-
+7.3	F min	Chiu	1999	2:33	153	HMX 2907352.53	9048-07	tap20
+7.3	F min	Clidat	1994	2:28	148	Forlane UCD16729 	9067-07	-
+7.3	F min	Cohen	1997	2:31	151	Glossa 920506 	9105-07	-
+7.3	F min	Cortot	1951	2:30	150	Concert Artist 9180/12 	9066-07	-
+7.3	F min	Csalog	1996	1:50	110	Hungaroton HCD 31755/6	1263-07	-
+7.3	F min	Czerny-Stefanska	1989	2:42	162	Pony Canyon Classics PCCL-00460	9192-07	-
+7.3	F min	Ezaki	2006	2:22	142	Triton OVCT-00035	9139-07	-
+7.3	F min	Falvay	1989	2:18	138	Naxos 8.550256 	9068-05	-
+7.3	F min	Ferenczy	1958	2:08	128	Hungaroton HCD 32121	9097-13	-
+7.3	F min	Fiorentino	1962	2:18	138	Con. Artist 9200-2 	9065-04	-
+7.3	F min	Fliere	1977	2:41	161	Melodia 10 00439	9063-07	-
+7.3	F min	Fou	1978	2:29	149	Sony SB2K 53 246	9071-12	-
+7.3	F min	Francois	1956	2:07	127	EMI CZS 7 67413 2	9070-15	-
+7.3	F min	Francois	1966	2:11	131	EMI 724382669029	9051-11	-
+7.3	F min	Friedman	1930	1:54	114	Philips 456 784-2 	5667230-10	tap20
+7.3	F min	Goldenweiser	1946	2:10	130	Dante HPC 103	917509-06	-
+7.3	F min	Gornostaeva	1994	2:06	126	Vista Vera VVCD-00064	9116-19	-
+7.3	F min	Guller	1956	2:41	161	Parnassus Dis PCCD 20291	9176-03	-
+7.3	F min	Hatto	1993	2:28	148	Con. Artist FED4-TC-0116/7	610003-09	-
+7.3	F min	Hatto	2006	2:38	158	Con. Artist 9270/12	9073-09	-
+7.3	F min	Horowitz	1932	2:25	145	Philips 456 842-2 	5667249-03	tap20
+7.3	F min	Horowitz	1947	2:21	141	Philips 456 842-2 	5667249-21	tap20
+7.3	F min	Indjic	1988	2:31	151	Calliope 3321	9050-07	-
+7.3	F min	Iturbi	1959	2:25	145	EMI 351804	918719b-03	-
+7.3	F min	Kempff	1945	1:55	115	Koch Schwann 3-1029-2 H1	917518-06	-
+7.3	F min	Kiepura	1999	2:42	162	Patria KIE2000	9098-15	-
+7.3	F min	Kushner	1990	2:29	149	Connoisseur CD4181/2	9118-07	-
+7.3	F min	Levy	1951	2:00	120	TAHRA TAH 556/8	915406-11	-
+7.3	F min	Lilamand	2001	1:50	110	Concerto Royale 206220-3600	9186c-07	-
+7.3	F min	Luisada	1990	2:28	148	DG 463054-2	9055-07	-
+7.3	F min	Malcuzynski	1961	2:44	164	EMI CZS 5 68226 2	918904-02	-
+7.3	F min	Magaloff	1977	2:31	151	Phillips 426 817/29-2	9074f-07	-
+7.3	F min	Magin	1975	2:17	137	Accord 465 665-2	9138-07	-
+7.3	F min	Meguri	1997	2:20	140	Live Notes WWCC-7313	9137-04	-
+7.3	F min	Milkina	1970	2:48	168	Unterschrift/EMI	9099-07	-
+7.3	F min	Mohovich	1999	2:36	156	Agora AG 231.2	9104-07	-
+7.3	F min	Nadelmann	1956	2:06	126	Appian APR 7025	9165-03	-
+7.3	F min	Ohlsson	1999	1:54	114	Arabesque Z6730-2	9153-07	-
+7.3	F min	Olejniczac	1990	2:21	141	Na&iuml;ve OP20002	9100b-03	-
+7.3	F min	Osinska	1989	2:33	153	Cassiopee 969 213/6	9101-07	-
+7.3	F min	Perahia	1994	2:02	122	Sony 45931	54293-08	tap20
+7.3	F min	Poblocka	1999	2:15	135	BeArTon CDB012/13	9093-08	-
+7.3	F min	Rangell	2001	2:05	125	Dorian DOR-93258	9094-07	-
+7.3	F min	Rosen	1989	2:25	145	Globe 5028 	52932-05	tap20
+7.3	F min	Rubinstein	1939	2:35	155	Naxos 8.110656-57	9049-07	-
+7.3	F min	Rubinstein	1952	2:46	166	BMG 09026 63027-2	9075-07	-
+7.3	F min	Rubinstein	1966	2:51	171	BMG 09026-63050-2	9059-07	-
+7.3	F min	Shebanova	2002	2:35	155	DUX 0350/0351	9072-07	-
+7.3	F min	Smith	1975	3:19	199	EMI 724358576726	9054-07	-
+7.3	F min	Sztompka	1959	2:38	158	Muza PNOD 313 A/B	9170-08	-
+7.3	F min	Uninsky	1959	2:36	156	Philips 442 574-2	9061-07	-
+7.3	F min	Vardi	1988	2:32	152	Carriere Classics 21.0017	9173-12	-
+7.3	F min	Wasowski	1980	3:04	184	Concord CCD-42036	9111-07	-
+7.4	A maj	Ashkenazy	1981	1:06	66	Decca 448 086-2	9058-08	-
+7.4	A maj	Bacha	1997	1:14	74	Forlane 126817	9166c-11	-
+7.4	A maj	Barbosa	1983	0:59	59	Centaur CRC2098/9	9174-08	-
+7.4	A maj	Biret	1990	1:08	68	Naxos 8.550359	9062-08	-
+7.4	A maj	Brailowsky	1960	1:19	79	Sony SB2K 63237	9060-08	-
+7.4	A maj	Chiu	1999	1:05	65	HMX 2907352.53	9048-08	-
+7.4	A maj	Clidat	1994	1:05	65	Forlane UCD16729 	9067-08	-
+7.4	A maj	Cohen	1997	1:27	87	Glossa 920506 	9105-08	-
+7.4	A maj	Coop	1996	1:18	78	Skylark 9601	9158-06	-
+7.4	A maj	Cortot	1951	1:25	85	Concert Artist 9180/12 	9066-08	-
+7.4	A maj	Csalog	1996	1:07	67	Hungaroton HCD 31755/6	1263-08	-
+7.4	A maj	Czerny-Stefanska	1989	1:19	79	Pony Canyon Classics PCCL-00460	9192-08	-
+7.4	A maj	Ezaki	2006	1:14	74	Triton OVCT-00035	9139-08	-
+7.4	A maj	Ferenczy	1956	1:31	91	Hungaroton HCD 32121	9097-01	-
+7.4	A maj	Fiorentino	1962	1:11	71	Con. Artist 9200-2 	9065-05	-
+7.4	A maj	Fliere	1977	1:11	71	Melodia 10 00439	9063-08	-
+7.4	A maj	Fou	1978	1:10	70	Sony SB2K 53 246	9071-13	-
+7.4	A maj	Francois	1956	0:49	49	EMI CZS 7 67413 2	9070-16	-
+7.4	A maj	Hatto	1993	1:12	72	Con. Artist FED4-TC-0116/7	610003-10	-
+7.4	A maj	Hatto	2006	1:08	68	Con. Artist 9270/12	9073-10	-
+7.4	A maj	Indjic	1988	1:08	68	Calliope 3321	9050-08	-
+7.4	A maj	Kushner	1990	1:13	73	Connoisseur CD4181/2	9118-08	-
+7.4	A maj	Lilamand	2001	0:54	54	Concerto Royale 206220-3600	9186c-08	-
+7.4	A maj	Luisada	1990	1:24	84	DG 463054-2	9055-08	-
+7.4	A maj	Magaloff	1977	1:08	68	Phillips 426 817/29-2	9074f-08	-
+7.4	A maj	Magin	1975	1:00	60	Accord 465 665-2	9138-08	-
+7.4	A maj	Milkina	1970	1:25	85	Unterschrift/EMI	9099-08	-
+7.4	A maj	Mohovich	1999	1:27	87	Agora AG 231.2	9104-08	-
+7.4	A maj	Ohlsson	1999	1:07	67	Arabesque Z6730-2	9153-08	-
+7.4	A maj	Olejniczac	1990	1:16	76	Na&iuml;ve OP20002	9100b-04	-
+7.4	A maj	Osinska	1989	1:09	69	Cassiopee 969 213/6	9101-08	-
+7.4	A maj	Poblocka	1999	1:12	72	BeArTon CDB012/13	9093-09	-
+7.4	A maj	Rangell	2001	1:09	69	Dorian DOR-93258	9094-08	-
+7.4	A maj	Rubinstein	1939	1:01	61	Naxos 8.110656-57	9049-08	-
+7.4	A maj	Rubinstein	1952	0:54	54	BMG 09026 63027-2	9075-08	-
+7.4	A maj	Rubinstein	1966	1:05	65	BMG 09026-63050-2	9059-08	-
+7.4	A maj	Shebanova	2002	1:15	75	DUX 0350/0351	9072-08	-
+7.4	A maj	Smith	1975	2:22	142	EMI 724358576726	9054-08	-
+7.4	A maj	Sztompka	1959	1:13	73	Muza PNOD 313 A/B	9170-09	-
+7.4	A maj	Uninsky	1971	1:09	69	Philips 442 574-2	9061-08	-
+7.4	A maj	Vardi	1988	1:08	68	Carriere Classics 21.0017	9173-13	-
+7.4	A maj	Wasowski	1980	1:01	61	Concord CCD-42036	9111-08	-
+7.5	C maj	Ashkenazy	1981	0:45	45	Decca 448 086-2	9058-09	-
+7.5	C maj	Bacha	1997	1:14	74	Forlane 126817	9166c-12	-
+7.5	C maj	Barbosa	1983	0:32	32	Centaur CRC2098/9	9174-09	-
+7.5	C maj	Biret	1990	0:36	36	Naxos 8.550359	9062-09	-
+7.5	C maj	Blet	2003	1:09	69	Marcal MA030501	9103-04	-
+7.5	C maj	Brailowsky	1960	0:31	31	Sony SB2K 63237	9060-09	-
+7.5	C maj	Chiu	1999	0:59	59	HMX 2907352.53	9048-09	-
+7.5	C maj	Clidat	1994	0:36	36	Forlane UCD16729 	9067-09	-
+7.5	C maj	Cohen	1997	0:50	50	Glossa 920506 	9105-09	-
+7.5	C maj	Cortot	1951	0:38	38	Concert Artist 9180/12 	9066-09	-
+7.5	C maj	Csalog	1996	0:42	42	Hungaroton HCD 31755/6	1263-09	-
+7.5	C maj	Czerny-Stefanska	1989	0:57	57	Pony Canyon Classics PCCL-00460	9192-09	-
+7.5	C maj	Ezaki	2006	0:46	46	Triton OVCT-00035	9139-09	-
+7.5	C maj	Fiorentino	1958	0:44	44	Con. Artist 9200-2 	9065-06	-
+7.5	C maj	Fliere	1977	0:36	36	Melodia 10 00439	9063-09	-
+7.5	C maj	Fou	1978	0:38	38	Sony SB2K 53 246	9071-14	-
+7.5	C maj	Francois	1956	0:28	28	EMI CZS 7 67413 2	9070-17	-
+7.5	C maj	Hatto	1993	0:33	33	Con. Artist FED4-TC-0116/7	610003-11	-
+7.5	C maj	Hatto	2006	0:34	34	Con. Artist 9270/12	9073-11	-
+7.5	C maj	Indjic	1988	0:38	38	Calliope 3321	9050-09	-
+7.5	C maj	Kapell	1951	0:36	36	RCA 09026-68990-2	9090-03	-
+7.5	C maj	Kiepura	1999	0:41	41	Patria KIE2000	9098-14	-
+7.5	C maj	Kushner	1990	0:46	46	Connoisseur CD4181/2	9118-09	-
+7.5	C maj	Lilamand	2001	0:34	34	Concerto Royale 206220-3600	9186c-09	-
+7.5	C maj	Luisada	1990	0:42	42	DG 463054-2	9055-09	-
+7.5	C maj	Magaloff	1977	0:38	38	Phillips 426 817/29-2	9074f-09	-
+7.5	C maj	Magin	1975	1:07	67	Accord 465 665-2	9138-09	-
+7.5	C maj	Meguri	1997	0:29	29	Live Notes WWCC-7313	9137-05	-
+7.5	C maj	Milkina	1970	0:53	53	Unterschrift/EMI	9099-09	-
+7.5	C maj	Mohovich	1999	0:48	48	Agora AG 231.2	9104-09	-
+7.5	C maj	Niedzielski	1931	0:32	32	HMV C-2008/10	610001-02	-
+7.5	C maj	Ohlsson	1999	0:34	34	Arabesque Z6730-2	9153-09	-
+7.5	C maj	Olejniczac	1990	0:37	37	Na&iuml;ve OP20002	9100b-05	-
+7.5	C maj	Osinska	1989	0:40	40	Cassiopee 969 213/6	9101-09	-
+7.5	C maj	Poblocka	1999	0:41	41	BeArTon CDB012/13	9093-05	-
+7.5	C maj	Rangell	2001	0:42	42	Dorian DOR-93258	9094-09	-
+7.5	C maj	Rubinstein	1939	0:37	37	Naxos 8.110656-57	9049-09	-
+7.5	C maj	Rubinstein	1952	0:31	31	BMG 09026 63027-2	9075-09	-
+7.5	C maj	Rubinstein	1966	0:35	35	BMG 09026-63050-2	9059-09	-
+7.5	C maj	Shebanova	2002	0:43	43	DUX 0350/0351	9072-09	-
+7.5	C maj	Smith	1975	3:19	199	EMI 724358576726	9054-09	-
+7.5	C maj	Sztompka	1959	0:38	38	Muza PNOD 313 A/B	9170-05	-
+7.5	C maj	Uninsky	1971	0:41	41	Philips 442 574-2	9061-09	-
+7.5	C maj	Vardi	1988	0:34	34	Carriere Classics 21.0017	9173-14	-
+7.5	C maj	Wasowski	1980	0:34	34	Concord CCD-42036	9111-09	-
+17.1	B maj	Andsnes	1990	2:23	143	Virgin Classics VMD 61317	917803b-05	-
+17.1	B maj	Ashkenazy	1981	1:57	117	Decca 448 086-2	9058-10	-
+17.1	B maj	Bacha	1998	1:54	114	Forlane 126817	9166d-17	-
+17.1	B maj	Barbosa	1983	2:08	128	Centaur CRC2098/9	9174-10	-
+17.1	B maj	Biret	1990	2:54	174	Naxos 8.550359	9062-10	-
+17.1	B maj	Blechacz	2005	2:26	146	DUX KCh15-15	9077-08	-
+17.1	B maj	Blet	2003	2:24	144	Marcal MA030501	9103-05	-
+17.1	B maj	Brailowsky	1960	2:10	130	Sony SB2K 63237	9060-10	-
+17.1	B maj	Brunhoff	1963	2:20	140	EMI 724358524925	9167-10	-
+17.1	B maj	Chiu	1999	2:31	151	HMX 2907352.53	9048-10	-
+17.1	B maj	Clidat	1994	2:02	122	Forlane UCD16729 	9067-10	-
+17.1	B maj	Cohen	1997	2:36	156	Glossa 920506 	9105-10	-
+17.1	B maj	Cortot	1951	2:32	152	Concert Artist 9180/12 	9066-10	-
+17.1	B maj	Csalog	1996	2:12	132	Hungaroton HCD 31755/6	1263-10	-
+17.1	B maj	Czerny-Stefanska	1989	2:43	163	Pony Canyon Classics PCCL-00460	9192-10	-
+17.1	B maj	Ezaki	2006	2:30	150	Triton OVCT-00035	9139-10	-
+17.1	B maj	Farrell	1958	2:32	152	EMI Phoenixa CDM 7 64136 2	918805-03	-
+17.1	B maj	Fliere	1977	2:23	143	Melodia 10 00439	9063-10	-
+17.1	B maj	Fou	1978	2:14	134	Sony SB2K 53 246	9071-17	-
+17.1	B maj	Francois	1956	1:45	105	EMI CZS 7 67413 2	9070-18	-
+17.1	B maj	Hatto	1993	2:26	146	Con. Artist FED4-TC-0116/7	610003-12	-
+17.1	B maj	Hatto	2006	2:02	122	Con. Artist 9270/12	9073-12	-
+17.1	B maj	Indjic	1988	2:02	122	Calliope 3321	9050-10	-
+17.1	B maj	Kushner	1990	2:38	158	Connoisseur CD4181/2	9118-10	-
+17.1	B maj	Lilamand	2001	1:42	102	Concerto Royale 206220-3600	9186c-10	-
+17.1	B maj	Luisada	1990	2:26	146	DG 463054-2	9055-10	-
+17.1	B maj	Lushtak	2004	2:19	139	Centaur CRC 2707	9088-05	-
+17.1	B maj	Magaloff	1977	2:02	122	Phillips 426 817/29-2	9074f-10	-
+17.1	B maj	Magaloff	1977	2:16	136	Philips 456 898-2	5667267b-07	-
+17.1	B maj	Magin	1975	2:12	132	Accord 465 665-2	9138-10	-
+17.1	B maj	Meguri	1997	1:58	118	Live Notes WWCC-7313	9137-06	-
+17.1	B maj	Milkina	1970	2:27	147	Unterschrift/EMI	9099-10	-
+17.1	B maj	Mohovich	1999	2:26	146	Agora AG 231.2	9104-10	-
+17.1	B maj	Niedzielski	1931	1:38	98	HMV C-2008/10	610001-07	-
+17.1	B maj	Ohlsson	1999	2:12	132	Arabesque Z6730-2	9153-10	-
+17.1	B maj	Olejniczac	1990	2:24	144	Na&iuml;ve OP20002	9100b-14	-
+17.1	B maj	Olejniczak	1991	2:10	130	Selene CD-s 9102	9087-04	-
+17.1	B maj	Osinska	1989	2:22	142	Cassiopee 969 213/6	9101-10	-
+17.1	B maj	Poblocka	1999	1:41	101	BeArTon CDB012/13	9093-10	-
+17.1	B maj	Rangell	2001	2:12	132	Dorian DOR-93258	9094-10	-
+17.1	B maj	Rubinstein	1939	2:15	135	Naxos 8.110656-57	9049-10	-
+17.1	B maj	Rubinstein	1952	1:46	106	BMG 09026 63027-2	9075-10	-
+17.1	B maj	Rubinstein	1966	2:28	148	BMG 09026-63050-2	9059-10	-
+17.1	B maj	Shebanova	2002	2:24	144	DUX 0350/0351	9072-10	-
+17.1	B maj	Simon	1991	2:16	136	Supraphon 11-1545-2	917807-05	-
+17.1	B maj	Smith	1975	2:07	127	EMI 724358576726	9054-10	-
+17.1	B maj	Sofronitsky	1949	1:59	119	Vista Vera VVCD-00118-2	9114-29	-
+17.1	B maj	Sztompka	1959	2:16	136	Muza PNOD 313 A/B	9170-10	-
+17.1	B maj	Uninsky	1959	2:10	130	Philips 442 574-2	9061-10	-
+17.1	B maj	Vardi	1988	2:42	162	Carriere Classics 21.0017	9173-15	-
+17.1	B maj	Wasowski	1980	2:43	163	Concord CCD-42036	9111-10	-
+17.2	E min	Afanassiev	2001	2:58	178	Denon COCQ-84063	9130-07	-
+17.2	E min	Andsnes	1990	1:55	115	Virgin Classics VMD 61317	917803b-06	-
+17.2	E min	Ashkenazy	1981	1:57	117	Decca 448 086-2	9058-11	-
+17.2	E min	Bacha	1998	2:03	123	Forlane 126817	9166d-18	-
+17.2	E min	Barbosa	1983	2:08	128	Centaur CRC2098/9	9174-11	-
+17.2	E min	Biret	1990	2:29	149	Naxos 8.550359	9062-11	-
+17.2	E min	Blet	2003	2:15	135	Marcal MA030501	9103-06	-
+17.2	E min	Brailowsky	1960	1:59	119	Sony SB2K 63237	9060-11	-
+17.2	E min	Brunhoff	1963	1:49	109	EMI 724358524925	9167-11	-
+17.2	E min	Chiu	1999	2:09	129	HMX 2907352.53	9048-11	xprecor
+17.2	E min	Clidat	1994	1:56	116	Forlane UCD16729 	9067-11	-
+17.2	E min	Cohen	1997	2:07	127	Glossa 920506 	9105-11	-
+17.2	E min	Cortot	1951	2:07	127	Concert Artist 9180/12 	9066-11	-
+17.2	E min	Csalog	1996	2:18	138	Hungaroton HCD 31755/6	1263-11	-
+17.2	E min	Czerny-Stefanska	1989	1:55	115	Pony Canyon Classics PCCL-00460	9192-11	-
+17.2	E min	Ezaki	2006	2:08	128	Triton OVCT-00035	9139-11	-
+17.2	E min	Falvay	1989	1:53	113	Naxos 8.550256 	9068-06	-
+17.2	E min	Fiorentino	1961	2:25	145	Con. Artist 9200-2 	9065-07	-
+17.2	E min	Fliere	1977	2:09	129	Melodia 10 00439	9063-11	-
+17.2	E min	Fou	1978	1:41	101	Sony SB2K 53 246	9071-18	-
+17.2	E min	Fou	2005	2:02	122	NIFC CD001	9092-14	-
+17.2	E min	Francois	1956	1:53	113	EMI CZS 7 67413 2	9070-19	-
+17.2	E min	Hatto	1993	2:07	127	Con. Artist FED4-TC-0116/7	610003-13	-
+17.2	E min	Hatto	2006	2:08	128	Con. Artist 9270/12	9073-13	-
+17.2	E min	Indjic	1988	2:08	128	Calliope 3321	9050-11	xprecor
+17.2	E min	Kapell	1951	1:51	111	RCA 09026-68990-2	9090-04	-
+17.2	E min	Kushner	1990	2:10	130	Connoisseur CD4181/2	9118-11	-
+17.2	E min	Lilamand	2001	2:07	127	Concerto Royale 206220-3600	9186c-11	-
+17.2	E min	Luisada	1990	1:48	108	DG 463054-2	9055-11	xprecor
+17.2	E min	Lushtak	2004	2:18	138	Centaur CRC 2707	9088-06	-
+17.2	E min	Magaloff	1977	1:56	116	Philips 456 898-2	5667267b-08	xprecor
+17.2	E min	Magaloff	1977	2:08	128	Phillips 426 817/29-2	9074f-11	-
+17.2	E min	Magin	1975	1:56	116	Accord 465 665-2	9138-11	-
+17.2	E min	Meguri	1997	1:53	113	Live Notes WWCC-7313	9137-07	-
+17.2	E min	Milkina	1970	2:07	127	Unterschrift/EMI	9099-11	-
+17.2	E min	Mohovich	1999	1:58	118	Agora AG 231.2	9104-11	-
+17.2	E min	Ohlsson	1999	2:08	128	Arabesque Z6730-2	9153-11	-
+17.2	E min	Olejniczac	1990	2:14	134	Na&iuml;ve OP20002	9100b-15	-
+17.2	E min	Olejniczak	1991	2:07	127	Selene CD-s 9102	9087-05	-
+17.2	E min	Osinska	1989	2:11	131	Cassiopee 969 213/6	9101-11	-
+17.2	E min	Poblocka	1999	1:44	104	BeArTon CDB012/13	9093-11	-
+17.2	E min	Rangell	2001	1:58	118	Dorian DOR-93258	9094-11	-
+17.2	E min	Rubinstein	1939	2:04	124	Naxos 8.110656-57	9049-11	xprecor
+17.2	E min	Rubinstein	1952	1:47	107	BMG 09026 63027-2	9075-11	-
+17.2	E min	Rubinstein	1966	1:58	118	BMG 09026-63050-2	9059-11	-
+17.2	E min	Schilhawsky	1960	1:57	117	Accord 476 9011	9129-15	-
+17.2	E min	Shebanova	2002	2:01	121	DUX 0350/0351	9072-11	-
+17.2	E min	Simon	1991	2:04	124	Supraphon 11-1545-2	917807-06	-
+17.2	E min	Smith	1975	1:03	63	EMI 724358576726	9054-11	xprecor
+17.2	E min	Sztompka	1959	1:52	112	Muza PNOD 313 A/B	9170-11	-
+17.2	E min	Uninsky	1971	1:45	105	Philips 442 574-2	9061-11	-
+17.2	E min	Vardi	1988	1:59	119	Carriere Classics 21.0017	9173-16	-
+17.2	E min	Wasowski	1980	2:35	155	Concord CCD-42036	9111-11	-
+17.2	E min	Zak	1951	2:05	125	Muza PNCD 001	918713-17	-
+17.3	A maj	Andsnes	1990	4:18	258	Virgin Classics VMD 61317	917803b-07	-
+17.3	A maj	Ashkenazy	1981	4:04	244	Decca 448 086-2	9058-12	-
+17.3	A maj	Bacha	1998	4:38	278	Forlane 126817	9166d-19	-
+17.3	A maj	Barbosa	1983	4:33	273	Centaur CRC2098/9	9174-12	-
+17.3	A maj	Biret	1990	6:04	364	Naxos 8.550359	9062-12	-
+17.3	A maj	Brailowsky	1960	4:11	251	Sony SB2K 63237	9060-12	-
+17.3	A maj	Brunhoff	1963	2:39	159	EMI 724358524925	9167-12	-
+17.3	A maj	Chiu	1999	4:37	277	HMX 2907352.53	9048-12	-
+17.3	A maj	Clidat	1994	3:48	228	Forlane UCD16729 	9067-12	-
+17.3	A maj	Cohen	1997	6:28	388	Glossa 920506 	9105-12	-
+17.3	A maj	Cortot	1951	5:20	320	Concert Artist 9180/12 	9066-12	-
+17.3	A maj	Csalog	1996	5:23	323	Hungaroton HCD 31755/6	1263-12	-
+17.3	A maj	Czerny-Stefanska	1989	5:08	308	Pony Canyon Classics PCCL-00460	9192-12	-
+17.3	A maj	Ezaki	2006	4:50	290	Triton OVCT-00035	9139-12	-
+17.3	A maj	Falvay	1989	4:17	257	Naxos 8.550256 	9068-07	-
+17.3	A maj	Ferenczy	1958	4:30	270	Hungaroton HCD 32121	9097-14	-
+17.3	A maj	Fliere	1977	4:45	285	Melodia 10 00439	9063-12	-
+17.3	A maj	Fou	1978	4:08	248	Sony SB2K 53 246	9071-19	-
+17.3	A maj	Fou	2005	4:20	260	NIFC CD001	9092-06	-
+17.3	A maj	Francois	1956	3:31	211	EMI CZS 7 67413 2	9070-20	-
+17.3	A maj	Hatto	1993	3:34	214	Con. Artist FED4-TC-0116/7	610003-14	-
+17.3	A maj	Hatto	2006	3:34	214	Con. Artist 9270/12	9073-14	-
+17.3	A maj	Indjic	1988	3:34	214	Calliope 3321	9050-12	-
+17.3	A maj	Kapell	1951	4:32	272	RCA 09026-68990-2	9090-05	-
+17.3	A maj	Kushner	1990	4:38	278	Connoisseur CD4181/2	9118-12	-
+17.3	A maj	Lilamand	2001	3:40	220	Concerto Royale 206220-3600	9186c-12	-
+17.3	A maj	Luisada	1990	4:49	289	DG 463054-2	9055-12	-
+17.3	A maj	Lushtak	2004	4:58	298	Centaur CRC 2707	9088-07	-
+17.3	A maj	Magaloff	1977	3:24	204	Philips 456 898-2	5667267b-09	-
+17.3	A maj	Magaloff	1977	3:34	214	Phillips 426 817/29-2	9074f-12	-
+17.3	A maj	Magin	1975	3:46	226	Accord 465 665-2	9138-12	-
+17.3	A maj	Meguri	1997	5:02	302	Live Notes WWCC-7313	9137-08	-
+17.3	A maj	Milkina	1970	3:48	228	Unterschrift/EMI	9099-12	-
+17.3	A maj	Mohovich	1999	5:26	326	Agora AG 231.2	9104-12	-
+17.3	A maj	Ohlsson	1999	4:20	260	Arabesque Z6730-2	9153-12	-
+17.3	A maj	Olejniczac	1990	4:46	286	Na&iuml;ve OP20002	9100b-16	-
+17.3	A maj	Olejniczak	1991	4:40	280	Selene CD-s 9102	9087-06	-
+17.3	A maj	Osinska	1989	4:59	299	Cassiopee 969 213/6	9101-12	-
+17.3	A maj	Poblocka	1999	4:06	246	BeArTon CDB012/13	9093-12	-
+17.3	A maj	Rangell	2001	4:04	244	Dorian DOR-93258	9094-12	-
+17.3	A maj	Rubinstein	1939	4:09	249	Naxos 8.110656-57	9049-12	-
+17.3	A maj	Rubinstein	1952	4:17	257	BMG 09026 63027-2	9075-12	-
+17.3	A maj	Rubinstein	1966	4:20	260	BMG 09026-63050-2	9059-12	-
+17.3	A maj	Shebanova	2002	4:45	285	DUX 0350/0351	9072-12	-
+17.3	A maj	Simon	1991	4:36	276	Supraphon 11-1545-2	917807-07	-
+17.3	A maj	Smith	1975	1:55	115	EMI 724358576726	9054-12	-
+17.3	A maj	Sztompka	1959	4:17	257	Muza PNOD 313 A/B	9170-12	-
+17.3	A maj	Uninsky	1971	2:59	179	Philips 442 574-2	9061-12	-
+17.3	A maj	Vardi	1988	5:08	308	Carriere Classics 21.0017	9173-17	-
+17.3	A maj	Wasowski	1980	4:09	249	Concord CCD-42036	9111-12	-
+17.4	A min	Afanassiev	2001	6:44	404	Denon COCQ-84063	9130-01	precor
+17.4	A min	Andsnes	1990	4:19	259	Virgin Classics VMD 61317	917803b-08	-
+17.4	A min	Ashkenazy	1981	4:13	253	Decca 448 086-2	9058-13	precor
+17.4	A min	Bacha	1998	4:09	249	Forlane 126817	9166d-20	-
+17.4	A min	Barbosa	1983	4:02	242	Centaur CRC2098/9	9174-13	-
+17.4	A min	Beliavsky	2004	3:56	236	Sonata Bop SB004	9152-13	precor
+17.4	A min	Ben-Or	1989	3:52	232	Meridian CDE 84186	9161-12	precor
+17.4	A min	Biret	1990	4:33	273	Naxos 8.550359	9062-13	precor
+17.4	A min	Blet	2003	4:10	250	Marcal MA030501	9103-07	precor
+17.4	A min	Block	1995	5:18	318	ProPiano PPR224507 	9064-04	precor
+17.4	A min	Brailowsky	1960	4:07	247	Sony SB2K 63237	9060-13	precor
+17.4	A min	Brunhoff	1963	4:14	254	EMI 724358524925	9167-13	-
+17.4	A min	Casadesus	1930	3:39	219	Pearl GEM 0068	9180-05	-
+17.4	A min	Chiu	1999	4:36	276	HMX 2907352.53	9048-13	precor
+17.4	A min	Clidat	1994	3:55	235	Forlane UCD16729 	9067-13	precor
+17.4	A min	Cohen	1997	3:14	194	Glossa 920506 	9105-13	precor
+17.4	A min	Coop	1987	4:19	259	CBC Records MVCD1015	9159-04	precor
+17.4	A min	Cortot	1951	5:01	301	Concert Artist 9180/12 	9066-13	precor
+17.4	A min	Csalog	1996	4:47	287	Hungaroton HCD 31755/6	1263-13	-
+17.4	A min	Czerny-Stefanska	1949	3:49	229	Muza PNCD006	9085-15	precor
+17.4	A min	Czerny-Stefanska	1949	3:59	239	Muza PNCD002	9086-07	precor
+17.4	A min	Czerny-Stefanska	1989	3:51	231	Pony Canyon Classics PCCL-00460	9192-13	-
+17.4	A min	Ezaki	2006	4:29	269	Triton OVCT-00035	9139-13	precor
+17.4	A min	Falvay	1989	4:03	243	Naxos 8.550256 	9068-08	precor
+17.4	A min	Ferenczy	1958	5:07	307	Hungaroton HCD 32121	9097-17	precor
+17.4	A min	Fiorentino	1990	4:27	267	Con. Artist 9200-2 	9065-08	precor
+17.4	A min	Fliere	1977	4:34	274	Melodia 10 00439	9063-13	precor
+17.4	A min	Fou	1978	4:02	242	Sony SB2K 53 246	9071-20	precor
+17.4	A min	Francois	1956	4:08	248	EMI CZS 7 67413 2	9070-21	precor
+17.4	A min	Gieseking	1938	4:29	269	Pearl GEMM 9011	917802-08	-
+17.4	A min	Ginzburg	1957	3:34	214	Vox Aeterna VACD 00106	9156-10	precor
+17.4	A min	Goldmann	1997	3:56	236	Cavalier CAVCD 010	917811-09	-
+17.4	A min	Guller	1956	4:10	250	Parnassus Dis PCCD 20291	9176-06	-
+17.4	A min	Hatto	1993	4:46	286	Con. Artist FED4-TC-0116/7	610003-15	-
+17.4	A min	Hatto	2006	4:47	287	Con. Artist 9270/12	9073-15	precor
+17.4	A min	Horowitz	1971	4:03	243	S3K 93039 Legacy 	59340c-06	precor
+17.4	A min	Horowitz	1985	4:00	240	DG 419 045-2	50534-05	precor
+17.4	A min	Indjic	1988	4:48	288	Calliope 3321	9050-13	precor
+17.4	A min	Kapell	1951	4:20	260	RCA 09026-68990-2	9090-06	precor
+17.4	A min	Kiepura	1999	4:08	248	Patria KIE2000	9098-20	precor
+17.4	A min	Kilenyi	1937	3:59	239	Appian APR 7037	9164-13	precor
+17.4	A min	Kissin	1993	4:55	295	RCA 09026 62542 2	9056-15	precor
+17.4	A min	Kitain	1937	3:35	215	Appian APR 7029	9163-02	precor
+17.4	A min	Kushner	1990	4:33	273	Connoisseur CD4181/2	9118-13	precor
+17.4	A min	Levy	1951	3:38	218	TAHRA TAH 556/8	915406-13	precor
+17.4	A min	Lear	1994	4:34	274	Appian APR 5555	9181-07	-
+17.4	A min	Lefebure	1950	3:34	214	Naxos 8.558107-10	917801b-18	-
+17.4	A min	Lilamand	2001	5:07	307	Concerto Royale 206220-3600	9186c-13	-
+17.4	A min	Luisada	1990	4:00	240	DG 463054-2	9055-13	precor
+17.4	A min	Lushtak	2004	4:50	290	Centaur CRC 2707	9088-08	precor
+17.4	A min	Lympany	1968	3:49	229	Ivory Classics 72010	9160-02	precor
+17.4	A min	Lympany	1990	4:03	243	EMI CDZ 7 67204	918818-11	-
+17.4	A min	Magaloff	1977	4:05	245	Philips 456 898-2	5667267b-10	precor
+17.4	A min	Magaloff	1977	4:48	288	Phillips 426 817/29-2	9074f-13	precor
+17.4	A min	Magin	1975	4:11	251	Accord 465 665-2	9138-13	precor
+17.4	A min	Milkina	1970	4:20	260	Unterschrift/EMI	9099-13	precor
+17.4	A min	Mohovich	1999	4:57	297	Agora AG 231.2	9104-13	precor
+17.4	A min	Nadelmann	1956	3:52	232	Appian APR 7025	9165-04	precor
+17.4	A min	Ohlsson	1999	4:15	255	Arabesque Z6730-2	9153-13	precor
+17.4	A min	Olejniczac	1990	4:31	271	Na&iuml;ve OP20002	9100b-17	precor
+17.4	A min	Olejniczak	1991	4:06	246	Selene CD-s 9102	9087-07	precor
+17.4	A min	Osinska	1989	4:24	264	Cassiopee 969 213/6	9101-13	precor
+17.4	A min	P&ouml;ntinen	2003	3:53	233	BIS CD 1326	917812-05	-
+17.4	A min	Paderewski	1912	3:23	203	Philips 456 919-2	5667274-09	precor
+17.4	A min	Paderewski	1923	3:28	208	Pearl GEMM CD 9397	918901-10	-
+17.4	A min	Paderewski<sub><small><i>PR</i></small></sub>	1924	3:21	201	Aeolia 2002	9193-03	-
+17.4	A min	Perahia	1994	4:30	270	Sony 45931	54293-09	precor
+17.4	A min	Perlemuter	1986	4:08	248	Nimbus NI5393	9089-15	precor
+17.4	A min	Poblocka	1999	3:46	226	BeArTon CDB012/13	9093-13	precor
+17.4	A min	Rangell	2001	4:53	293	Dorian DOR-93258	9094-13	precor
+17.4	A min	Risler	1920	3:40	220	Symposium 1297	9132-11	precor
+17.4	A min	Rosen	1989	4:20	260	Globe 5028 	52932-06	precor
+17.4	A min	Rubinstein	1939	4:16	256	Naxos 8.110656-57	9049-13	precor
+17.4	A min	Rubinstein	1952	4:01	241	BMG 09026 63027-2	9075-13	precor
+17.4	A min	Rubinstein	1966	4:31	271	BMG 09026-63050-2	9059-13	precor
+17.4	A min	Rummel	1943	3:41	221	Dante HPC027	54851-12	precor
+17.4	A min	Shebanova	2002	4:31	271	DUX 0350/0351	9072-13	precor
+17.4	A min	Simon	1991	4:00	240	Supraphon 11-1545-2	917807-08	-
+17.4	A min	Smith	1975	2:15	135	EMI 724358576726	9054-13	precor
+17.4	A min	Szpilman	1948	3:42	222	Selene CD-s 9809.45	9147-12	precor
+17.4	A min	Sztompka	1959	4:06	246	Muza PNOD 313 A/B	9170-13	-
+17.4	A min	Tanyel	1992	4:31	271	Collins Classics 13302	917813-02	-
+17.4	A min	Uninsky	1971	4:06	246	Philips 442 574-2	9061-13	precor
+17.4	A min	Vardi	1988	4:45	285	Carriere Classics 21.0017	9173-18	-
+17.4	A min	Wasowski	1980	5:28	328	Concord CCD-42036	9111-13	precor
+17.4	A min	Weissenberg	1971	4:07	247	EMI 724357383028	9052b-09	precor
+17.4	A min	Zecchi	1942	3:50	230	Warner Fonit 5050466330628	915402b-08	-
+17.4	A min	Zecchi	1942	3:51	231	Cetra Ita. CB 20359	919405-06	-
+24.1	G min	Afanassiev	2001	4:52	292	Denon COCQ-84063	9130-06	-
+24.1	G min	Ashkenazy	1981	2:48	168	Decca 448 086-2	9058-14	-
+24.1	G min	Bacha	1998	2:49	169	Forlane 126817	9166ee-07	-
+24.1	G min	Barbosa	1983	3:15	195	Centaur CRC2098/9	9174-14	-
+24.1	G min	Biret	1990	3:06	186	Naxos 8.550359	9062-14	-
+24.1	G min	Blet	2003	3:08	188	Marcal MA030501	9103-08	-
+24.1	G min	Block	1995	2:39	159	ProPiano PPR224507 	9064-09	-
+24.1	G min	Brailowsky	1960	2:04	124	Sony SB2K 63237	9060-14	-
+24.1	G min	Chiu	1999	2:49	169	HMX 2907352.53	9048-14	-
+24.1	G min	Clidat	1994	2:30	150	Forlane UCD16729 	9067-14	-
+24.1	G min	Cohen	1997	3:08	188	Glossa 920506 	9105-14	-
+24.1	G min	Cortot	1951	2:50	170	Concert Artist 9180/12 	9066-14	-
+24.1	G min	Cortot	1957	1:23	83	Sony Classical S3K89698	9107c-07	-
+24.1	G min	Csalog	1996	2:55	175	Hungaroton HCD 31755/6	1263-14	-
+24.1	G min	Czerny-Stefanska	1989	2:28	148	Pony Canyon Classics PCCL-00460	9192-14	-
+24.1	G min	Ezaki	2006	2:57	177	Triton OVCT-00035	9139-14	-
+24.1	G min	Falvay	1989	2:44	164	Naxos 8.550256 	9068-09	-
+24.1	G min	Ferenczy	1958	3:15	195	Hungaroton HCD 32121	9097-16	-
+24.1	G min	Fiorentino	1961	3:06	186	Con. Artist 9200-2 	9065-09	-
+24.1	G min	Fliere	1977	3:01	181	Melodia 10 00439	9063-14	-
+24.1	G min	Fou	1978	3:04	184	Sony SB2K 53 246	9071-25	-
+24.1	G min	Fou	2005	2:59	179	NIFC CD001	9092-10	-
+24.1	G min	Francois	1956	1:41	101	EMI CZS 7 67413 2	9070-22	-
+24.1	G min	Gornostaeva	1994	1:54	114	Vista Vera VVCD-00064	9116-17	-
+24.1	G min	Hatto	1993	3:09	189	Con. Artist FED4-TC-0116/7	610003-16	-
+24.1	G min	Hatto	2006	3:12	192	Con. Artist 9270/12	9073-16	-
+24.1	G min	Indjic	1988	3:12	192	Calliope 3321	9050-14	-
+24.1	G min	Janis	1995	3:04	184	EMI56196	9185-01	-
+24.1	G min	Kapell	1951	2:37	157	RCA 09026-68990-2	9090-07	-
+24.1	G min	Katin	1996	2:54	174	Diversions 24116	9126-02	-
+24.1	G min	Kiepura	1999	2:47	167	Patria KIE2000	9098-01	-
+24.1	G min	Korecka-Soszkowska	1992	2:53	173	DUX 0207	9128-10	-
+24.1	G min	Kushner	1990	2:53	173	Connoisseur CD4181/2	9118-14	-
+24.1	G min	Lilamand	2001	3:44	224	Concerto Royale 206220-3600	9186c-14	-
+24.1	G min	Luisada	1990	2:52	172	DG 463054-2	9055-14	-
+24.1	G min	Lushtak	2004	3:11	191	Centaur CRC 2707	9088-09	-
+24.1	G min	Magaloff	1977	3:12	192	Phillips 426 817/29-2	9074f-14	-
+24.1	G min	Magin	1975	2:20	140	Accord 465 665-2	9138-14	-
+24.1	G min	Milkina	1970	2:50	170	Unterschrift/EMI	9099-14	-
+24.1	G min	Mohovich	1999	2:58	178	Agora AG 231.2	9104-14	-
+24.1	G min	Nezu	2005	2:45	165	DUX KCh15-10	9081-02	-
+24.1	G min	Ohlsson	1999	2:50	170	Arabesque Z6730-2	9153-14	-
+24.1	G min	Olejniczac	1990	3:01	181	Na&iuml;ve OP20002	9100b-10	-
+24.1	G min	Osinska	1989	2:53	173	Cassiopee 969 213/6	9101-14	-
+24.1	G min	Poblocka	1999	2:47	167	BeArTon CDB012/13	9093-14	-
+24.1	G min	Rangell	2001	2:52	172	Dorian DOR-93258	9094-14	-
+24.1	G min	Richter	1961	2:43	163	BBC Legends BBCL 4021	918722-03	-
+24.1	G min	Romaniuk	1994	2:28	148	DUX 0246	9115-08	-
+24.1	G min	Rosen	1989	3:08	188	Globe 5028 	52932-07	-
+24.1	G min	Rubinstein	1939	2:03	123	Naxos 8.110656-57	9049-14	-
+24.1	G min	Rubinstein	1952	3:32	212	BMG 09026 63027-2	9075-14	-
+24.1	G min	Rubinstein	1966	2:48	168	BMG 09026-63050-2	9059-14	-
+24.1	G min	Shebanova	2002	2:57	177	DUX 0350/0351	9072-14	-
+24.1	G min	Smith	1975	3:45	225	EMI 724358576726	9054-14	-
+24.1	G min	Sztompka	1959	2:55	175	Muza PNOD 313 A/B	9170-14	-
+24.1	G min	Tsujii	2005	2:41	161	DUX KCh15-7	9078-06	-
+24.1	G min	Uninsky	1959	1:50	110	Philips 442 574-2	9061-14	-
+24.1	G min	Vardi	1988	2:52	172	Carriere Classics 21.0017	9173-19	-
+24.1	G min	Wasowski	1980	2:25	145	Concord CCD-42036	9111-14	-
+24.1	G min	Zimerman	1975	2:04	124	Muza CK 1025	6100021-10	-
+24.2	C maj	Ashkenazy	1981	2:03	123	Decca 448 086-2	9058-15	precor
+24.2	C maj	Ax	1985	1:58	118	RCA Red Seal 82876 72554 2	9179-07	-
+24.2	C maj	Bacha	1998	2:01	121	Forlane 126817	9166ee-08	-
+24.2	C maj	Barbosa	1983	2:11	131	Centaur CRC2098/9	9174-15	-
+24.2	C maj	Ben-Or	1989	2:16	136	Meridian CDE 84186	9161-13	-
+24.2	C maj	Biret	1990	2:13	133	Naxos 8.550359	9062-15	precor
+24.2	C maj	Brailowsky	1960	2:40	160	Sony SB2K 63237	9060-15	precor
+24.2	C maj	Chiu	1999	2:21	141	HMX 2907352.53	9048-15	precor
+24.2	C maj	Clidat	1994	2:12	132	Forlane UCD16729 	9067-15	precor
+24.2	C maj	Cohen	1997	1:51	111	Glossa 920506 	9105-15	-
+24.2	C maj	Cortot	1951	2:15	135	Concert Artist 9180/12 	9066-15	precor
+24.2	C maj	Cortot	1957	1:20	80	Sony Classical S3K89698	9107c-08	-
+24.2	C maj	Csalog	1996	1:57	117	Hungaroton HCD 31755/6	1263-15	-
+24.2	C maj	Czerny-Stefanska	1989	2:24	144	Pony Canyon Classics PCCL-00460	9192-15	-
+24.2	C maj	Ezaki	2006	2:02	122	Triton OVCT-00035	9139-15	-
+24.2	C maj	Falvay	1989	2:09	129	Naxos 8.550256 	9068-10	precor
+24.2	C maj	Fiorentino	1961	2:18	138	Con. Artist 9200-2 	9065-10	precor
+24.2	C maj	Fliere	1977	2:10	130	Melodia 10 00439	9063-15	precor
+24.2	C maj	Fou	1978	2:03	123	Sony SB2K 53 246	9071-26	precor
+24.2	C maj	Francois	1956	1:49	109	EMI CZS 7 67413 2	9070-23	precor
+24.2	C maj	Goldenweiser	1946	2:19	139	Dante HPC 103	917509-04	-
+24.2	C maj	Gornostaeva	1994	2:04	124	Vista Vera VVCD-00064	9116-06	-
+24.2	C maj	Hatto	1993	2:39	159	Con. Artist FED4-TC-0116/7	610003-17	-
+24.2	C maj	Hatto	2006	2:33	153	Con. Artist 9270/12	9073-17	precor
+24.2	C maj	Horszowski	1983	2:29	149	BBC BBCL 4203-2	9131-12	-
+24.2	C maj	Indjic	1988	2:37	157	Calliope 3321	9050-15	precor
+24.2	C maj	Katin	1996	2:13	133	Diversions 24116	9126-03	-
+24.2	C maj	Kiepura	1999	2:19	139	Patria KIE2000	9098-02	-
+24.2	C maj	Korecka-Soszkowska	1992	2:13	133	DUX 0207	9128-11	-
+24.2	C maj	Kushner	1990	2:09	129	Connoisseur CD4181/2	9118-15	-
+24.2	C maj	Lilamand	2001	2:23	143	Concerto Royale 206220-3600	9186c-15	-
+24.2	C maj	Luisada	1990	2:20	140	DG 463054-2	9055-15	precor
+24.2	C maj	Lushtak	2004	2:14	134	Centaur CRC 2707	9088-10	precor
+24.2	C maj	Malcuzynski	1951	2:43	163	Muza PNCD 300	9091-22	precor
+24.2	C maj	Malcuzynski	1961	2:33	153	EMI CZS 5 68226 2	918904-03	-
+24.2	C maj	Magaloff	1977	2:37	157	Phillips 426 817/29-2	9074f-15	precor
+24.2	C maj	Magin	1975	2:17	137	Accord 465 665-2	9138-15	-
+24.2	C maj	Meguri	1997	1:49	109	Live Notes WWCC-7313	9137-09	-
+24.2	C maj	Milkina	1970	2:19	139	Unterschrift/EMI	9099-15	-
+24.2	C maj	Mohovich	1999	2:08	128	Agora AG 231.2	9104-15	-
+24.2	C maj	Nezu	2005	2:19	139	DUX KCh15-10	9081-03	precor
+24.2	C maj	Ohlsson	1999	2:03	123	Arabesque Z6730-2	9153-15	-
+24.2	C maj	Olejniczac	1990	2:31	151	Na&iuml;ve OP20002	9100b-11	-
+24.2	C maj	Osinska	1989	2:13	133	Cassiopee 969 213/6	9101-15	-
+24.2	C maj	Perlemuter	1992	3:00	180	Nimbus NI5393	9089-08	precor
+24.2	C maj	Poblocka	1999	2:19	139	BeArTon CDB012/13	9093-15	precor
+24.2	C maj	Rangell	2001	2:10	130	Dorian DOR-93258	9094-15	precor
+24.2	C maj	Richter	1960	2:41	161	RCA 09026683442	915410b-22	-
+24.2	C maj	Richter	1961	2:19	139	BBC Legends BBCL 4021	918722-04	-
+24.2	C maj	Rosen	1989	2:00	120	Globe 5028 	52932-08	precor
+24.2	C maj	Rubinstein	1939	2:14	134	Naxos 8.110656-57	9049-15	precor
+24.2	C maj	Rubinstein	1952	2:00	120	BMG 09026 63027-2	9075-15	precor
+24.2	C maj	Rubinstein	1966	2:14	134	BMG 09026-63050-2	9059-15	precor
+24.2	C maj	Shebanova	2002	2:05	125	DUX 0350/0351	9072-15	precor
+24.2	C maj	Smith	1975	1:03	63	EMI 724358576726	9054-15	precor
+24.2	C maj	Sztompka	1959	2:18	138	Muza PNOD 313 A/B	9170-15	-
+24.2	C maj	Tanyel	1992	2:10	130	Collins Classics 13302	917813-03	-
+24.2	C maj	Tsujii	2005	2:17	137	DUX KCh15-7	9078-07	precor
+24.2	C maj	Uninsky	1959	2:09	129	Philips 442 574-2	9061-15	precor
+24.2	C maj	Vardi	1988	2:19	139	Carriere Classics 21.0017	9173-20	-
+24.2	C maj	Wasowski	1980	2:45	165	Concord CCD-42036	9111-15	-
+24.2	C maj	Zimerman	1975	2:22	142	Muza CK 1025	6100021-11	-
+24.3	A maj	Ashkenazy	1981	1:55	115	Decca 448 086-2	9058-16	-
+24.3	A maj	Bacha	1998	2:11	131	Forlane 126817	9166ee-09	-
+24.3	A maj	Barbosa	1983	2:04	124	Centaur CRC2098/9	9174-16	-
+24.3	A maj	Biret	1990	2:34	154	Naxos 8.550359	9062-16	-
+24.3	A maj	Brailowsky	1960	1:37	97	Sony SB2K 63237	9060-16	-
+24.3	A maj	Chiu	1999	2:10	130	HMX 2907352.53	9048-16	-
+24.3	A maj	Clidat	1994	1:38	98	Forlane UCD16729 	9067-16	-
+24.3	A maj	Cohen	1997	2:42	162	Glossa 920506 	9105-16	-
+24.3	A maj	Cortot	1951	2:14	134	Concert Artist 9180/12 	9066-16	-
+24.3	A maj	Csalog	1996	2:06	126	Hungaroton HCD 31755/6	1263-16	-
+24.3	A maj	Czerny-Stefanska	1989	2:12	132	Pony Canyon Classics PCCL-00460	9192-16	-
+24.3	A maj	Ezaki	2006	1:56	116	Triton OVCT-00035	9139-16	-
+24.3	A maj	Ferenczy	1957	2:30	150	Hungaroton HCD 32121	9097-07	-
+24.3	A maj	Fiorentino	1961	2:35	155	Con. Artist 9200-2 	9065-11	-
+24.3	A maj	Fliere	1977	2:18	138	Melodia 10 00439	9063-16	-
+24.3	A maj	Fou	1978	2:03	123	Sony SB2K 53 246	9071-27	-
+24.3	A maj	Fou	2005	2:06	126	NIFC CD001	9092-03	-
+24.3	A maj	Francois	1956	1:03	63	EMI CZS 7 67413 2	9070-24	-
+24.3	A maj	Hatto	1993	1:44	104	Con. Artist FED4-TC-0116/7	610003-18	-
+24.3	A maj	Hatto	2006	1:43	103	Con. Artist 9270/12	9073-18	-
+24.3	A maj	Indjic	1988	1:46	106	Calliope 3321	9050-16	-
+24.3	A maj	Jonas	1947	1:49	109	PERL GEM 0077	9096-01	-
+24.3	A maj	Kapell	1951	1:28	88	RCA 09026-68990-2	9090-08	-
+24.3	A maj	Katin	1996	2:41	161	Diversions 24116	9126-04	-
+24.3	A maj	Korecka-Soszkowska	1992	2:09	129	DUX 0207	9128-12	-
+24.3	A maj	Kushner	1990	2:15	135	Connoisseur CD4181/2	9118-16	-
+24.3	A maj	Lilamand	2001	2:08	128	Concerto Royale 206220-3600	9186c-16	-
+24.3	A maj	Luisada	1990	2:05	125	DG 463054-2	9055-16	-
+24.3	A maj	Lushtak	2004	1:47	107	Centaur CRC 2707	9088-11	-
+24.3	A maj	Magaloff	1977	1:46	106	Phillips 426 817/29-2	9074f-16	-
+24.3	A maj	Magin	1975	1:55	115	Accord 465 665-2	9138-16	-
+24.3	A maj	Milkina	1970	2:17	137	Unterschrift/EMI	9099-16	-
+24.3	A maj	Mohovich	1999	2:22	142	Agora AG 231.2	9104-16	-
+24.3	A maj	Nezu	2005	1:52	112	DUX KCh15-10	9081-04	-
+24.3	A maj	Ohlsson	1999	2:11	131	Arabesque Z6730-2	9153-16	-
+24.3	A maj	Olejniczac	1990	2:09	129	Na&iuml;ve OP20002	9100b-12	-
+24.3	A maj	Osinska	1989	2:15	135	Cassiopee 969 213/6	9101-16	-
+24.3	A maj	Poblocka	1999	1:51	111	BeArTon CDB012/13	9093-16	-
+24.3	A maj	Rangell	2001	2:24	144	Dorian DOR-93258	9094-16	-
+24.3	A maj	Richter	1961	2:33	153	BBC Legends BBCL 4021	918722-05	-
+24.3	A maj	Rosen	1989	2:29	149	Globe 5028 	52932-09	-
+24.3	A maj	Rosenthal	1937	1:30	90	Membran 222913-321	9057j-01	-
+24.3	A maj	Rosenthal	1937	1:30	90	Appian CDAPR 7002	9184b-11	-
+24.3	A maj	Rubinstein	1939	2:01	121	Naxos 8.110656-57	9049-16	-
+24.3	A maj	Rubinstein	1952	2:03	123	BMG 09026 63027-2	9075-16	-
+24.3	A maj	Rubinstein	1966	2:07	127	BMG 09026-63050-2	9059-16	-
+24.3	A maj	Shebanova	2002	2:13	133	DUX 0350/0351	9072-16	-
+24.3	A maj	Smith	1975	1:56	116	EMI 724358576726	9054-16	-
+24.3	A maj	Sztompka	1959	2:17	137	Muza PNOD 313 A/B	9170-16	-
+24.3	A maj	Tsujii	2005	2:01	121	DUX KCh15-7	9078-08	-
+24.3	A maj	Uninsky	1971	2:13	133	Philips 442 574-2	9061-16	-
+24.3	A maj	Vardi	1988	2:00	120	Carriere Classics 21.0017	9173-21	-
+24.3	A maj	Wasowski	1980	1:29	89	Concord CCD-42036	9111-16	-
+24.4	B min	Afanassiev	2001	5:47	347	Denon COCQ-84063	9130-02	-
+24.4	B min	Ashkenazy	1981	4:31	271	Decca 448 086-2	9058-17	-
+24.4	B min	Bacha	1998	4:41	281	Forlane 126817	9166ee-10	-
+24.4	B min	Backhaus	1950	4:00	240	Testament SBT1335	918919-19	-
+24.4	B min	Backhaus	1953	3:56	236	Archipel Records ARPCD 0333	9162-06	-
+24.4	B min	Barbosa	1983	4:30	270	Centaur CRC2098/9	9174-17	-
+24.4	B min	Biret	1990	5:33	333	Naxos 8.550359	9062-17	-
+24.4	B min	Blet	2003	5:45	345	Marcal MA030501	9103-09	-
+24.4	B min	Block	1995	4:06	246	ProPiano PPR224507 	9064-10	-
+24.4	B min	Brailowsky	1960	4:42	282	Sony SB2K 63237	9060-17	-
+24.4	B min	Chiu	1999	5:06	306	HMX 2907352.53	9048-17	-
+24.4	B min	Clidat	1994	4:11	251	Forlane UCD16729 	9067-17	-
+24.4	B min	Cohen	1997	5:44	344	Glossa 920506 	9105-17	-
+24.4	B min	Cortot	1951	5:22	322	Concert Artist 9180/12 	9066-17	-
+24.4	B min	Cortot	1957	2:08	128	Sony Classical S3K89698	9107c-09	-
+24.4	B min	Csalog	1996	5:24	324	Hungaroton HCD 31755/6	1263-17	-
+24.4	B min	Czerny-Stefanska	1989	4:22	262	Pony Canyon Classics PCCL-00460	9192-17	-
+24.4	B min	Ezaki	2006	4:40	280	Triton OVCT-00035	9139-17	-
+24.4	B min	Falvay	1989	4:43	283	Naxos 8.550256 	9068-11	-
+24.4	B min	Ferenczy	1958	5:04	304	Hungaroton HCD 32121	9097-18	-
+24.4	B min	Fiorentino	1990	5:06	306	Con. Artist 9200-2 	9065-12	-
+24.4	B min	Fliere	1977	4:48	288	Melodia 10 00439	9063-17	-
+24.4	B min	Fou	1978	4:33	273	Sony SB2K 53 246	9071-28	-
+24.4	B min	Fou	2005	4:52	292	NIFC CD001	9092-07	-
+24.4	B min	Francois	1956	3:47	227	EMI CZS 7 67413 2	9070-25	-
+24.4	B min	Freire	1984	4:40	280	Philips 456 781-2 	5667229-07	-
+24.4	B min	Friedman	1930	3:41	221	Philips 456 784-2 	5667230-12	-
+24.4	B min	Friedman	1930	4:01	241	Naxos 8.111114	9125-12	-
+24.4	B min	Goldenweiser	1946	4:13	253	Dante HPC 103	917509-07	-
+24.4	B min	Gornostaeva	1994	4:25	265	Vista Vera VVCD-00064	9116-07	-
+24.4	B min	Hatto	1993	5:26	326	Con. Artist FED4-TC-0116/7	610003-19	-
+24.4	B min	Hatto	2006	5:24	324	Con. Artist 9270/12	9073-19	-
+24.4	B min	Horowitz	1951	4:34	274	Philips 456 842-2 	5667249-14	-
+24.4	B min	Horszowski	1991	4:20	260	Elektra-Nonesuch 7559-79264-2	918820-22	-
+24.4	B min	Indjic	1988	5:29	329	Calliope 3321	9050-17	-
+24.4	B min	Janis	1995	4:42	282	EMI56196	9185-09	-
+24.4	B min	Katin	1996	4:26	266	Diversions 24116	9126-05	-
+24.4	B min	Kissin	1993	5:17	317	RCA 09026 62542 2	9056-13	-
+24.4	B min	Korecka-Soszkowska	1992	4:37	277	DUX 0207	9128-13	-
+24.4	B min	Kushner	1990	4:46	286	Connoisseur CD4181/2	9118-17	-
+24.4	B min	Lilamand	2001	4:52	292	Concerto Royale 206220-3600	9186c-17	-
+24.4	B min	Luisada	1990	4:54	294	DG 463054-2	9055-17	-
+24.4	B min	Lushtak	2004	5:22	322	Centaur CRC 2707	9088-12	-
+24.4	B min	Malcuzynski	1961	4:56	296	EMI CZS 5 68226 2	918904-04	-
+24.4	B min	Magaloff	1977	5:29	329	Phillips 426 817/29-2	9074f-17	-
+24.4	B min	Magin	1975	4:53	293	Accord 465 665-2	9138-17	-
+24.4	B min	Meguri	1997	3:56	236	Live Notes WWCC-7313	9137-10	-
+24.4	B min	Milkina	1970	5:03	303	Unterschrift/EMI	9099-17	-
+24.4	B min	Mohovich	1999	5:01	301	Agora AG 231.2	9104-17	-
+24.4	B min	Nezu	2005	4:58	298	DUX KCh15-10	9081-05	-
+24.4	B min	Niedzielski	1931	3:28	208	HMV C-2008/10	610001-01	-
+24.4	B min	Ohlsson	1999	4:18	258	Arabesque Z6730-2	9153-17	-
+24.4	B min	Olejniczac	1990	5:14	314	Na&iuml;ve OP20002	9100b-13	-
+24.4	B min	Osinska	1989	5:06	306	Cassiopee 969 213/6	9101-17	-
+24.4	B min	Pachmann	1917	3:45	225	Membran 222913-321	9057h-10	-
+24.4	B min	Paderewski<sub><small><i>PR</i></small></sub>	1922	4:33	273	Aeolia 2002	9193-02	-
+24.4	B min	Poblocka	1999	4:48	288	BeArTon CDB012/13	9093-17	-
+24.4	B min	Rangell	2001	5:09	309	Dorian DOR-93258	9094-17	-
+24.4	B min	Richter	1961	4:38	278	BBC Legends BBCL 4021	918722-06	-
+24.4	B min	Rosen	1989	5:02	302	Globe 5028 	52932-10	-
+24.4	B min	Rosenthal	1929	3:49	229	Membran 222913-321	9057j-02	-
+24.4	B min	Rosenthal	1929	3:50	230	Biddulph LHW 040	9183-06	-
+24.4	B min	Rubinstein	1939	4:03	243	Naxos 8.110656-57	9049-17	-
+24.4	B min	Rubinstein	1952	5:29	329	BMG 09026 63027-2	9075-17	-
+24.4	B min	Rubinstein	1966	5:04	304	BMG 09026-63050-2	9059-17	-
+24.4	B min	Shebanova	2002	4:54	294	DUX 0350/0351	9072-17	-
+24.4	B min	Smith	1975	1:29	89	EMI 724358576726	9054-17	-
+24.4	B min	Sztompka	1959	5:08	308	Muza PNOD 313 A/B	9170-17	-
+24.4	B min	Tsujii	2005	4:52	292	DUX KCh15-7	9078-09	-
+24.4	B min	Turczynski	1947	4:24	264	Selene CD-s 0008.68	9145-05	-
+24.4	B min	Uninsky	1971	4:11	251	Philips 442 574-2	9061-17	-
+24.4	B min	Vardi	1988	5:21	321	Carriere Classics 21.0017	9173-22	-
+24.4	B min	Wasowski	1980	5:18	318	Concord CCD-42036	9111-17	-
+24.4	B min	Zimerman	1975	4:09	249	Muza CK 1025	6100021-12	-
+30.1	C min	Ashkenazy	1981	1:29	89	Decca 448 086-2	9058-18	-
+30.1	C min	Ashkenazy	1982	1:29	89	London 410 122-2	50848-02	-
+30.1	C min	Bacha	1999	1:41	101	Forlane 126817	9166f-15	-
+30.1	C min	Barbosa	1983	1:22	82	Centaur CRC2098/9	9174-18	-
+30.1	C min	Biret	1990	1:53	113	Naxos 8.550359	9062-18	-
+30.1	C min	Brailowsky	1960	1:34	94	Sony SB2K 63237	9060-18	-
+30.1	C min	Chiu	1999	1:52	112	HMX 2907352.53	9048-18	-
+30.1	C min	Clidat	1994	1:15	75	Forlane UCD16729 	9067-18	-
+30.1	C min	Cohen	1997	1:51	111	Glossa 920506 	9105b-01	-
+30.1	C min	Cortot	1951	1:47	107	Concert Artist 9180/12 	9066-18	-
+30.1	C min	Cortot	1957	1:31	91	Sony Classical S3K89698	9107c-10	-
+30.1	C min	Csalog	1996	1:27	87	Hungaroton HCD 31755/6	1263-18	-
+30.1	C min	Czerny-Stefanska	1989	1:41	101	Pony Canyon Classics PCCL-00460	9192-18	-
+30.1	C min	Ezaki	2006	1:48	108	Triton OVCT-00035	9139-18	-
+30.1	C min	Falvay	1989	1:33	93	Naxos 8.550256 	9068-12	-
+30.1	C min	Fiorentino	1961	1:21	81	Con. Artist 9200-2 	9065-13	-
+30.1	C min	Fliere	1977	1:43	103	Melodia 10 00439	9063-18	-
+30.1	C min	Fou	1978	1:21	81	Sony SB2K 53 246	9071-29	-
+30.1	C min	Fou	2005	1:34	94	NIFC CD001	9092-08	-
+30.1	C min	Francois	1956	1:24	84	EMI CZS 7 67413 2	9070b-01	-
+30.1	C min	Hatto	1993	1:45	105	Con. Artist FED4-TC-0116/7	610003-20	-
+30.1	C min	Hatto	2006	1:40	100	Con. Artist 9270/12	9073-20	-
+30.1	C min	Indjic	1988	1:40	100	Calliope 3321	9050-18	-
+30.1	C min	Jonas	1947	1:36	96	PERL GEM 0077	9096-04	-
+30.1	C min	Korecka-Soszkowska	1995	1:37	97	DUX 0238	9122-02	-
+30.1	C min	Kushner	1990	1:26	86	Connoisseur CD4181/2	9118-18	-
+30.1	C min	Lilamand	2001	1:45	105	Concerto Royale 206220-3600	9186c-18	-
+30.1	C min	Luisada	1990	1:37	97	DG 463054-2	9055-18	-
+30.1	C min	Lushtak	2004	1:44	104	Centaur CRC 2707	9088-13	-
+30.1	C min	Magaloff	1977	1:40	100	Phillips 426 817/29-2	9074f-18	-
+30.1	C min	Magin	1975	1:43	103	Accord 465 665-2	9138-18	-
+30.1	C min	Malikova	1999	1:26	86	Classical Records CR-053	9123-01	-
+30.1	C min	Milkina	1970	1:44	104	Unterschrift/EMI	9099-18	-
+30.1	C min	Mohovich	1999	1:47	107	Agora AG 231.2	9104-18	-
+30.1	C min	Ohlsson	1999	2:03	123	Arabesque Z6730-2	9153-18	-
+30.1	C min	Olejniczac	1990	1:53	113	Na&iuml;ve OP20002	9100b-18	-
+30.1	C min	Osinska	1989	1:41	101	Cassiopee 969 213/6	9101-18	-
+30.1	C min	Poblocka	1999	1:28	88	BeArTon CDB012/13	9093-18	-
+30.1	C min	Rangell	2001	1:49	109	Dorian DOR-93258	9094-18	-
+30.1	C min	Rubinstein	1939	1:35	95	Naxos 8.110656-57	9049-18	-
+30.1	C min	Rubinstein	1952	1:25	85	BMG 09026 63027-2	9075-18	-
+30.1	C min	Rubinstein	1966	1:37	97	BMG 09026-63050-2	9059-18	-
+30.1	C min	Shebanova	2002	1:44	104	DUX 0350/0351	9072-18	-
+30.1	C min	Smith	1975	2:40	160	EMI 724358576726	9054-18	-
+30.1	C min	Sztompka	1959	1:57	117	Muza PNOD 313 A/B	9170-18	-
+30.1	C min	Uninsky	1959	1:43	103	Philips 442 574-2	9061-18	-
+30.1	C min	Wasowski	1980	2:01	121	Concord CCD-42036	9111-18	-
+30.1	C min	Yaroshinskiy	2005	1:33	93	DUX KCh15-10	9081-09	-
+30.1	C min	Zak	1937	1:39	99	Muza PNCD006	9085-13	-
+30.2	B min	Ashkenazy	1981	1:06	66	Decca 448 086-2	9058-19	precor
+30.2	B min	Ashkenazy	1982	1:06	66	London 410 122-2	50848-03	precor
+30.2	B min	Bacha	1999	1:07	67	Forlane 126817	9166f-16	-
+30.2	B min	Barbosa	1983	1:19	79	Centaur CRC2098/9	9174-19	-
+30.2	B min	Biret	1990	1:26	86	Naxos 8.550359	9062-19	precor
+30.2	B min	Blet	2003	1:30	90	Marcal MA030501	9103-10	precor
+30.2	B min	Brailowsky	1960	1:13	73	Sony SB2K 63237	9060-19	precor
+30.2	B min	Bunin	1987	1:20	80	Olympia 501070	9124-11	-
+30.2	B min	Bunin	1987	1:24	84	DG 423 618-2	918812-11	-
+30.2	B min	Chiu	1999	1:31	91	HMX 2907352.53	9048-19	precor
+30.2	B min	Clidat	1994	1:27	87	Forlane UCD16729 	9067-19	precor
+30.2	B min	Cohen	1997	2:13	133	Glossa 920506 	9105b-02	-
+30.2	B min	Cortot	1951	1:28	88	Concert Artist 9180/12 	9066-19	precor
+30.2	B min	Cortot	1957	1:09	69	Sony Classical S3K89698	9107c-11	-
+30.2	B min	Csalog	1996	1:27	87	Hungaroton HCD 31755/6	1263-19	-
+30.2	B min	Czerny-Stefanska	1989	1:26	86	Pony Canyon Classics PCCL-00460	9192-19	-
+30.2	B min	Ezaki	2006	1:18	78	Triton OVCT-00035	9139-19	-
+30.2	B min	Ferenczy	1956	1:33	93	Hungaroton HCD 32121	9097-04	precor
+30.2	B min	Fiorentino	1961	1:11	71	Con. Artist 9200-2 	9065-14	precor
+30.2	B min	Fliere	1977	1:34	94	Melodia 10 00439	9063-19	precor
+30.2	B min	Fou	1978	1:20	80	Sony SB2K 53 246	9071-30	precor
+30.2	B min	Fou	2005	1:32	92	NIFC CD001	9092-13	precor
+30.2	B min	Francois	1956	1:11	71	EMI CZS 7 67413 2	9070b-02	precor
+30.2	B min	Goldenweiser	1946	1:11	71	Dante HPC 103	917509-05	-
+30.2	B min	Hatto	1993	1:31	91	Con. Artist FED4-TC-0116/7	610003-21	-
+30.2	B min	Hatto	2006	1:32	92	Con. Artist 9270/12	9073-21	precor
+30.2	B min	Horowitz	1945	1:48	108	Philips 456 842-2 	5667249-15	-
+30.2	B min	Indjic	1988	1:32	92	Calliope 3321	9050-19	precor
+30.2	B min	Jonas	1947	1:18	78	PERL GEM 0077	9096-07	precor
+30.2	B min	Korecka-Soszkowska	1995	1:23	83	DUX 0238	9122-03	-
+30.2	B min	Kushner	1990	1:23	83	Connoisseur CD4181/2	9118-19	-
+30.2	B min	Lilamand	2001	0:58	58	Concerto Royale 206220-3600	9186c-19	-
+30.2	B min	Luisada	1990	1:30	90	DG 463054-2	9055-19	precor
+30.2	B min	Lushtak	2004	1:24	84	Centaur CRC 2707	9088-14	precor
+30.2	B min	Magaloff	1977	1:32	92	Phillips 426 817/29-2	9074f-19	precor
+30.2	B min	Magin	1975	1:27	87	Accord 465 665-2	9138-19	-
+30.2	B min	Malikova	1999	1:13	73	Classical Records CR-053	9123-02	-
+30.2	B min	Meguri	1997	0:59	59	Live Notes WWCC-7313	9137-11	-
+30.2	B min	Michelangeli	1971	1:35	95	Philips 456 904-2	5667269b-38	precor
+30.2	B min	Milkina	1970	1:34	94	Unterschrift/EMI	9099-19	precor
+30.2	B min	Mohovich	1999	1:27	87	Agora AG 231.2	9104-19	precor
+30.2	B min	Niedzielski	1931	1:03	63	HMV C-2008/10	610001-12	-
+30.2	B min	Ohlsson	1999	1:09	69	Arabesque Z6730-2	9153-19	-
+30.2	B min	Olejniczac	1990	1:15	75	Na&iuml;ve OP20002	9100b-19	precor
+30.2	B min	Osinska	1989	1:39	99	Cassiopee 969 213/6	9101b-01	-
+30.2	B min	Poblocka	1999	1:23	83	BeArTon CDB012/13	9093-19	precor
+30.2	B min	Rangell	2001	1:25	85	Dorian DOR-93258	9094-19	precor
+30.2	B min	Rubinstein	1939	1:23	83	Naxos 8.110656-57	9049-19	precor
+30.2	B min	Rubinstein	1952	1:25	85	BMG 09026 63027-2	9075-19	precor
+30.2	B min	Rubinstein	1966	1:28	88	BMG 09026-63050-2	9059-19	precor
+30.2	B min	Schilhawsky	1960	1:10	70	Accord 476 9011	9129-20	-
+30.2	B min	Shebanova	2002	1:18	78	DUX 0350/0351	9072-19	precor
+30.2	B min	Smith	1975	1:33	93	EMI 724358576726	9054-19	precor
+30.2	B min	Sofronitsky	1960	1:06	66	Philips 456 970-2	5667291-15	precor
+30.2	B min	Sofronitsky	1961	1:05	65	Classound 001-026 	9113-15	-
+30.2	B min	Sztompka	1959	1:40	100	Muza PNOD 313 A/B	9170-19	-
+30.2	B min	Uninsky	1959	1:28	88	Philips 442 574-2	9061-19	precor
+30.2	B min	Wasowski	1980	1:35	95	Concord CCD-42036	9111-19	-
+30.2	B min	Yaroshinskiy	2005	1:18	78	DUX KCh15-10	9081-10	precor
+30.3	D maj	Afanassiev	2001	3:32	212	Denon COCQ-84063	9130-04	-
+30.3	D maj	Ashkenazy	1981	2:36	156	Decca 448 086-2	9058-20	-
+30.3	D maj	Ashkenazy	1982	2:35	155	London 410 122-2	50848-04	-
+30.3	D maj	Bacha	1999	2:29	149	Forlane 126817	9166f-17	-
+30.3	D maj	Backhaus	1950	2:31	151	Testament SBT1335	918919-20	-
+30.3	D maj	Backhaus	1953	2:29	149	Archipel Records ARPCD 0333	9162-07	-
+30.3	D maj	Barbosa	1983	2:48	168	Centaur CRC2098/9	9174-20	-
+30.3	D maj	Ben-Or	1989	3:06	186	Meridian CDE 84186	9161-10	-
+30.3	D maj	Biret	1990	3:06	186	Naxos 8.550359	9062-20	-
+30.3	D maj	Brailowsky	1960	2:40	160	Sony SB2K 63237	9060-20	-
+30.3	D maj	Chiu	1999	2:51	171	HMX 2907352.53	9048-20	-
+30.3	D maj	Clidat	1994	2:34	154	Forlane UCD16729 	9067-20	-
+30.3	D maj	Cohen	1997	3:45	225	Glossa 920506 	9105b-03	-
+30.3	D maj	Cortot	1951	3:15	195	Concert Artist 9180/12 	9066-20	-
+30.3	D maj	Csalog	1996	2:47	167	Hungaroton HCD 31755/6	1263-20	-
+30.3	D maj	Czerny-Stefanska	1989	2:48	168	Pony Canyon Classics PCCL-00460	9192-20	-
+30.3	D maj	Ezaki	2006	2:47	167	Triton OVCT-00035	9139-20	-
+30.3	D maj	Falvay	1989	2:54	174	Naxos 8.550256 	9068-13	-
+30.3	D maj	Fiorentino	1961	2:32	152	Con. Artist 9200-2 	9065-15	-
+30.3	D maj	Fliere	1977	2:41	161	Melodia 10 00439	9063-20	-
+30.3	D maj	Fou	1978	3:06	186	Sony SB2K 53 246	9071-31	-
+30.3	D maj	Francois	1956	2:12	132	EMI CZS 7 67413 2	9070b-03	-
+30.3	D maj	Francois	1966	2:23	143	EMI 724382669029	9051-12	-
+30.3	D maj	Gornostaeva	1994	2:39	159	Vista Vera VVCD-00064	9116-08	-
+30.3	D maj	Grinberg	1961	2:15	135	Denon COCQ-84244	9112-07	-
+30.3	D maj	Guller	1956	2:57	177	Parnassus Dis PCCD 20291	9176-08	-
+30.3	D maj	Hatto	1993	2:58	178	Con. Artist FED4-TC-0116/7	610003-22	-
+30.3	D maj	Hatto	2006	2:58	178	Con. Artist 9270/12	9073-22	-
+30.3	D maj	Horowitz	1949	3:00	180	Philips 456 842-2 	5667249-17	-
+30.3	D maj	Indjic	1988	2:59	179	Calliope 3321	9050-20	-
+30.3	D maj	Kapell	1951	2:26	146	RCA 09026-68990-2	9090-09	-
+30.3	D maj	Korecka-Soszkowska	1995	2:40	160	DUX 0238	9122-04	-
+30.3	D maj	Kushner	1990	2:57	177	Connoisseur CD4181/2	9118-20	-
+30.3	D maj	Lilamand	2001	2:56	176	Concerto Royale 206220-3600	9186c-20	-
+30.3	D maj	Luisada	1990	3:07	187	DG 463054-2	9055-20	-
+30.3	D maj	Lushtak	2004	2:56	176	Centaur CRC 2707	9088-15	-
+30.3	D maj	Malcuzynski	1961	2:59	179	EMI CZS 5 68226 2	918904-05	-
+30.3	D maj	Magaloff	1977	2:59	179	Phillips 426 817/29-2	9074f-20	-
+30.3	D maj	Magin	1975	2:46	166	Accord 465 665-2	9138-20	-
+30.3	D maj	Malikova	1999	2:32	152	Classical Records CR-053	9123-03	-
+30.3	D maj	Michelangeli	1962	3:25	205	Warner Apex 40647	918726-09	-
+30.3	D maj	Michelangeli	1971	3:13	193	Philips 456 904-2	5667269b-37	-
+30.3	D maj	Milkina	1970	2:58	178	Unterschrift/EMI	9099-20	-
+30.3	D maj	Mohovich	1999	2:54	174	Agora AG 231.2	9104-20	-
+30.3	D maj	Ohlsson	1999	2:51	171	Arabesque Z6730-2	9153-20	-
+30.3	D maj	Olejniczac	1990	2:49	169	Na&iuml;ve OP20002	9100b-20	-
+30.3	D maj	Osinska	1989	2:49	169	Cassiopee 969 213/6	9101b-02	-
+30.3	D maj	Poblocka	1999	2:33	153	BeArTon CDB012/13	9093-20	-
+30.3	D maj	Rangell	2001	2:28	148	Dorian DOR-93258	9094-20	-
+30.3	D maj	Rubinstein	1939	2:35	155	Naxos 8.110656-57	9049-20	-
+30.3	D maj	Rubinstein	1952	3:02	182	BMG 09026 63027-2	9075-20	-
+30.3	D maj	Rubinstein	1966	2:52	172	BMG 09026-63050-2	9059-20	-
+30.3	D maj	Shebanova	2002	2:39	159	DUX 0350/0351	9072-20	-
+30.3	D maj	Smith	1975	2:57	177	EMI 724358576726	9054-20	-
+30.3	D maj	Sofronitsky	1949	2:31	151	Vista Vera VVCD-00118-2	9114b-13	-
+30.3	D maj	Sofronitsky	1960	2:41	161	Philips 456 970-2	5667291-16	-
+30.3	D maj	Sofronitsky	1961	2:40	160	Classound 001-026 	9113-16	-
+30.3	D maj	Sztompka	1959	2:56	176	Muza PNOD 313 A/B	9170-20	-
+30.3	D maj	Uninsky	1961	2:16	136	Philips 442 574-2	9061-20	-
+30.3	D maj	Wasowski	1980	3:00	180	Concord CCD-42036	9111-20	-
+30.3	D maj	Yaroshinskiy	2005	2:39	159	DUX KCh15-10	9081-11	-
+30.4	C# min	Afanassiev	2001	4:49	289	Denon COCQ-84063	9130-05	-
+30.4	C# min	Ashkenazy	1981	3:38	218	Decca 448 086-2	9058-21	-
+30.4	C# min	Ashkenazy	1982	3:37	217	London 410 122-2	50848-05	-
+30.4	C# min	Bacha	1999	3:35	215	Forlane 126817	9166f-18	-
+30.4	C# min	Barbosa	1983	3:34	214	Centaur CRC2098/9	9174-21	-
+30.4	C# min	Biret	1990	4:30	270	Naxos 8.550359	9062-21	-
+30.4	C# min	Blet	2003	4:22	262	Marcal MA030501	9103-11	-
+30.4	C# min	Block	1995	3:51	231	ProPiano PPR224507 	9064-11	-
+30.4	C# min	Blumental	1952	3:54	234	Brana BR0018	9102-03	-
+30.4	C# min	Brailowsky	1960	3:57	237	Sony SB2K 63237	9060-21	-
+30.4	C# min	Bruchollerie	1962	3:22	202	INA IMV063	915411-09	-
+30.4	C# min	Chiu	1999	3:55	235	HMX 2907352.53	9048-21	-
+30.4	C# min	Cohen	1997	4:20	260	Glossa 920506 	9105b-04	-
+30.4	C# min	Coop	1996	3:10	190	Skylark 9601	9158-12	-
+30.4	C# min	Cortot	1951	3:44	224	Concert Artist 9180/12 	9066-21	-
+30.4	C# min	Csalog	1996	3:24	204	Hungaroton HCD 31755/6	1263-21	-
+30.4	C# min	Czerny-Stefanska	1989	4:08	248	Pony Canyon Classics PCCL-00460	9192-21	-
+30.4	C# min	Ezaki	2006	3:45	225	Triton OVCT-00035	9139-21	-
+30.4	C# min	Fiorentino	1990	4:18	258	Con. Artist 9200-2 	9065-16	-
+30.4	C# min	Fliere	1977	3:35	215	Melodia 10 00439	9063-21	-
+30.4	C# min	Fou	1978	4:19	259	Sony SB2K 53 246	9071-32	-
+30.4	C# min	Francois	1956	3:17	197	EMI CZS 7 67413 2	9070b-04	-
+30.4	C# min	Gornostaeva	1994	3:53	233	Vista Vera VVCD-00064	9116-09	-
+30.4	C# min	Hatto	1993	4:16	256	Con. Artist FED4-TC-0116/7	610003-23	-
+30.4	C# min	Hatto	2006	4:19	259	Con. Artist 9270/12	9073-23	-
+30.4	C# min	Horowitz	1928	3:43	223	Philips 456 842-2 	5667249-02	-
+30.4	C# min	Horowitz	1949	3:48	228	Philips 456 842-2 	5667249-16	-
+30.4	C# min	Indjic	1988	4:21	261	Calliope 3321	9050-21	-
+30.4	C# min	Janis	1995	3:53	233	EMI56196	9185-10	-
+30.4	C# min	Jonas	1947	3:44	224	PERL GEM 0077	9096-11	-
+30.4	C# min	Korecka-Soszkowska	1995	3:47	227	DUX 0238	9122-05	-
+30.4	C# min	Kushner	1990	3:43	223	Connoisseur CD4181/2	9118-21	-
+30.4	C# min	Lilamand	2001	3:08	188	Concerto Royale 206220-3600	9186c-21	-
+30.4	C# min	Luisada	1990	4:11	251	DG 463054-2	9055-21	-
+30.4	C# min	Lushtak	2004	4:08	248	Centaur CRC 2707	9088-16	-
+30.4	C# min	Malcuzynski	1961	3:45	225	EMI CZS 5 68226 2	918904-06	-
+30.4	C# min	Magaloff	1977	4:21	261	Phillips 426 817/29-2	9074f-21	-
+30.4	C# min	Magin	1975	3:37	217	Accord 465 665-2	9138-21	-
+30.4	C# min	Malikova	1999	3:35	215	Classical Records CR-053	9123-04	-
+30.4	C# min	Michelangeli	1941	3:14	194	Membran 222913-321	9057f-01	-
+30.4	C# min	Milkina	1970	4:05	245	Unterschrift/EMI	9099-21	-
+30.4	C# min	Mohovich	1999	4:05	245	Agora AG 231.2	9104-21	-
+30.4	C# min	Moravec	1982	3:57	237	Vox MCD 10016	51495-04	-
+30.4	C# min	Ohlsson	1999	3:45	225	Arabesque Z6730-2	9153-21	-
+30.4	C# min	Olejniczac	1990	4:22	262	Na&iuml;ve OP20002	9100b-21	-
+30.4	C# min	Osinska	1989	3:47	227	Cassiopee 969 213/6	9101b-03	-
+30.4	C# min	Perlemuter	1986	3:55	235	Nimbus NI5393	9089-16	-
+30.4	C# min	Poblocka	1999	3:21	201	BeArTon CDB012/13	9093-21	-
+30.4	C# min	Rangell	2001	3:28	208	Dorian DOR-93258	9094-21	-
+30.4	C# min	Renard	1949	3:01	181	VAI VAIA/IPA 1028-2	918802-18	-
+30.4	C# min	Rubinstein	1939	3:33	213	Naxos 8.110656-57	9049-21	-
+30.4	C# min	Rubinstein	1952	3:40	220	BMG 09026 63027-2	9075-21	-
+30.4	C# min	Rubinstein	1966	3:42	222	BMG 09026-63050-2	9059-21	-
+30.4	C# min	Schilhawsky	1960	3:38	218	Accord 476 9011	9129-16	-
+30.4	C# min	Shebanova	2002	3:43	223	DUX 0350/0351	9072-21	-
+30.4	C# min	Smith	1975	1:31	91	EMI 724358576726	9054-21	-
+30.4	C# min	Sofronitsky	1949	3:20	200	Vista Vera VVCD-00118-2	9114b-11	-
+30.4	C# min	Sofronitsky	1960	3:53	233	Philips 456 970-2	5667291-17	-
+30.4	C# min	Sofronitsky	1961	3:49	229	Classound 001-026 	9113-17	-
+30.4	C# min	Sztompka	1959	4:00	240	Muza PNOD 313 A/B	9170-21	-
+30.4	C# min	Uninsky	1959	3:38	218	Philips 442 574-2	9061-21	-
+30.4	C# min	Wasowski	1980	5:18	318	Concord CCD-42036	9111-21	-
+30.4	C# min	Yaroshinskiy	2005	4:07	247	DUX KCh15-10	9081-12	-
+30.4	C# min	Zecchi	1941	3:25	205	Warner Fonit 5050466330628	915402b-01	-
+33.1	G# min	Ashkenazy	1981	1:25	85	Decca 448 086-2	9058-22	-
+33.1	G# min	Ashkenazy	1982	1:25	85	London 410 122-2	50848-09	-
+33.1	G# min	Bacha	1999	1:36	96	Forlane 126817	9166g-01	-
+33.1	G# min	Barbosa	1983	1:33	93	Centaur CRC2098/9	9174-22	-
+33.1	G# min	Biret	1990	2:15	135	Naxos 8.550359	9062-22	-
+33.1	G# min	Brailowsky	1960	1:49	109	Sony SB2K 63237	9060-22	-
+33.1	G# min	Chiu	1999	1:51	111	HMX 2907352.53	9048-22	-
+33.1	G# min	Clidat	1994	1:25	85	Forlane UCD16729 	9067-21	-
+33.1	G# min	Cohen	1997	2:12	132	Glossa 920506 	9105b-05	-
+33.1	G# min	Cortot	1951	1:39	99	Concert Artist 9180/12 	9066-22	-
+33.1	G# min	Csalog	1996	1:41	101	Hungaroton HCD 31755/6	1263-22	-
+33.1	G# min	Czerny-Stefanska	1989	1:49	109	Pony Canyon Classics PCCL-00460	9192-22	-
+33.1	G# min	Ezaki	2006	1:51	111	Triton OVCT-00035	9139-22	-
+33.1	G# min	Falvay	1989	1:47	107	Naxos 8.550256 	9068-14	-
+33.1	G# min	Ferenczy	1956	1:17	77	Hungaroton HCD 32121	9097-05	-
+33.1	G# min	Fiorentino	1963	1:38	98	Con. Artist 9200-2 	9065-17	-
+33.1	G# min	Fliere	1977	1:52	112	Melodia 10 00439	9063-22	-
+33.1	G# min	Fou	1978	1:39	99	Sony SB2K 53 246	9071b-01	-
+33.1	G# min	Fou	2005	1:44	104	NIFC CD001	9092-02	-
+33.1	G# min	Francois	1956	1:36	96	EMI CZS 7 67413 2	9070b-05	-
+33.1	G# min	Goldenweiser	1946	1:18	78	Dante HPC 103	917509-03	-
+33.1	G# min	Grinberg	1961	1:08	68	Denon COCQ-84244	9112-08	-
+33.1	G# min	Hatto	1993	1:55	115	Con. Artist FED4-TC-0116/7	610003-24	-
+33.1	G# min	Hatto	2006	1:49	109	Con. Artist 9270/12	9073-24	-
+33.1	G# min	Indjic	1988	1:50	110	Calliope 3321	9050-22	-
+33.1	G# min	Kapell	1951	1:35	95	RCA 09026-68990-2	9090-10	-
+33.1	G# min	Kushner	1990	1:43	103	Connoisseur CD4181/2	9118-22	-
+33.1	G# min	Laforet	1985	1:25	85	Muza CK 1026	6100022-07	-
+33.1	G# min	Lee	2005	1:32	92	DUX KCh15-9	9080-05	-
+33.1	G# min	Lim, D.M.	2005	1:36	96	DUX KCh15-14	9133-11	-
+33.1	G# min	Luisada	1990	1:46	106	DG 463054-2	9055-22	-
+33.1	G# min	Malcuzynski	1961	1:33	93	EMI CZS 5 68226 2	918904-07	-
+33.1	G# min	Magaloff	1977	1:50	110	Phillips 426 817/29-2	9074f-22	-
+33.1	G# min	Magin	1975	1:36	96	Accord 465 665-2	9138-22	-
+33.1	G# min	Meguri	1997	1:41	101	Live Notes WWCC-7313	9137-12	-
+33.1	G# min	Michelangeli	1971	2:01	121	Philips 456 904-2	5667269b-36	-
+33.1	G# min	Milkina	1970	1:48	108	Unterschrift/EMI	9099-22	-
+33.1	G# min	Mohovich	1999	1:48	108	Agora AG 231.2	9104-22	-
+33.1	G# min	Ohlsson	1999	2:04	124	Arabesque Z6730-2	9153-22	-
+33.1	G# min	Osinska	1989	1:37	97	Cassiopee 969 213/6	9101b-04	-
+33.1	G# min	Poblocka	1999	1:32	92	BeArTon CDB012/13	9093-22	-
+33.1	G# min	Rangell	2001	1:40	100	Dorian DOR-93258	9094-22	-
+33.1	G# min	Rubinstein	1939	1:25	85	Naxos 8.110656-57	9049-22	-
+33.1	G# min	Rubinstein	1952	1:28	88	BMG 09026 63027-2	9075-22	-
+33.1	G# min	Rubinstein	1966	1:36	96	BMG 09026-63050-2	9059-22	-
+33.1	G# min	Shebanova	2002	1:51	111	DUX 0350/0351	9072-22	-
+33.1	G# min	Smith	1975	3:49	229	EMI 724358576726	9054-22	-
+33.1	G# min	Sofronitsky	1949	1:30	90	Vista Vera VVCD-00118-2	9114-30	-
+33.1	G# min	Sztompka	1959	1:53	113	Muza PNOD 313 A/B	9170-22	-
+33.1	G# min	Uninsky	1961	1:42	102	Philips 442 574-2	9061-22	-
+33.1	G# min	Wasowski	1980	2:08	128	Concord CCD-42036	9111-22	-
+33.1	G# min	Zak	1951	1:24	84	Muza PNCD 001	918713-18	-
+33.1	G# min	Zaritzkaya	1960	1:45	105	Muza CK 1025	6100021-01	-
+33.2	D maj	Sukasiewicz	1937	2:19	139	Selene CD-s 0009.69	9084-04	-
+33.2	D maj	Ashkenazy	1981	2:03	123	Decca 448 086-2	9058-23	-
+33.2	D maj	Ashkenazy	1982	2:02	122	London 410 122-2	50848-10	-
+33.2	D maj	Bacha	1999	2:21	141	Forlane 126817	9166g-02	-
+33.2	D maj	Barbosa	1983	2:32	152	Centaur CRC2098/9	9174-23	-
+33.2	D maj	Ben-Or	1989	2:40	160	Meridian CDE 84186	9161-02	-
+33.2	D maj	Biret	1990	2:30	150	Naxos 8.550359	9062-23	-
+33.2	D maj	Blet	2003	2:33	153	Marcal MA030501	9103-12	-
+33.2	D maj	Blumental	1952	2:31	151	Brana BR0018	9102-04	-
+33.2	D maj	Brailowsky	1960	2:20	140	Sony SB2K 63237	9060-23	-
+33.2	D maj	Bunin	1985	1:58	118	DG 431 585-2	918810-14	-
+33.2	D maj	Cherkassky	1950	2:17	137	Philips 456 742-2 	5667217-29	-
+33.2	D maj	Chiu	1999	2:10	130	HMX 2907352.53	9048-23	-
+33.2	D maj	Clidat	1994	2:16	136	Forlane UCD16729 	9067-22	-
+33.2	D maj	Cohen	1997	2:54	174	Glossa 920506 	9105b-06	-
+33.2	D maj	Cortot	1951	2:31	151	Concert Artist 9180/12 	9066-23	-
+33.2	D maj	Csalog	1996	2:18	138	Hungaroton HCD 31755/6	1263-23	-
+33.2	D maj	Czerny-Stefanska	1989	2:21	141	Pony Canyon Classics PCCL-00460	9192-23	-
+33.2	D maj	Ezaki	2006	2:24	144	Triton OVCT-00035	9139-23	-
+33.2	D maj	Fliere	1977	2:20	140	Melodia 10 00439	9063-23	-
+33.2	D maj	Fou	1978	2:35	155	Sony SB2K 53 246	9071b-02	-
+33.2	D maj	Fou	1978	2:36	156	Sony Classical SBK 89846	59359-07	-
+33.2	D maj	Francois	1956	2:17	137	EMI CZS 7 67413 2	9070b-06	-
+33.2	D maj	Friedman	1924	2:25	145	Naxos 8.110684 	9108-04	-
+33.2	D maj	Friedman	1924	2:25	145	Selene CD-s 9908.53	9148-13	-
+33.2	D maj	Friedman	1925	2:15	135	Naxos 8.110684 	9108-12	-
+33.2	D maj	Friedman	1930	2:06	126	Philips 456 784-2 	5667230-11	precor
+33.2	D maj	Goldenweiser	1946	2:23	143	Dante HPC 103	917509-01	-
+33.2	D maj	Guller	1956	2:25	145	Parnassus Dis PCCD 20291	9176-07	-
+33.2	D maj	Hatto	1993	2:35	155	Con. Artist FED4-TC-0116/7	610003-25	-
+33.2	D maj	Hatto	2006	2:34	154	Con. Artist 9270/12	9073-25	-
+33.2	D maj	Indjic	1988	2:37	157	Calliope 3321	9050-23	-
+33.2	D maj	Kissin	1993	2:11	131	RCA 09026 62542 2	9056-12	-
+33.2	D maj	Kushner	1990	2:30	150	Connoisseur CD4181/2	9118-23	-
+33.2	D maj	Laforet	1985	2:12	132	Muza CK 1026	6100022-08	-
+33.2	D maj	Lee	2005	1:37	97	DUX KCh15-9	9080-06	-
+33.2	D maj	Lim, D.M.	2005	2:18	138	DUX KCh15-14	9133-12	-
+33.2	D maj	Luisada	1990	2:14	134	DG 463054-2	9055-23	-
+33.2	D maj	Malcuzynski	1961	2:27	147	EMI CZS 5 68226 2	918904-08	-
+33.2	D maj	Magaloff	1977	2:37	157	Phillips 426 817/29-2	9074f-23	-
+33.2	D maj	Magin	1975	2:20	140	Accord 465 665-2	9138-23	-
+33.2	D maj	Meguri	1997	2:04	124	Live Notes WWCC-7313	9137-13	-
+33.2	D maj	Milkina	1970	2:43	163	Unterschrift/EMI	9099-23	-
+33.2	D maj	Mohovich	1999	2:47	167	Agora AG 231.2	9104-23	-
+33.2	D maj	Niedzielski	1931	2:05	125	HMV C-2008/10	610001-03	-
+33.2	D maj	Ohlsson	1999	2:15	135	Arabesque Z6730-2	9153-23	-
+33.2	D maj	Osinska	1989	2:36	156	Cassiopee 969 213/6	9101b-05	-
+33.2	D maj	Paderewski	1930	2:25	145	Philips 456 919-2	5667274-19	precor
+33.2	D maj	Perahia	1994	2:15	135	Sony 45931	54293-10	-
+33.2	D maj	Poblocka	1999	1:39	99	BeArTon CDB012/13	9093-23	-
+33.2	D maj	Rangell	2001	2:12	132	Dorian DOR-93258	9094-23	-
+33.2	D maj	Rosen	1989	2:17	137	Globe 5028 	52932-11	-
+33.2	D maj	Rosenthal	1937	2:27	147	Membran 222913-321	9057j-03	-
+33.2	D maj	Rosenthal	1937	2:30	150	Appian CDAPR 7002	9184b-08	-
+33.2	D maj	Rubinstein	1932	2:15	135	Naxos 8.110656-57	9049b-23	-
+33.2	D maj	Rubinstein	1932	2:16	136	BMG 0-9026-63002-2 	0198-03	-
+33.2	D maj	Rubinstein	1939	2:24	144	Naxos 8.110656-57	9049-23	-
+33.2	D maj	Rubinstein	1952	2:24	144	BMG 09026 63027-2	9075-23	-
+33.2	D maj	Rubinstein	1966	2:45	165	BMG 09026-63050-2	9059-23	-
+33.2	D maj	Shebanova	2002	2:08	128	DUX 0350/0351	9072-23	-
+33.2	D maj	Smith	1975	1:08	68	EMI 724358576726	9054-23	-
+33.2	D maj	Sztompka	1959	1:24	84	Muza PNOD 313 A/B	9170-23	-
+33.2	D maj	Uninsky	1961	2:27	147	Philips 442 574-2	9061-23	-
+33.2	D maj	Wasowski	1980	2:43	163	Concord CCD-42036	9111-23	-
+33.3	C maj	Ashkenazy	1981	1:28	88	Decca 448 086-2	9058-24	-
+33.3	C maj	Ashkenazy	1982	1:27	87	London 410 122-2	50848-11	-
+33.3	C maj	Bacha	1999	1:58	118	Forlane 126817	9166g-03	-
+33.3	C maj	Backhaus	1950	1:27	87	Testament SBT1335	918919-21	-
+33.3	C maj	Backhaus	1953	1:21	81	Archipel Records ARPCD 0333	9162-08	-
+33.3	C maj	Barbosa	1983	1:58	118	Centaur CRC2098/9	9174-24	-
+33.3	C maj	Biret	1990	2:07	127	Naxos 8.550359	9062-24	-
+33.3	C maj	Brailowsky	1960	1:26	86	Sony SB2K 63237	9060-24	-
+33.3	C maj	Cherkassky	1945	2:12	132	Ivory Classics 72003	9155b-15	-
+33.3	C maj	Chiu	1999	2:06	126	HMX 2907352.53	9048-24	-
+33.3	C maj	Clidat	1994	1:12	72	Forlane UCD16729 	9067-23	-
+33.3	C maj	Cohen	1997	2:03	123	Glossa 920506 	9105b-07	-
+33.3	C maj	Cortot	1951	2:16	136	Concert Artist 9180/12 	9066-24	-
+33.3	C maj	Csalog	1996	1:50	110	Hungaroton HCD 31755/6	1263-24	-
+33.3	C maj	Czerny-Stefanska	1949	2:05	125	Muza PNCD002	9086-04	-
+33.3	C maj	Czerny-Stefanska	1949	2:07	127	Muza PNCD006	9085-14	-
+33.3	C maj	Czerny-Stefanska	1989	1:54	114	Pony Canyon Classics PCCL-00460	9192-24	-
+33.3	C maj	Ezaki	2006	1:57	117	Triton OVCT-00035	9139-24	-
+33.3	C maj	Fiorentino	1963	1:23	83	Con. Artist 9200-2 	9065-18	-
+33.3	C maj	Fliere	1977	1:57	117	Melodia 10 00439	9063-24	-
+33.3	C maj	Fou	1978	2:02	122	Sony SB2K 53 246	9071b-03	-
+33.3	C maj	Francois	1956	1:40	100	EMI CZS 7 67413 2	9070b-07	-
+33.3	C maj	Hatto	1993	2:18	138	Con. Artist FED4-TC-0116/7	610003-26	-
+33.3	C maj	Hatto	2006	1:40	100	Con. Artist 9270/12	9073-26	-
+33.3	C maj	Indjic	1988	1:42	102	Calliope 3321	9050-24	-
+33.3	C maj	Kapell	1951	1:27	87	RCA 09026-68990-2	9090-11	-
+33.3	C maj	Kissin	1993	2:41	161	RCA 09026 62542 2	9056-08	-
+33.3	C maj	Kushner	1990	2:35	155	Connoisseur CD4181/2	9118-24	-
+33.3	C maj	Laforet	1985	1:20	80	Muza CK 1026	6100022-09	-
+33.3	C maj	Lee	2005	2:10	130	DUX KCh15-9	9080-07	-
+33.3	C maj	Lim, D.M.	2005	1:33	93	DUX KCh15-14	9133-13	-
+33.3	C maj	Luisada	1990	1:40	100	DG 463054-2	9055-24	-
+33.3	C maj	Magaloff	1977	1:42	102	Phillips 426 817/29-2	9074f-24	-
+33.3	C maj	Magin	1975	2:02	122	Accord 465 665-2	9138-24	-
+33.3	C maj	Milkina	1970	2:09	129	Unterschrift/EMI	9099-24	-
+33.3	C maj	Mohovich	1999	1:45	105	Agora AG 231.2	9104-24	-
+33.3	C maj	Ohlsson	1999	1:34	94	Arabesque Z6730-2	9153-24	-
+33.3	C maj	Osinska	1989	2:07	127	Cassiopee 969 213/6	9101b-06	-
+33.3	C maj	Pachmann	1911	1:06	66	Arbiter 129	9109-09	-
+33.3	C maj	Poblocka	1999	2:09	129	BeArTon CDB012/13	9093-24	-
+33.3	C maj	Rangell	2001	1:30	90	Dorian DOR-93258	9094-24	-
+33.3	C maj	Rubinstein	1939	1:34	94	Naxos 8.110656-57	9049-24	-
+33.3	C maj	Rubinstein	1952	2:31	151	BMG 09026 63027-2	9075-24	-
+33.3	C maj	Rubinstein	1966	1:35	95	BMG 09026-63050-2	9059-24	-
+33.3	C maj	Shebanova	2002	1:57	117	DUX 0350/0351	9072-24	-
+33.3	C maj	Smith	1975	1:28	88	EMI 724358576726	9054-24	-
+33.3	C maj	Sofronitsky	1949	1:35	95	Vista Vera VVCD-00118-2	9114b-03	-
+33.3	C maj	Sofronitsky	1960	1:19	79	Philips 456 970-2	5667291-12	-
+33.3	C maj	Sofronitsky	1961	1:20	80	Classound 001-026 	9113-12	-
+33.3	C maj	Sztompka	1959	2:41	161	Muza PNOD 313 A/B	9170-24	-
+33.3	C maj	Uninsky	1961	1:53	113	Philips 442 574-2	9061-24	-
+33.3	C maj	Wasowski	1980	2:18	138	Concord CCD-42036	9111-24	-
+33.3	C maj	Zaritzkaya	1960	2:01	121	Muza CK 1025	6100021-02	-
+33.4	B min	Ashkenazy	1981	4:34	274	Decca 448 086-2	9058-25	-
+33.4	B min	Ashkenazy	1982	4:34	274	London 410 122-2	50848-12	-
+33.4	B min	Bacha	1999	4:59	299	Forlane 126817	9166g-04	-
+33.4	B min	Barbosa	1983	5:08	308	Centaur CRC2098/9	9174-25	-
+33.4	B min	Biret	1990	4:58	298	Naxos 8.550359	9062-25	-
+33.4	B min	Blet	2003	4:57	297	Marcal MA030501	9103-13	-
+33.4	B min	Boshniakovich	1969	5:25	325	Vista Vera VVCD-00022	9127-08	-
+33.4	B min	Brailowsky	1960	4:56	296	Sony SB2K 63237	9060-25	-
+33.4	B min	Chiu	1999	6:12	372	HMX 2907352.53	9048-25	-
+33.4	B min	Clidat	1994	4:57	297	Forlane UCD16729 	9067-24	-
+33.4	B min	Cohen	1997	8:08	488	Glossa 920506 	9105b-08	-
+33.4	B min	Cortot	1951	5:09	309	Concert Artist 9180/12 	9066-25	-
+33.4	B min	Csalog	1996	6:02	362	Hungaroton HCD 31755/6	1263-25	-
+33.4	B min	Czerny-Stefanska	1989	5:35	335	Pony Canyon Classics PCCL-00460	9192-25	-
+33.4	B min	Ezaki	2006	5:19	319	Triton OVCT-00035	9139-25	-
+33.4	B min	Falvay	1989	5:19	319	Naxos 8.550256 	9068-15	-
+33.4	B min	Ferenczy	1956	4:37	277	Hungaroton HCD 32121	9097-02	-
+33.4	B min	Fiorentino	1963	4:46	286	Con. Artist 9200-2 	9065-19	-
+33.4	B min	Fliere	1977	5:44	344	Melodia 10 00439	9063-25	-
+33.4	B min	Fou	1978	5:30	330	Sony SB2K 53 246	9071b-04	-
+33.4	B min	Fou	2005	5:19	319	NIFC CD001	9092-12	-
+33.4	B min	Francois	1956	4:39	279	EMI CZS 7 67413 2	9070b-08	-
+33.4	B min	Friedman	1926	3:17	197	Naxos 8.110684 	9108-19	-
+33.4	B min	Friedman	1926	3:19	199	Selene CD-s 9908.53	9148-14	-
+33.4	B min	Friedman	1930	4:09	249	Philips 456 784-2 	5667230-13	-
+33.4	B min	Friedman	1930	4:11	251	Naxos 8.111114	9125-13	-
+33.4	B min	Goldenweiser	1946	4:50	290	Dante HPC 103	917509-02	-
+33.4	B min	Gruenfeld	1905	3:17	197	OPAL CD 9850	9168-05	-
+33.4	B min	Hatto	1993	5:27	327	Con. Artist FED4-TC-0116/7	610003-27	-
+33.4	B min	Hatto	2006	4:53	293	Con. Artist 9270/12	9073-27	-
+33.4	B min	Indjic	1988	4:56	296	Calliope 3321	9050-25	-
+33.4	B min	Kapell	1951	5:04	304	RCA 09026-68990-2	9090-12	-
+33.4	B min	Kiepura	1999	5:35	335	Patria KIE2000	9098-09	-
+33.4	B min	Koczalski	1928	3:03	183	Archiphon ARC-119/20	9191-33	-
+33.4	B min	Korecka-Soszkowska	2003	5:01	301	DUX 0419	9135-10	-
+33.4	B min	Kushner	1990	5:21	321	Connoisseur CD4181/2	9118-25	-
+33.4	B min	Laforet	1985	4:47	287	Muza CK 1026	6100022-10	-
+33.4	B min	Lear	1994	6:21	381	Appian APR 5555	9181-05	-
+33.4	B min	Lee	2005	5:06	306	DUX KCh15-9	9080-08	-
+33.4	B min	Lim, D.M.	2005	4:50	290	DUX KCh15-14	9133-14	-
+33.4	B min	Luisada	1990	4:54	294	DG 463054-2	9055-25	-
+33.4	B min	Malcuzynski	1961	4:48	288	EMI CZS 5 68226 2	918904-09	-
+33.4	B min	Magaloff	1977	4:56	296	Phillips 426 817/29-2	9074f-25	-
+33.4	B min	Magin	1975	4:35	275	Accord 465 665-2	9138-25	-
+33.4	B min	Michelangeli	1942	5:03	303	Membran 222913-321	9057f-02	-
+33.4	B min	Michelangeli	1962	6:14	374	Warner Apex 40647	918726-08	-
+33.4	B min	Michelangeli	1971	6:16	376	Philips 456 904-2	5667269b-39	-
+33.4	B min	Milkina	1970	5:53	353	Unterschrift/EMI	9099-25	-
+33.4	B min	Mohovich	1999	6:06	366	Agora AG 231.2	9104-25	-
+33.4	B min	Moravec	1982	5:05	305	Vox MCD 10016	51495-05	-
+33.4	B min	Nadelmann	1956	3:42	222	Appian APR 7025	9165-05	-
+33.4	B min	Ohlsson	1999	4:22	262	Arabesque Z6730-2	9153-25	-
+33.4	B min	Osinska	1989	5:54	354	Cassiopee 969 213/6	9101b-07	-
+33.4	B min	Pachmann	1916	1:54	114	Arbiter 141	9110-21	-
+33.4	B min	Pachmann	1917	3:10	190	Membran 222913-321	9057h-13	-
+33.4	B min	Perlemuter	1992	5:00	300	Nimbus NI5393	9089-09	-
+33.4	B min	Poblocka	1999	4:40	280	BeArTon CDB012/13	9093-25	-
+33.4	B min	Rangell	2001	4:52	292	Dorian DOR-93258	9094-25	-
+33.4	B min	Rosenthal	1935	4:29	269	Membran 222913-321	9057j-04	-
+33.4	B min	Rosenthal	1935	4:30	270	Appian CDAPR 7002	9184-15	-
+33.4	B min	Rubinstein	1939	4:29	269	Naxos 8.110656-57	9049-25	-
+33.4	B min	Rubinstein	1952	4:32	272	BMG 09026 63027-2	9075-25	-
+33.4	B min	Rubinstein	1966	5:35	335	BMG 09026-63050-2	9059-25	-
+33.4	B min	Schilhawsky	1960	5:25	325	Accord 476 9011	9129-19	-
+33.4	B min	Shebanova	2002	5:28	328	DUX 0350/0351	9072-25	-
+33.4	B min	Smith	1975	1:13	73	EMI 724358576726	9054-25	-
+33.4	B min	Sofronitsky	1960	5:24	324	Philips 456 970-2	5667291-13	-
+33.4	B min	Sofronitsky	1961	5:27	327	Classound 001-026 	9113-13	-
+33.4	B min	Sztompka	1959	5:48	348	Muza PNOD 313 A/B	9170-25	-
+33.4	B min	Tanyel	1992	4:17	257	Collins Classics 13302	917813-04	-
+33.4	B min	Uninsky	1959	5:07	307	Philips 442 574-2	9061-25	-
+33.4	B min	Wasowski	1980	5:09	309	Concord CCD-42036	9111-25	-
+33.4	B min	Zecchi	1942	3:50	230	Cetra Ita. CB 20359	919405-05	-
+33.4	B min	Zecchi	1942	3:58	238	Warner Fonit 5050466330628	915402b-09	-
+41.1	C# min	Ashkenazy	1981	3:30	210	Decca 448 086-2	9058-26	-
+41.1	C# min	Askenase	1970	4:07	247	DG 477 5242	917520g-09	-
+41.1	C# min	Bacha	1999	2:06	126	Forlane 126817	9166h-03	-
+41.1	C# min	Barbosa	1983	2:56	176	Centaur CRC2098/9	9174-26	-
+41.1	C# min	Biret	1990	4:01	241	Naxos 8.550359	9062-26	-
+41.1	C# min	Block	1995	3:13	193	ProPiano PPR224507 	9064-07	-
+41.1	C# min	Brailowsky	1960	3:15	195	Sony SB2K 63237	9060-26	-
+41.1	C# min	Bunin	1987	3:47	227	Olympia 501070	9124-12	-
+41.1	C# min	Chiu	1999	3:48	228	HMX 2907352.53	9048b-01	-
+41.1	C# min	Cohen	1997	3:00	180	Glossa 920506 	9105b-09	-
+41.1	C# min	Cortot	1951	3:21	201	Concert Artist 9180/12 	9066-26	-
+41.1	C# min	Csalog	1996	2:14	134	Hungaroton HCD 31755/6	1263-26	-
+41.1	C# min	Czerny-Stefanska	1989	3:27	207	Pony Canyon Classics PCCL-00460	9192-26	-
+41.1	C# min	Ezaki	2006	2:12	132	Triton OVCT-00035	9139-26	-
+41.1	C# min	Fliere	1977	3:24	204	Melodia 10 00439	9063b-01	-
+41.1	C# min	Fou	1978	2:33	153	Sony SB2K 53 246	9071b-05	-
+41.1	C# min	Fou	2005	2:34	154	NIFC CD001	9092-15	-
+41.1	C# min	Francois	1956	3:16	196	EMI CZS 7 67413 2	9070b-09	-
+41.1	C# min	Freire	1984	2:52	172	Philips 456 781-2 	5667229-06	-
+41.1	C# min	Friedman	1930	3:02	182	Philips 456 784-2 	5667230-14	-
+41.1	C# min	Hatto	1993	3:34	214	Con. Artist FED4-TC-0116/7	610003b-01	-
+41.1	C# min	Hatto	2006	3:34	214	Con. Artist 9270/12	9073b-01	-
+41.1	C# min	Horowitz	1949	3:08	188	Philips 456 842-2 	5667249-19	-
+41.1	C# min	Indjic	1988	3:37	217	Calliope 3321	9050-26	-
+41.1	C# min	Kapell	1951	3:16	196	RCA 09026-68990-2	9090-13	-
+41.1	C# min	Kushner	1989	3:36	216	Connoisseur CD4181/2	9118b-01	-
+41.1	C# min	Luisada	1991	2:23	143	DG 463054-2	9055-26	-
+41.1	C# min	Magaloff	1977	3:37	217	Phillips 426 817/29-2	9074f-26	-
+41.1	C# min	Magin	1975	3:17	197	Accord 465 665-2	9138-26	-
+41.1	C# min	Meguri	1997	2:17	137	Live Notes WWCC-7313	9137-14	-
+41.1	C# min	Milkina	1970	3:32	212	Unterschrift/EMI	9099b-01	-
+41.1	C# min	Mohovich	1999	3:35	215	Agora AG 231.2	9104-26	-
+41.1	C# min	Neighaus	1950	2:59	179	Classical Records CR-083	9119-06	-
+41.1	C# min	Ohlsson	1970	3:12	192	Muza CK 1025	6100021-09	-
+41.1	C# min	Ohlsson	1999	2:34	154	Arabesque Z6730-2	9153-26	-
+41.1	C# min	Osinska	1989	3:29	209	Cassiopee 969 213/6	9101b-08	-
+41.1	C# min	Perlemuter	1992	2:41	161	Nimbus NI5393	9089-10	-
+41.1	C# min	Poblocka	1999	2:07	127	BeArTon CDB012/13	9093b-01	-
+41.1	C# min	Rangell	2001	2:22	142	Dorian DOR-93258	9094-26	-
+41.1	C# min	Raubo	1995	2:11	131	DUX 0259	9120-07	-
+41.1	C# min	Rosen	1989	3:13	193	Globe 5028 	52932-15	-
+41.1	C# min	Rubinstein	1939	3:11	191	Naxos 8.110656-57	9049-26	-
+41.1	C# min	Rubinstein	1952	3:10	190	BMG 09026 63027-2	9075-26	-
+41.1	C# min	Rubinstein	1966	3:29	209	BMG 09026-63050-2	9059b-01	-
+41.1	C# min	Schilhawsky	1960	3:15	195	Accord 476 9011	9129-21	-
+41.1	C# min	Shebanova	2002	3:35	215	DUX 0350/0351	9072b-01	-
+41.1	C# min	Smith	1975	1:29	89	EMI 724358576726	9054-26	-
+41.1	C# min	Sofronitsky	1949	2:49	169	Vista Vera VVCD-00118-2	9114b-10	-
+41.1	C# min	Sofronitsky	1951	2:44	164	SMC CD 0019	915405-10	-
+41.1	C# min	Sofronitsky	1960	3:06	186	Philips 456 970-2	5667291-09	-
+41.1	C# min	Sofronitsky	1961	3:10	190	Classound 001-026 	9113-09	-
+41.1	C# min	Sztompka	1927	2:34	154	Muza PNCD006	9085-01	-
+41.1	C# min	Sztompka	1959	2:44	164	Muza PNOD 313 A/B	9170-26	-
+41.1	C# min	Uninsky	1959	3:28	208	Philips 442 574-2	9061-26	-
+41.1	C# min	Wasowski	1980	3:55	235	Concord CCD-42036	9111-26	-
+41.2	E min	Afanassiev	2001	3:29	209	Denon COCQ-84063	9130-08	-
+41.2	E min	Ashkenazy	1981	2:20	140	Decca 448 086-2	9058-27	precor
+41.2	E min	Askenase	1970	2:40	160	DG 477 5242	917520g-10	-
+41.2	E min	Bacha	1999	1:12	72	Forlane 126817	9166h-04	-
+41.2	E min	Barbosa	1983	1:59	119	Centaur CRC2098/9	9174-27	-
+41.2	E min	Beliavsky	2004	2:26	146	Sonata Bop SB004	9152-14	-
+41.2	E min	Biret	1990	3:11	191	Naxos 8.550359	9062b-01	precor
+41.2	E min	Blet	2003	2:43	163	Marcal MA030501	9103-14	-
+41.2	E min	Block	1995	2:08	128	ProPiano PPR224507 	9064-08	-
+41.2	E min	Blumental	1952	1:58	118	Brana BR0018	9102-05	-
+41.2	E min	Brailowsky	1960	2:08	128	Sony SB2K 63237	9060-27	-
+41.2	E min	Chiu	1999	2:16	136	HMX 2907352.53	9048b-02	-
+41.2	E min	Clidat	1994	1:57	117	Forlane UCD16729 	9067-25	-
+41.2	E min	Cohen	1997	1:29	89	Glossa 920506 	9105b-10	-
+41.2	E min	Cortot	1951	2:28	148	Concert Artist 9180/12 	9066-27	-
+41.2	E min	Csalog	1996	1:11	71	Hungaroton HCD 31755/6	1263-27	-
+41.2	E min	Czerny-Stefanska	1989	2:16	136	Pony Canyon Classics PCCL-00460	9192-27	-
+41.2	E min	Ezaki	2006	1:22	82	Triton OVCT-00035	9139-27	-
+41.2	E min	Fliere	1977	2:35	155	Melodia 10 00439	9063b-02	-
+41.2	E min	Fou	1978	1:15	75	Sony SB2K 53 246	9071b-06	-
+41.2	E min	Francois	1956	2:17	137	EMI CZS 7 67413 2	9070b-10	-
+41.2	E min	Gierzod	1998	2:14	134	DUX 0298	9121-06	-
+41.2	E min	Gornostaeva	1994	2:18	138	Vista Vera VVCD-00064	9116-13	-
+41.2	E min	Hatto	1993	2:37	157	Con. Artist FED4-TC-0116/7	610003b-02	-
+41.2	E min	Hatto	2006	2:31	151	Con. Artist 9270/12	9073b-02	-
+41.2	E min	Horowitz	1933	1:54	114	Membran 222913-321	9057f-12	-
+41.2	E min	Horowitz	1933	1:57	117	Philips 456 842-2 	5667249-04	-
+41.2	E min	Indjic	1988	2:35	155	Calliope 3321	9050-27	-
+41.2	E min	Jonas	1947	2:44	164	PERL GEM 0077	9096-06	-
+41.2	E min	Kapell	1951	2:18	138	RCA 09026-68990-2	9090-14	-
+41.2	E min	Kushner	1989	2:29	149	Connoisseur CD4181/2	9118b-02	-
+41.2	E min	Luisada	1991	1:19	79	DG 463054-2	9055-27	-
+41.2	E min	Malcuzynski	1961	2:18	138	EMI CZS 5 68226 2	918904-10	-
+41.2	E min	Magaloff	1977	2:35	155	Phillips 426 817/29-2	9074f-27	-
+41.2	E min	Magin	1975	2:24	144	Accord 465 665-2	9138-27	-
+41.2	E min	Meguri	1997	1:13	73	Live Notes WWCC-7313	9137-15	-
+41.2	E min	Milkina	1970	2:20	140	Unterschrift/EMI	9099b-02	-
+41.2	E min	Mohovich	1999	2:33	153	Agora AG 231.2	9104-27	-
+41.2	E min	Moravec	1989	2:38	158	Philips 456 910-2	5667271-08	-
+41.2	E min	Neighaus	1950	1:53	113	Classical Records CR-083	9119-07	-
+41.2	E min	Ohlsson	1970	2:25	145	Muza CK 1025	6100021-07	-
+41.2	E min	Ohlsson	1999	1:07	67	Arabesque Z6730-2	9153-27	-
+41.2	E min	Olejniczac	1990	2:29	149	Na&iuml;ve OP20002	9100b-22	-
+41.2	E min	Osinska	1989	2:09	129	Cassiopee 969 213/6	9101b-09	-
+41.2	E min	Poblocka	1999	1:06	66	BeArTon CDB012/13	9093b-02	-
+41.2	E min	Rangell	2001	1:12	72	Dorian DOR-93258	9094-27	-
+41.2	E min	Rosen	1989	2:09	129	Globe 5028 	52932-12	-
+41.2	E min	Rubinstein	1939	2:08	128	Naxos 8.110656-57	9049-27	-
+41.2	E min	Rubinstein	1952	2:08	128	BMG 09026 63027-2	9075-27	-
+41.2	E min	Rubinstein	1966	2:11	131	BMG 09026-63050-2	9059b-02	-
+41.2	E min	Shebanova	2002	2:31	151	DUX 0350/0351	9072b-02	-
+41.2	E min	Smith	1975	1:11	71	EMI 724358576726	9054-27	-
+41.2	E min	Sofronitsky	1949	2:03	123	Vista Vera VVCD-00118-2	9114-28	-
+41.2	E min	Sofronitsky	1960	2:17	137	Philips 456 970-2	5667291-10	-
+41.2	E min	Sofronitsky	1961	2:21	141	Classound 001-026 	9113-10	-
+41.2	E min	Sztompka	1959	1:19	79	Muza PNOD 313 A/B	9170-27	-
+41.2	E min	Uninsky	1961	2:08	128	Philips 442 574-2	9061-27	-
+41.2	E min	Wasowski	1980	2:43	163	Concord CCD-42036	9111-27	-
+41.3	B maj	Ashkenazy	1981	1:07	67	Decca 448 086-2	9058-28	-
+41.3	B maj	Askenase	1970	1:33	93	DG 477 5242	917520g-11	-
+41.3	B maj	Bacha	1999	1:52	112	Forlane 126817	9166h-05	-
+41.3	B maj	Barbosa	1983	1:08	68	Centaur CRC2098/9	9174-28	-
+41.3	B maj	Biret	1990	1:07	67	Naxos 8.550359	9062b-02	-
+41.3	B maj	Brailowsky	1960	1:16	76	Sony SB2K 63237	9060-28	-
+41.3	B maj	Chiu	1999	1:10	70	HMX 2907352.53	9048b-03	-
+41.3	B maj	Cohen	1997	1:48	108	Glossa 920506 	9105b-11	-
+41.3	B maj	Cortot	1951	1:25	85	Concert Artist 9180/12 	9066-28	-
+41.3	B maj	Csalog	1996	1:55	115	Hungaroton HCD 31755/6	1263-28	-
+41.3	B maj	Czerny-Stefanska	1989	1:24	84	Pony Canyon Classics PCCL-00460	9192-28	-
+41.3	B maj	Ezaki	2006	2:01	121	Triton OVCT-00035	9139-28	-
+41.3	B maj	Fliere	1977	1:11	71	Melodia 10 00439	9063b-03	-
+41.3	B maj	Fou	1978	1:58	118	Sony SB2K 53 246	9071b-07	-
+41.3	B maj	Francois	1956	1:06	66	EMI CZS 7 67413 2	9070b-11	-
+41.3	B maj	Guller	1956	1:12	72	Parnassus Dis PCCD 20291	9176-10	-
+41.3	B maj	Hatto	1993	1:23	83	Con. Artist FED4-TC-0116/7	610003b-03	-
+41.3	B maj	Hatto	2006	1:17	77	Con. Artist 9270/12	9073b-03	-
+41.3	B maj	Indjic	1988	1:21	81	Calliope 3321	9050-28	-
+41.3	B maj	Kushner	1989	1:17	77	Connoisseur CD4181/2	9118b-03	-
+41.3	B maj	Luisada	1991	2:14	134	DG 463054-2	9055-28	-
+41.3	B maj	Magaloff	1977	1:21	81	Phillips 426 817/29-2	9074f-28	-
+41.3	B maj	Magin	1975	1:10	70	Accord 465 665-2	9138-28	-
+41.3	B maj	Milkina	1970	1:23	83	Unterschrift/EMI	9099b-03	-
+41.3	B maj	Mohovich	1999	1:29	89	Agora AG 231.2	9104-28	-
+41.3	B maj	Ohlsson	1999	1:50	110	Arabesque Z6730-2	9153-28	-
+41.3	B maj	Osinska	1989	1:13	73	Cassiopee 969 213/6	9101b-10	-
+41.3	B maj	Poblocka	1999	1:52	112	BeArTon CDB012/13	9093b-03	-
+41.3	B maj	Rangell	2001	1:49	109	Dorian DOR-93258	9094-28	-
+41.3	B maj	Rosen	1989	1:11	71	Globe 5028 	52932-13	-
+41.3	B maj	Rubinstein	1939	1:08	68	Naxos 8.110656-57	9049-28	-
+41.3	B maj	Rubinstein	1952	1:01	61	BMG 09026 63027-2	9075-28	-
+41.3	B maj	Rubinstein	1966	1:10	70	BMG 09026-63050-2	9059b-03	-
+41.3	B maj	Shebanova	2002	1:09	69	DUX 0350/0351	9072b-03	-
+41.3	B maj	Smith	1975	2:47	167	EMI 724358576726	9054-28	-
+41.3	B maj	Sztompka	1927	2:03	123	Muza PNCD006	9085-02	-
+41.3	B maj	Sztompka	1959	2:19	139	Muza PNOD 313 A/B	9170-28	-
+41.3	B maj	Uninsky	1961	1:15	75	Philips 442 574-2	9061-28	-
+41.3	B maj	Wasowski	1980	1:19	79	Concord CCD-42036	9111b-01	-
+41.4	A maj	Smidowicz	1950	3:26	206	Selene CD-s 9806.42	9142-07	-
+41.4	A maj	Afanassiev	2001	2:37	157	Denon COCQ-84063	9130-03	-
+41.4	A maj	Ashkenazy	1981	1:58	118	Decca 448 086-2	9058-29	-
+41.4	A maj	Askenase	1970	2:39	159	DG 477 5242	917520g-12	-
+41.4	A maj	Bacha	1999	3:19	199	Forlane 126817	9166h-06	-
+41.4	A maj	Barbosa	1983	1:51	111	Centaur CRC2098/9	9174-29	-
+41.4	A maj	Biret	1990	1:50	110	Naxos 8.550359	9062b-03	-
+41.4	A maj	Brailowsky	1960	2:03	123	Sony SB2K 63237	9060-29	-
+41.4	A maj	Bunin	1987	3:52	232	DG 423 618-2	918812-12	-
+41.4	A maj	Chiu	1999	2:15	135	HMX 2907352.53	9048b-04	-
+41.4	A maj	Cohen	1997	4:04	244	Glossa 920506 	9105b-12	-
+41.4	A maj	Cortot	1951	2:20	140	Concert Artist 9180/12 	9066-29	-
+41.4	A maj	Csalog	1996	3:45	225	Hungaroton HCD 31755/6	1263-29	-
+41.4	A maj	Czerny-Stefanska	1989	2:01	121	Pony Canyon Classics PCCL-00460	9192-29	-
+41.4	A maj	Ezaki	2006	3:27	207	Triton OVCT-00035	9139-29	-
+41.4	A maj	Ferenczy	1958	1:37	97	Hungaroton HCD 32121	9097-19	-
+41.4	A maj	Fliere	1977	2:14	134	Melodia 10 00439	9063b-04	-
+41.4	A maj	Fou	1978	3:23	203	Sony SB2K 53 246	9071b-08	-
+41.4	A maj	Francois	1956	1:40	100	EMI CZS 7 67413 2	9070b-12	-
+41.4	A maj	Frideman	1930	3:05	185	Muza PNCD 300	9091-08	-
+41.4	A maj	Gornostaeva	1994	1:48	108	Vista Vera VVCD-00064	9116-10	-
+41.4	A maj	Hatto	1993	1:52	112	Con. Artist FED4-TC-0116/7	610003b-04	-
+41.4	A maj	Hatto	2006	1:47	107	Con. Artist 9270/12	9073b-04	-
+41.4	A maj	Indjic	1988	1:51	111	Calliope 3321	9050-29	-
+41.4	A maj	Jonas	1947	1:47	107	PERL GEM 0077	9096-12	-
+41.4	A maj	Kiepura	1999	2:12	132	Patria KIE2000	9098-08	-
+41.4	A maj	Kushner	1989	1:48	108	Connoisseur CD4181/2	9118b-04	-
+41.4	A maj	Luisada	1991	3:29	209	DG 463054-2	9055-29	-
+41.4	A maj	Magaloff	1977	1:51	111	Phillips 426 817/29-2	9074f-29	-
+41.4	A maj	Magin	1975	1:51	111	Accord 465 665-2	9138-29	-
+41.4	A maj	Milkina	1970	2:16	136	Unterschrift/EMI	9099b-04	-
+41.4	A maj	Mohovich	1999	1:48	108	Agora AG 231.2	9104-29	-
+41.4	A maj	Ohlsson	1970	1:31	91	Muza CK 1025	6100021-08	-
+41.4	A maj	Ohlsson	1999	3:11	191	Arabesque Z6730-2	9153-29	-
+41.4	A maj	Osinska	1989	1:55	115	Cassiopee 969 213/6	9101b-11	-
+41.4	A maj	Perlemuter	1992	3:48	228	Nimbus NI5393	9089-11	-
+41.4	A maj	Poblocka	1999	3:20	200	BeArTon CDB012/13	9093b-04	-
+41.4	A maj	Rangell	2001	3:35	215	Dorian DOR-93258	9094-29	-
+41.4	A maj	Raubo	1995	3:19	199	DUX 0259	9120-08	-
+41.4	A maj	Rosen	1989	1:52	112	Globe 5028 	52932-14	-
+41.4	A maj	Rubinstein	1939	2:02	122	Naxos 8.110656-57	9049-29	-
+41.4	A maj	Rubinstein	1952	1:48	108	BMG 09026 63027-2	9075-29	-
+41.4	A maj	Rubinstein	1966	2:10	130	BMG 09026-63050-2	9059b-04	-
+41.4	A maj	Shebanova	2002	2:15	135	DUX 0350/0351	9072b-04	-
+41.4	A maj	Smith	1975	1:40	100	EMI 724358576726	9054-29	-
+41.4	A maj	Sztompka	1959	3:31	211	Muza PNOD 313 A/B	9170-29	-
+41.4	A maj	Uninsky	1959	2:06	126	Philips 442 574-2	9061-29	-
+41.4	A maj	Wasowski	1980	2:21	141	Concord CCD-42036	9111b-02	-
+50.1	G maj	Ashkenazy	1981	1:49	109	Decca 448 086-2	9058b-01	-
+50.1	G maj	Bacha	2000	2:14	134	Forlane 126817	9166j-01	-
+50.1	G maj	Barbosa	1983	2:10	130	Centaur CRC2098/9	9174b-01	-
+50.1	G maj	Bilinska	2005	2:37	157	DUX 0532	9134-07	-
+50.1	G maj	Biret	1990	2:38	158	Naxos 8.550359	9062b-04	-
+50.1	G maj	Block	1995	2:06	126	ProPiano PPR224507 	9064-12	-
+50.1	G maj	Brailowsky	1960	2:17	137	Sony SB2K 63237	9060-30	-
+50.1	G maj	Chiu	1999	2:23	143	HMX 2907352.53	9048b-05	-
+50.1	G maj	Cohen	1997	2:45	165	Glossa 920507 	9069-01	-
+50.1	G maj	Cortot	1951	3:20	200	Concert Artist 9180/12 	9066b-01	-
+50.1	G maj	Csalog	1996	2:05	125	Hungaroton HCD 31755/6	1263b-01	-
+50.1	G maj	Czerny-Stefanska	1990	2:45	165	Pony Canyon Classics PCCL-00460	9192b-01	-
+50.1	G maj	Ezaki	2006	2:33	153	Triton OVCT-00035	9139b-01	-
+50.1	G maj	Fliere	1977	2:11	131	Melodia 10 00439	9063b-05	-
+50.1	G maj	Fou	1978	2:22	142	Sony SB2K 53 246	9071b-11	-
+50.1	G maj	Fou	2005	2:32	152	NIFC CD001	9092-11	-
+50.1	G maj	Francois	1956	1:55	115	EMI CZS 7 67413 2	9070b-13	-
+50.1	G maj	Gierzod	1998	2:05	125	DUX 0298	9121-09	-
+50.1	G maj	Goldenweiser	1946	2:16	136	Dante HPC 103	917509-08	-
+50.1	G maj	Grinberg	1961	1:52	112	Denon COCQ-84244	9112-09	-
+50.1	G maj	Hatto	1993	2:19	139	Con. Artist FED4-TC-0116/7	610003b-05	-
+50.1	G maj	Hatto	2006	2:18	138	Con. Artist 9270/12	9073b-05	-
+50.1	G maj	Indjic	1988	2:18	138	Calliope 3321	9050b-01	-
+50.1	G maj	Kissin	1993	2:14	134	RCA 09026 62542 2	9056-10	-
+50.1	G maj	Koczalski	1948	2:33	153	Selene CD-s 9901.46	9144-32	-
+50.1	G maj	Kushner	1989	2:22	142	Connoisseur CD4181/2	9118b-05	-
+50.1	G maj	Luisada	1991	2:34	154	DG 463054-2	9055b-01	-
+50.1	G maj	Lushtak	2004	2:14	134	Centaur CRC 2707	9088-17	-
+50.1	G maj	Magaloff	1978	2:18	138	Phillips 426 817/29-2	9074g-01	-
+50.1	G maj	Magin	1975	2:25	145	Accord 465 665-2	9138b-01	-
+50.1	G maj	Milkina	1970	2:26	146	Unterschrift/EMI	9099b-05	-
+50.1	G maj	Mohovich	1999	2:46	166	Agora AG 231.2	9104b-01	-
+50.1	G maj	Niedzielski	1931	1:52	112	HMV B 3550	919401-01	-
+50.1	G maj	Ohlsson	1999	2:12	132	Arabesque Z6730-2	9153b-01	-
+50.1	G maj	Osinska	1989	2:26	146	Cassiopee 969 213/6	9101b-12	-
+50.1	G maj	Poblocka	1999	2:32	152	BeArTon CDB012/13	9093b-07	-
+50.1	G maj	Rangell	2001	2:12	132	Dorian DOR-93258	9094b-01	-
+50.1	G maj	Raubo	1995	2:03	123	DUX 0259	9120-09	-
+50.1	G maj	Rosen	1989	2:24	144	Globe 5028 	52932-16	-
+50.1	G maj	Rubinstein	1939	2:14	134	Naxos 8.110656-57	9049b-01	-
+50.1	G maj	Rubinstein	1952	2:15	135	BMG 09026 63027-2	9075b-01	-
+50.1	G maj	Rubinstein	1966	2:30	150	BMG 09026-63050-2	9059b-05	-
+50.1	G maj	Shebanova	2002	2:22	142	DUX 0350/0351	9072b-05	-
+50.1	G maj	Smith	1975	2:47	167	EMI 724358576726	9054b-01	-
+50.1	G maj	Sztompka	1927	2:37	157	Muza PNCD006	9085-03	-
+50.1	G maj	Sztompka	1959	2:40	160	Muza PNOD 313 A/B	9170b-01	-
+50.1	G maj	Uninsky	1961	2:05	125	Philips 442 574-2	9061-30	-
+50.1	G maj	Wasowski	1980	2:42	162	Concord CCD-42036	9111b-03	-
+50.1	G maj	Wojtas	2003	2:26	146	DUX 0509	9117-05	-
+50.2	A maj	Ashkenazy	1981	2:50	170	Decca 448 086-2	9058b-02	-
+50.2	A maj	Bacha	2000	3:10	190	Forlane 126817	9166j-02	-
+50.2	A maj	Barbosa	1983	3:17	197	Centaur CRC2098/9	9174b-02	-
+50.2	A maj	Bilinska	2005	3:22	202	DUX 0532	9134-08	-
+50.2	A maj	Biret	1990	3:05	185	Naxos 8.550359	9062b-05	-
+50.2	A maj	Block	1995	3:19	199	ProPiano PPR224507 	9064-13	-
+50.2	A maj	Boshniakovich	1969	2:30	150	Vista Vera VVCD-00022	9127-05	-
+50.2	A maj	Brailowsky	1960	2:57	177	Sony SB2K 63237	9060-31	-
+50.2	A maj	Chiu	1999	3:08	188	HMX 2907352.53	9048b-06	-
+50.2	A maj	Cohen	1997	3:28	208	Glossa 920507 	9069-02	-
+50.2	A maj	Cortot	1951	3:19	199	Concert Artist 9180/12 	9066b-02	-
+50.2	A maj	Csalog	1996	3:11	191	Hungaroton HCD 31755/6	1263b-02	-
+50.2	A maj	Czerny-Stefanska	1990	3:15	195	Pony Canyon Classics PCCL-00460	9192b-02	-
+50.2	A maj	Ezaki	2006	3:09	189	Triton OVCT-00035	9139b-02	-
+50.2	A maj	Ferenczy	1958	3:41	221	Hungaroton HCD 32121	9097-20	-
+50.2	A maj	Fiorentino	1963	3:23	203	Con. Artist 9200-2 	9065-20	-
+50.2	A maj	Fliere	1977	2:58	178	Melodia 10 00439	9063b-06	-
+50.2	A maj	Fou	1978	2:39	159	Sony SB2K 53 246	9071b-12	-
+50.2	A maj	Fou	2005	3:05	185	NIFC CD001	9092-09	-
+50.2	A maj	Francois	1956	2:14	134	EMI CZS 7 67413 2	9070b-14	-
+50.2	A maj	Friedman	1930	3:03	183	Philips 456 784-2 	5667230-15	-
+50.2	A maj	Gierzod	1998	3:09	189	DUX 0298	9121-10	-
+50.2	A maj	Hatto	1993	3:11	191	Con. Artist FED4-TC-0116/7	610003b-06	-
+50.2	A maj	Hatto	2006	3:05	185	Con. Artist 9270/12	9073b-06	-
+50.2	A maj	Indjic	1988	3:08	188	Calliope 3321	9050b-02	-
+50.2	A maj	Kapell	1951	2:50	170	RCA 09026-68990-2	9090-15	-
+50.2	A maj	Kiepura	1999	3:18	198	Patria KIE2000	9098-16	-
+50.2	A maj	Kushner	1989	3:09	189	Connoisseur CD4181/2	9118b-06	-
+50.2	A maj	Levy	1951	2:33	153	TAHRA TAH 556/8	915406-14	-
+50.2	A maj	Luisada	1991	3:44	224	DG 463054-2	9055b-02	-
+50.2	A maj	Lushtak	2004	3:06	186	Centaur CRC 2707	9088-18	-
+50.2	A maj	Magaloff	1978	3:08	188	Phillips 426 817/29-2	9074g-02	-
+50.2	A maj	Magin	1975	3:11	191	Accord 465 665-2	9138b-02	-
+50.2	A maj	Milkina	1970	3:09	189	Unterschrift/EMI	9099b-06	-
+50.2	A maj	Mohovich	1999	3:25	205	Agora AG 231.2	9104b-02	-
+50.2	A maj	Ohlsson	1999	3:21	201	Arabesque Z6730-2	9153b-02	-
+50.2	A maj	Osinska	1989	3:14	194	Cassiopee 969 213/6	9101b-13	-
+50.2	A maj	Pachmann	1907	2:25	145	Arbiter 141	9110-06	-
+50.2	A maj	Pachmann	1911	2:45	165	Arbiter 129	9109-06	-
+50.2	A maj	Pachmann	1917	2:24	144	Membran 222913-321	9057h-12	-
+50.2	A maj	Poblocka	1999	3:03	183	BeArTon CDB012/13	9093b-08	-
+50.2	A maj	Rangell	2001	2:42	162	Dorian DOR-93258	9094b-02	-
+50.2	A maj	Rosen	1989	3:10	190	Globe 5028 	52932-17	-
+50.2	A maj	Rosenthal	1935	2:53	173	Appian CDAPR 7002	9184-13	-
+50.2	A maj	Rosenthal	1935	3:01	181	Membran 222913-321	9057j-05	-
+50.2	A maj	Rosenthal	1935	3:02	182	Appian CDAPR 7002	9184-05	-
+50.2	A maj	Rosenthal	1936	3:23	203	Appian CDAPR 7002	9184b-05	-
+50.2	A maj	Rubinstein	1939	2:30	150	Naxos 8.110656-57	9049b-02	-
+50.2	A maj	Rubinstein	1952	2:49	169	BMG 09026 63027-2	9075b-02	-
+50.2	A maj	Rubinstein	1966	3:07	187	BMG 09026-63050-2	9059b-06	-
+50.2	A maj	Shebanova	2002	3:00	180	DUX 0350/0351	9072b-06	-
+50.2	A maj	Smith	1975	2:06	126	EMI 724358576726	9054b-02	-
+50.2	A maj	Sztompka	1927	3:27	207	Muza PNCD006	9085-04	-
+50.2	A maj	Sztompka	1959	3:34	214	Muza PNOD 313 A/B	9170b-02	-
+50.2	A maj	Uninsky	1959	2:45	165	Philips 442 574-2	9061-31	-
+50.2	A maj	Wasowski	1980	2:30	150	Concord CCD-42036	9111b-04	-
+50.2	A maj	Wojtas	2003	2:58	178	DUX 0509	9117-06	-
+50.3	C# min	Afanassiev	2001	6:33	393	Denon COCQ-84063	9130-09	-
+50.3	C# min	Ashkenazy	1981	4:57	297	Decca 448 086-2	9058b-03	-
+50.3	C# min	Askenase	1950	2:16	136	DG 477 5242	917520-19	-
+50.3	C# min	Bacha	2000	4:59	299	Forlane 126817	9166j-03	-
+50.3	C# min	Barbosa	1983	4:37	277	Centaur CRC2098/9	9174b-03	-
+50.3	C# min	Ben-Or	1989	5:15	315	Meridian CDE 84186	9161-09	-
+50.3	C# min	Bilinska	2005	5:40	340	DUX 0532	9134-09	-
+50.3	C# min	Biret	1990	5:26	326	Naxos 8.550359	9062b-06	-
+50.3	C# min	Blet	2003	6:07	367	Marcal MA030501	9103-15	-
+50.3	C# min	Block	1995	5:22	322	ProPiano PPR224507 	9064-14	-
+50.3	C# min	Brailowsky	1960	4:44	284	Sony SB2K 63237	9060b-01	-
+50.3	C# min	Chiu	1999	5:09	309	HMX 2907352.53	9048b-07	-
+50.3	C# min	Cohen	1997	5:21	321	Glossa 920507 	9069-03	-
+50.3	C# min	Cortot	1951	5:10	310	Concert Artist 9180/12 	9066b-03	-
+50.3	C# min	Csalog	1996	5:02	302	Hungaroton HCD 31755/6	1263b-03	-
+50.3	C# min	Czerny-Stefanska	1990	5:15	315	Pony Canyon Classics PCCL-00460	9192b-03	-
+50.3	C# min	Etkin	1937	4:17	257	Selene CD-s 9809.45	9147-10	-
+50.3	C# min	Ezaki	2006	4:59	299	Triton OVCT-00035	9139b-03	-
+50.3	C# min	Fiorentino	1963	5:49	349	Con. Artist 9200-2 	9065-21	-
+50.3	C# min	Fleisher	2004	4:33	273	Vanguard ATM CD 1551	510262-04	-
+50.3	C# min	Fliere	1977	5:14	314	Melodia 10 00439	9063b-07	-
+50.3	C# min	Fou	1978	4:45	285	Sony SB2K 53 246	9071b-13	-
+50.3	C# min	Fou	2005	5:33	333	NIFC CD001	9092-01	-
+50.3	C# min	Francois	1956	4:21	261	EMI CZS 7 67413 2	9070b-15	-
+50.3	C# min	Gierzod	1998	4:51	291	DUX 0298	9121-11	-
+50.3	C# min	Goldenweiser	1946	4:22	262	Dante HPC 103	917509-09	-
+50.3	C# min	Guller	1956	5:00	300	Parnassus Dis PCCD 20291	9176-11	-
+50.3	C# min	Hatto	1993	5:23	323	Con. Artist FED4-TC-0116/7	610003b-07	-
+50.3	C# min	Hatto	2006	5:28	328	Con. Artist 9270/12	9073b-07	-
+50.3	C# min	Horowitz	1935	4:11	251	Membran 222913-321	9057f-13	-
+50.3	C# min	Horowitz	1935	4:19	259	Philips 456 842-2 	5667249-05	-
+50.3	C# min	Horowitz	1949	4:55	295	Philips 456 842-2 	5667249-20	-
+50.3	C# min	Indjic	1988	5:29	329	Calliope 3321	9050b-03	-
+50.3	C# min	Janis	1998	5:15	315	EMI Angel 56780	917525-03	-
+50.3	C# min	Kapell	1951	4:24	264	RCA 09026-68990-2	9090-16	-
+50.3	C# min	Kissin	1993	5:22	322	RCA 09026 62542 2	9056-11	-
+50.3	C# min	Kushner	1989	4:50	290	Connoisseur CD4181/2	9118b-07	-
+50.3	C# min	Lipatti	1950	4:27	267	EMI 0542 / CDC 747390 	52013-17	-
+50.3	C# min	Luisada	1991	5:25	325	DG 463054-2	9055b-03	-
+50.3	C# min	Lushtak	2004	6:03	363	Centaur CRC 2707	9088-19	-
+50.3	C# min	Malcuzynski	1961	4:58	298	EMI CZS 5 68226 2	918904-11	-
+50.3	C# min	Magaloff	1978	5:29	329	Phillips 426 817/29-2	9074g-03	-
+50.3	C# min	Magin	1975	4:30	270	Accord 465 665-2	9138b-03	-
+50.3	C# min	Meguri	1997	4:54	294	Live Notes WWCC-7313	9137-16	-
+50.3	C# min	Milkina	1970	5:29	329	Unterschrift/EMI	9099b-07	-
+50.3	C# min	Mohovich	1999	5:18	318	Agora AG 231.2	9104b-03	-
+50.3	C# min	Moravec	1969	4:57	297	Philips 456 910-2	5667271-04	-
+50.3	C# min	Neighaus	1950	4:24	264	Classical Records CR-083	9119-08	-
+50.3	C# min	Oborin	1955	4:40	280	Muza PNCD 001	918713-09	-
+50.3	C# min	Ohlsson	1999	4:51	291	Arabesque Z6730-2	9153b-03	-
+50.3	C# min	Osinska	1989	5:06	306	Cassiopee 969 213/6	9101b-14	-
+50.3	C# min	Paperno	1991	4:33	273	Cedille CDR 90000 0007	918819-07	-
+50.3	C# min	Perlemuter	1986	5:00	300	Nimbus NI5393	9089-17	-
+50.3	C# min	Poblocka	1999	6:01	361	BeArTon CDB012/13	9093b-09	-
+50.3	C# min	Rangell	2001	5:13	313	Dorian DOR-93258	9094b-03	-
+50.3	C# min	Raubo	1995	5:21	321	DUX 0259	9120-10	-
+50.3	C# min	Rosen	1989	4:31	271	Globe 5028 	52932-18	-
+50.3	C# min	Rubinstein	1939	4:32	272	Naxos 8.110656-57	9049b-03	-
+50.3	C# min	Rubinstein	1952	5:04	304	BMG 09026 63027-2	9075b-03	-
+50.3	C# min	Rubinstein	1966	5:20	320	BMG 09026-63050-2	9059b-07	-
+50.3	C# min	Schilhawsky	1960	5:00	300	Accord 476 9011	9129-23	-
+50.3	C# min	Shebanova	2002	5:29	329	DUX 0350/0351	9072b-07	-
+50.3	C# min	Smith	1975	1:37	97	EMI 724358576726	9054b-03	-
+50.3	C# min	Sofronitsky	1949	4:43	283	Vista Vera VVCD-00118-2	9114b-12	-
+50.3	C# min	Sofronitsky	1960	5:05	305	Philips 456 970-2	5667291-18	-
+50.3	C# min	Sofronitsky	1961	5:07	307	Classound 001-026 	9113-18	-
+50.3	C# min	Sztompka	1927	5:11	311	Muza PNCD006	9085-05	-
+50.3	C# min	Sztompka	1959	5:08	308	Muza PNOD 313 A/B	9170b-03	-
+50.3	C# min	Uninsky	1959	5:06	306	Philips 442 574-2	9061-32	-
+50.3	C# min	Wasowski	1980	6:05	365	Concord CCD-42036	9111b-05	-
+50.3	C# min	Weissenberg	1971	3:47	227	EMI 724357383028	9052b-10	-
+50.3	C# min	Wojtas	2003	5:24	324	DUX 0509	9117-07	-
+50.3	C# min	Zaritzkaya	1960	4:44	284	Muza CK 1025	6100021-03	-
+56.1	B maj	Ashkenazy	1981	3:53	233	Decca 448 086-2	9058b-04	-
+56.1	B maj	Bacha	2000	4:08	248	Forlane 126817	9166k-05	-
+56.1	B maj	Barbosa	1983	3:45	225	Centaur CRC2098/9	9174b-04	-
+56.1	B maj	Biret	1990	5:41	341	Naxos 8.550359	9062b-07	-
+56.1	B maj	Blechacz	2005	4:10	250	DUX KCh15-06	9076-14	-
+56.1	B maj	Blechacz	2005	4:10	250	DUX KCh15-15	9077-02	-
+56.1	B maj	Block	1995	4:28	268	ProPiano PPR224507 	9064-15	-
+56.1	B maj	Brailowsky	1960	4:13	253	Sony SB2K 63237	9060b-02	-
+56.1	B maj	Chiu	1999	4:45	285	HMX 2907352.53	9048b-08	-
+56.1	B maj	Cohen	1997	5:42	342	Glossa 920507 	9069-04	-
+56.1	B maj	Coop	1996	3:50	230	Skylark 9601	9158-10	-
+56.1	B maj	Cortot	1951	5:16	316	Concert Artist 9180/12 	9066b-04	-
+56.1	B maj	Csalog	1996	4:47	287	Hungaroton HCD 31755/6	1263b-04	-
+56.1	B maj	Czerny-Stefanska	1990	4:45	285	Pony Canyon Classics PCCL-00460	9192b-04	-
+56.1	B maj	Ezaki	2006	4:48	288	Triton OVCT-00035	9139b-04	-
+56.1	B maj	Fliere	1977	3:42	222	Melodia 10 00439	9063b-08	-
+56.1	B maj	Fou	1978	4:23	263	Sony SB2K 53 246	9071b-14	-
+56.1	B maj	Francois	1956	3:30	210	EMI CZS 7 67413 2	9070b-16	-
+56.1	B maj	Hatto	1993	4:07	247	Con. Artist FED4-TC-0116/7	610003b-08	-
+56.1	B maj	Hatto	2006	4:03	243	Con. Artist 9270/12	9073b-08	-
+56.1	B maj	Indjic	1988	4:06	246	Calliope 3321	9050b-04	-
+56.1	B maj	Kushner	1989	4:26	266	Connoisseur CD4181/2	9118b-08	-
+56.1	B maj	Luisada	1991	4:53	293	DG 463054-2	9055b-04	-
+56.1	B maj	Magaloff	1978	4:06	246	Phillips 426 817/29-2	9074g-04	-
+56.1	B maj	Magin	1975	3:25	205	Accord 465 665-2	9138b-04	-
+56.1	B maj	Milkina	1970	4:39	279	Unterschrift/EMI	9099b-08	-
+56.1	B maj	Mohovich	1999	4:36	276	Agora AG 231.2	9104b-04	-
+56.1	B maj	Neighaus	1950	3:56	236	Classical Records CR-083	9119-09	-
+56.1	B maj	Ohlsson	1999	4:17	257	Arabesque Z6730-2	9153b-04	-
+56.1	B maj	Osinska	1989	4:37	277	Cassiopee 969 213/6	9101b-15	-
+56.1	B maj	Poblocka	1999	4:42	282	BeArTon CDB012/13	9093b-10	-
+56.1	B maj	Rangell	2001	4:35	275	Dorian DOR-93258	9094b-04	-
+56.1	B maj	Rosen	1989	4:12	252	Globe 5028 	52932-19	-
+56.1	B maj	Rubinstein	1939	3:43	223	Naxos 8.110656-57	9049b-04	-
+56.1	B maj	Rubinstein	1952	4:01	241	BMG 09026 63027-2	9075b-04	-
+56.1	B maj	Rubinstein	1966	4:20	260	BMG 09026-63050-2	9059b-08	-
+56.1	B maj	Shebanova	2002	4:27	267	DUX 0350/0351	9072b-08	-
+56.1	B maj	Smith	1975	0:40	40	EMI 724358576726	9054b-04	-
+56.1	B maj	Sztompka	1959	4:59	299	Muza PNOD 313 A/B	9170b-04	-
+56.1	B maj	Uninsky	1971	3:33	213	Philips 442 574-2	9061b-01	-
+56.1	B maj	Wasowski	1980	4:44	284	Concord CCD-42036	9111b-06	-
+56.2	C maj	Ashkenazy	1981	1:32	92	Decca 448 086-2	9058b-05	-
+56.2	C maj	Bacha	2000	1:31	91	Forlane 126817	9166k-06	-
+56.2	C maj	Barbosa	1983	1:33	93	Centaur CRC2098/9	9174b-05	-
+56.2	C maj	Biret	1990	1:25	85	Naxos 8.550359	9062b-08	-
+56.2	C maj	Blechacz	2005	1:36	96	DUX KCh15-15	9077-03	-
+56.2	C maj	Blechacz	2005	1:37	97	DUX KCh15-06	9076-15	-
+56.2	C maj	Blet	2003	2:06	126	Marcal MA030501	9103-16	-
+56.2	C maj	Block	1995	1:46	106	ProPiano PPR224507 	9064-16	-
+56.2	C maj	Brailowsky	1960	1:27	87	Sony SB2K 63237	9060b-03	-
+56.2	C maj	Bunin	1987	1:34	94	Olympia 501070	9124-14	-
+56.2	C maj	Bunin	1987	1:36	96	DG 423 618-2	918812-14	-
+56.2	C maj	Chiu	1999	1:58	118	HMX 2907352.53	9048b-09	-
+56.2	C maj	Cohen	1997	1:37	97	Glossa 920507 	9069-05	-
+56.2	C maj	Cortot	1951	1:32	92	Concert Artist 9180/12 	9066b-05	-
+56.2	C maj	Csalog	1996	1:32	92	Hungaroton HCD 31755/6	1263b-05	-
+56.2	C maj	Czerny-Stefanska	1990	1:54	114	Pony Canyon Classics PCCL-00460	9192b-05	-
+56.2	C maj	Ezaki	2006	1:49	109	Triton OVCT-00035	9139b-05	-
+56.2	C maj	Fliere	1977	1:38	98	Melodia 10 00439	9063b-09	-
+56.2	C maj	Fou	1978	1:49	109	Sony SB2K 53 246	9071b-15	-
+56.2	C maj	Francois	1956	1:27	87	EMI CZS 7 67413 2	9070b-17	-
+56.2	C maj	Gornostaeva	1994	1:31	91	Vista Vera VVCD-00064	9116-16	-
+56.2	C maj	Guller	1956	1:40	100	Parnassus Dis PCCD 20291	9176-01	-
+56.2	C maj	Hatto	1993	1:48	108	Con. Artist FED4-TC-0116/7	610003b-09	-
+56.2	C maj	Hatto	2006	1:44	104	Con. Artist 9270/12	9073b-09	-
+56.2	C maj	Indjic	1988	1:46	106	Calliope 3321	9050b-05	-
+56.2	C maj	Janis	1995	1:59	119	EMI56196	9185-03	-
+56.2	C maj	Kempff	1945	1:59	119	Koch Schwann 3-1029-2 H1	917518-07	-
+56.2	C maj	Kissin	1993	1:40	100	RCA 09026 62542 2	9056-06	-
+56.2	C maj	Kushner	1989	1:53	113	Connoisseur CD4181/2	9118b-09	-
+56.2	C maj	Landowska	1951	2:10	130	Testament SBT 1380	918801-10	-
+56.2	C maj	Luisada	1991	1:43	103	DG 463054-2	9055b-05	-
+56.2	C maj	Magaloff	1978	1:46	106	Phillips 426 817/29-2	9074g-05	-
+56.2	C maj	Magin	1975	1:24	84	Accord 465 665-2	9138b-05	-
+56.2	C maj	Meguri	1997	0:28	28	Live Notes WWCC-7313	9137-17	-
+56.2	C maj	Michelangeli	1971	1:45	105	Philips 456 904-2	5667269b-32	-
+56.2	C maj	Milkina	1970	2:05	125	Unterschrift/EMI	9099b-09	-
+56.2	C maj	Mohovich	1999	1:42	102	Agora AG 231.2	9104b-05	-
+56.2	C maj	Moravec	1989	1:49	109	Philips 456 910-2	5667271-07	-
+56.2	C maj	Ohlsson	1999	1:35	95	Arabesque Z6730-2	9153b-05	-
+56.2	C maj	Osinska	1989	1:47	107	Cassiopee 969 213/6	9101b-16	-
+56.2	C maj	Osinska	1989	5:56	356	Cassiopee 969 213/6	9101b-17	-
+56.2	C maj	Perlemuter	1992	1:45	105	Nimbus NI5393	9089-12	-
+56.2	C maj	Poblocka	1999	1:42	102	BeArTon CDB012/13	9093b-11	-
+56.2	C maj	Rangell	2001	1:38	98	Dorian DOR-93258	9094b-05	-
+56.2	C maj	Rosen	1989	1:45	105	Globe 5028 	52932-20	-
+56.2	C maj	Rubinstein	1939	1:26	86	Naxos 8.110656-57	9049b-05	-
+56.2	C maj	Rubinstein	1952	1:25	85	BMG 09026 63027-2	9075b-05	-
+56.2	C maj	Rubinstein	1966	1:44	104	BMG 09026-63050-2	9059b-09	-
+56.2	C maj	Shebanova	2002	1:47	107	DUX 0350/0351	9072b-09	-
+56.2	C maj	Smith	1975	2:16	136	EMI 724358576726	9054b-05	-
+56.2	C maj	Sztompka	1959	1:38	98	Muza PNOD 313 A/B	9170b-05	-
+56.2	C maj	Uninsky	1959	1:28	88	Philips 442 574-2	9061b-02	-
+56.2	C maj	Wasowski	1980	1:39	99	Concord CCD-42036	9111b-07	-
+56.3	C min	Ashkenazy	1981	5:55	355	Decca 448 086-2	9058b-06	-
+56.3	C min	Ax	1985	6:50	410	RCA Red Seal 82876 72554 2	9179-08	-
+56.3	C min	Bacha	2000	5:27	327	Forlane 126817	9166k-07	-
+56.3	C min	Barbosa	1983	5:31	331	Centaur CRC2098/9	9174b-06	-
+56.3	C min	Biret	1990	7:16	436	Naxos 8.550359	9062b-09	-
+56.3	C min	Blechacz	2005	5:51	351	DUX KCh15-15	9077-04	-
+56.3	C min	Blechacz	2005	6:00	360	DUX KCh15-06	9076-16	-
+56.3	C min	Block	1995	5:39	339	ProPiano PPR224507 	9064-17	-
+56.3	C min	Brailowsky	1960	5:35	335	Sony SB2K 63237	9060b-04	-
+56.3	C min	Chiu	1999	6:06	366	HMX 2907352.53	9048b-10	-
+56.3	C min	Cohen	1997	6:31	391	Glossa 920507 	9069-06	-
+56.3	C min	Coop	1996	5:08	308	Skylark 9601	9158-03	-
+56.3	C min	Cortot	1951	7:04	424	Concert Artist 9180/12 	9066b-06	-
+56.3	C min	Csalog	1996	5:34	334	Hungaroton HCD 31755/6	1263b-06	-
+56.3	C min	Czerny-Stefanska	1990	6:38	398	Pony Canyon Classics PCCL-00460	9192b-06	-
+56.3	C min	Ezaki	2006	6:00	360	Triton OVCT-00035	9139b-06	-
+56.3	C min	Fiorentino	1963	6:02	362	Con. Artist 9200-2 	9065-22	-
+56.3	C min	Fliere	1977	5:48	348	Melodia 10 00439	9063b-10	-
+56.3	C min	Fou	1955	5:30	330	Muza PNCD006	9085-20	-
+56.3	C min	Fou	1978	5:54	354	Sony SB2K 53 246	9071b-16	-
+56.3	C min	Fou	2005	6:36	396	NIFC CD001	9092-04	-
+56.3	C min	Francois	1956	5:43	343	EMI CZS 7 67413 2	9070b-18	-
+56.3	C min	Gornostaeva	1994	4:51	291	Vista Vera VVCD-00064	9116-12	-
+56.3	C min	Hatto	1993	6:46	406	Con. Artist FED4-TC-0116/7	610003b-10	-
+56.3	C min	Hatto	2006	5:45	345	Con. Artist 9270/12	9073b-10	-
+56.3	C min	Horowitz	1989	5:12	312	Sony 45818	53576-04	-
+56.3	C min	Indjic	1988	5:46	346	Calliope 3321	9050b-06	-
+56.3	C min	Jonas	1947	4:49	289	PERL GEM 0077	9096-09	-
+56.3	C min	Kapell	1951	5:12	312	RCA 09026-68990-2	9090-17	-
+56.3	C min	Kushner	1989	5:49	349	Connoisseur CD4181/2	9118b-10	-
+56.3	C min	Lear	1995	6:03	363	Libra Manuscript MNU 9703	9182-06	-
+56.3	C min	Luisada	1991	6:09	369	DG 463054-2	9055b-06	-
+56.3	C min	Magaloff	1978	5:46	346	Phillips 426 817/29-2	9074g-06	-
+56.3	C min	Magin	1975	4:52	292	Accord 465 665-2	9138b-06	-
+56.3	C min	Meguri	1997	8:22	502	Live Notes WWCC-7313	9137-18	-
+56.3	C min	Milkina	1970	6:18	378	Unterschrift/EMI	9099b-10	-
+56.3	C min	Mohovich	1999	6:09	369	Agora AG 231.2	9104b-06	-
+56.3	C min	Neighaus	1950	5:05	305	Classical Records CR-083	9119-10	-
+56.3	C min	Ohlsson	1999	6:10	370	Arabesque Z6730-2	9153b-06	-
+56.3	C min	Perlemuter	1992	6:10	370	Nimbus NI5393	9089-13	-
+56.3	C min	Poblocka	1999	4:06	246	BeArTon CDB012/13	9093b-12	-
+56.3	C min	Rangell	2001	6:17	377	Dorian DOR-93258	9094b-06	-
+56.3	C min	Romaniuk	1994	6:22	382	DUX 0246	9115-10	-
+56.3	C min	Rosen	1989	5:08	308	Globe 5028 	52932-21	-
+56.3	C min	Rubinstein	1932	4:44	284	BMG 0-9026-63002-2 	0198-04	-
+56.3	C min	Rubinstein	1932	4:44	284	Naxos 8.110656-57	9049b-24	-
+56.3	C min	Rubinstein	1939	4:53	293	Naxos 8.110656-57	9049b-06	-
+56.3	C min	Rubinstein	1952	5:26	326	BMG 09026 63027-2	9075b-06	-
+56.3	C min	Rubinstein	1966	5:47	347	BMG 09026-63050-2	9059b-10	-
+56.3	C min	Shebanova	2002	6:23	383	DUX 0350/0351	9072b-10	-
+56.3	C min	Smith	1975	3:00	180	EMI 724358576726	9054b-06	-
+56.3	C min	Sztompka	1959	6:10	370	Muza PNOD 313 A/B	9170b-06	-
+56.3	C min	Uninsky	1959	5:52	352	Philips 442 574-2	9061b-03	-
+56.3	C min	Wasowski	1980	7:50	470	Concord CCD-42036	9111b-08	-
+56.3	C min	Weissenberg	1971	5:00	300	EMI 724357383028	9052b-11	-
+59.1	A min	Anderszewski	2003	4:10	250	Virgin 724354-562020	58917-01	tap05
+59.1	A min	Argerich	1965	3:42	222	Muza CK 1025	6100021-04	-
+59.1	A min	Argerich	1967	3:19	199	Philips 456 703-2 	5667203-03	tap05
+59.1	A min	Ashkenazy	1981	4:29	269	Decca 448 086-2	9058b-07	-
+59.1	A min	Ashkenazy	1999	4:05	245	Decca SACD 470 608-2	918821-09	-
+59.1	A min	Ax	1985	4:00	240	RCA Red Seal 82876 72554 2	9179-09	-
+59.1	A min	Bacha	2000	3:28	208	Forlane 126817	9166l-01	-
+59.1	A min	Barbosa	1983	3:19	199	Centaur CRC2098/9	9174b-07	-
+59.1	A min	Biret	1990	4:48	288	Naxos 8.550359	9062b-10	-
+59.1	A min	Blet	2003	4:04	244	Marcal MA030501	9103-17	-
+59.1	A min	Block	1995	3:58	238	ProPiano PPR224507 	9064-18	-
+59.1	A min	Brailowsky	1960	3:11	191	Sony SB2K 63237	9060b-05	-
+59.1	A min	Chiu	1999	4:49	289	HMX 2907352.53	9048b-11	tap05
+59.1	A min	Cohen	1997	4:47	287	Glossa 920507 	9069-07	-
+59.1	A min	Coop	1996	3:50	230	Skylark 9601	9158-09	-
+59.1	A min	Cortot	1951	4:05	245	Concert Artist 9180/12 	9066b-07	-
+59.1	A min	Csalog	1996	3:40	220	Hungaroton HCD 31755/6	1263b-07	-
+59.1	A min	Czerny-Stefanska	1990	3:52	232	Pony Canyon Classics PCCL-00460	9192b-07	-
+59.1	A min	Ezaki	2006	3:45	225	Triton OVCT-00035	9139b-07	-
+59.1	A min	Falvay	1989	3:30	210	Naxos 8.550256 	9068-16	-
+59.1	A min	Feinberg	1953	3:42	222	Harmonia Mundi 1905175	917506-05	-
+59.1	A min	Fiorentino	1962	4:26	266	Con. Artist 9200-2 	9065-23	-
+59.1	A min	Fliere	1977	3:58	238	Melodia 10 00439	9063b-11	-
+59.1	A min	Fou	1955	3:38	218	Muza PNCD006	9085-21	-
+59.1	A min	Fou	1978	3:37	217	Sony SB2K 53 246	9071b-17	-
+59.1	A min	Fou	2005	3:59	239	NIFC CD001	9092-16	-
+59.1	A min	Francois	1956	2:48	168	EMI CZS 7 67413 2	9070b-19	-
+59.1	A min	Hatto	1993	4:18	258	Con. Artist FED4-TC-0116/7	610003b-11	-
+59.1	A min	Hatto	2006	4:14	254	Con. Artist 9270/12	9073b-11	-
+59.1	A min	Indjic	1988	4:15	255	Calliope 3321	9050b-07	tap05
+59.1	A min	Kapell	1951	3:46	226	RCA 09026-68990-2	9090-18	-
+59.1	A min	Kushner	1989	4:24	264	Connoisseur CD4181/2	9118b-11	-
+59.1	A min	Lim, D.H.	2003	4:09	249	EMI 7243 5 57702 2	918824-05	-
+59.1	A min	Lim, D.H.	2005	3:46	226	DUX KCh15-14	9133-07	-
+59.1	A min	Luisada	1991	3:50	230	DG 463054-2	9055b-07	tap05
+59.1	A min	Magaloff	1978	4:15	255	Phillips 426 817/29-2	9074g-07	-
+59.1	A min	Magin	1975	3:33	213	Accord 465 665-2	9138b-07	-
+59.1	A min	Milkina	1970	4:18	258	Unterschrift/EMI	9099b-11	-
+59.1	A min	Mohovich	1999	4:26	266	Agora AG 231.2	9104b-07	-
+59.1	A min	Neighaus	1950	3:07	187	Classical Records CR-083	9119-11	-
+59.1	A min	Ohlsson	1999	4:02	242	Arabesque Z6730-2	9153b-07	-
+59.1	A min	Osinska	1989	3:57	237	Cassiopee 969 213/6	9101c-01	-
+59.1	A min	Perlemuter	1992	3:48	228	Nimbus NI5393	9089-02	-
+59.1	A min	Poblocka	1980	3:39	219	Muza CK 1026	6100022-04	-
+59.1	A min	Poblocka	1999	3:47	227	BeArTon CDB012/13	9093b-13	-
+59.1	A min	Pogorelich	1980	3:29	209	Capriccio 10 024	918807-12	-
+59.1	A min	Pogorelich	1990	3:20	200	LaserLight 15 052	9169-04	-
+59.1	A min	Rangell	2001	4:39	279	Dorian DOR-93258	9094b-07	-
+59.1	A min	Romaniuk	1994	3:20	200	DUX 0246	9115-09	-
+59.1	A min	Rubinstein	1939	3:22	202	Naxos 8.110656-57	9049b-07	tap05
+59.1	A min	Rubinstein	1952	3:25	205	BMG 09026 63027-2	9075b-07	-
+59.1	A min	Rubinstein	1966	3:51	231	BMG 09026-63050-2	9059b-11	-
+59.1	A min	Shebanova	2002	3:56	236	DUX 0350/0351	9072b-11	-
+59.1	A min	Smith	1975	2:16	136	EMI 724358576726	9054b-07	tap05
+59.1	A min	Son	1980	3:41	221	Muza CK 1026	6100022-01	-
+59.1	A min	Son	2005	4:25	265	DUX KCh15-10	9081-07	-
+59.1	A min	Sztompka	1959	3:54	234	Muza PNOD 313 A/B	9170b-07	-
+59.1	A min	Uninsky	1971	3:55	235	Philips 442 574-2	9061b-04	-
+59.1	A min	Wasowski	1980	5:13	313	Concord CCD-42036	9111b-09	-
+59.1	A min	Woodward	1992	3:30	210	Warner Classics Australia 4509903182	9157-10	-
+59.1	A min	Yamamoto	2005	4:26	266	DUX KCh15-8	9079-06	-
+59.1	A min	Zawadzki	1995	4:30	270	Selene CD-s 9502.25	9149-12	-
+59.2	A maj	Anderszewski	2003	2:42	162	Virgin 724354-562020	58917-02	-
+59.2	A maj	Argerich	1965	2:37	157	Muza CK 1025	6100021-05	-
+59.2	A maj	Argerich	1967	2:18	138	Philips 456 703-2 	5667203-04	-
+59.2	A maj	Ashkenazy	1972	2:35	155	Philips 456 715-2 	5667207-03	-
+59.2	A maj	Ashkenazy	1981	2:30	150	Decca 448 086-2	9058b-08	-
+59.2	A maj	Ashkenazy	1999	2:25	145	Decca SACD 470 608-2	918821-10	-
+59.2	A maj	Ax	1985	2:38	158	RCA Red Seal 82876 72554 2	9179-10	-
+59.2	A maj	Bacha	2000	2:40	160	Forlane 126817	9166l-02	-
+59.2	A maj	Barbosa	1983	2:32	152	Centaur CRC2098/9	9174b-08	-
+59.2	A maj	Biret	1990	2:48	168	Naxos 8.550359	9062b-11	-
+59.2	A maj	Blet	2003	2:31	151	Marcal MA030501	9103-18	-
+59.2	A maj	Block	1995	2:46	166	ProPiano PPR224507 	9064-19	-
+59.2	A maj	Brailowsky	1960	2:34	154	Sony SB2K 63237	9060b-06	-
+59.2	A maj	Chiu	1999	2:51	171	HMX 2907352.53	9048b-12	-
+59.2	A maj	Cohen	1997	4:19	259	Glossa 920507 	9069-08	-
+59.2	A maj	Cortot	1951	2:43	163	Concert Artist 9180/12 	9066b-08	-
+59.2	A maj	Csalog	1996	2:36	156	Hungaroton HCD 31755/6	1263b-08	-
+59.2	A maj	Czerny-Stefanska	1990	2:35	155	Pony Canyon Classics PCCL-00460	9192b-08	-
+59.2	A maj	Ezaki	2006	2:36	156	Triton OVCT-00035	9139b-08	-
+59.2	A maj	Falvay	1989	2:33	153	Naxos 8.550256 	9068-17	-
+59.2	A maj	Feinberg	1953	2:29	149	Harmonia Mundi 1905175	917506-06	-
+59.2	A maj	Fiorentino	1962	2:10	130	Con. Artist 9200-2 	9065-24	-
+59.2	A maj	Fliere	1977	2:40	160	Melodia 10 00439	9063b-12	-
+59.2	A maj	Fou	1978	2:30	150	Sony SB2K 53 246	9071b-18	-
+59.2	A maj	Francois	1956	2:26	146	EMI CZS 7 67413 2	9070b-20	-
+59.2	A maj	Hatto	1993	2:40	160	Con. Artist FED4-TC-0116/7	610003b-12	-
+59.2	A maj	Hatto	2006	2:41	161	Con. Artist 9270/12	9073b-12	-
+59.2	A maj	Indjic	1988	2:42	162	Calliope 3321	9050b-08	-
+59.2	A maj	Kapell	1951	2:33	153	RCA 09026-68990-2	9090-19	-
+59.2	A maj	Kushner	1989	3:06	186	Connoisseur CD4181/2	9118b-12	-
+59.2	A maj	Lim, D.H.	2003	2:46	166	EMI 7243 5 57702 2	918824-06	-
+59.2	A maj	Lim, D.H.	2005	2:34	154	DUX KCh15-14	9133-08	-
+59.2	A maj	Luisada	1991	2:45	165	DG 463054-2	9055b-08	-
+59.2	A maj	Magaloff	1978	2:42	162	Phillips 426 817/29-2	9074g-08	-
+59.2	A maj	Magin	1975	2:24	144	Accord 465 665-2	9138b-08	-
+59.2	A maj	Milkina	1970	2:35	155	Unterschrift/EMI	9099b-12	-
+59.2	A maj	Mohovich	1999	2:41	161	Agora AG 231.2	9104b-08	-
+59.2	A maj	Neighaus	1950	2:21	141	Classical Records CR-083	9119-12	-
+59.2	A maj	Niedzielski	1931	2:05	125	HMV C-2008/10	610001-08	-
+59.2	A maj	Ohlsson	1999	2:45	165	Arabesque Z6730-2	9153b-08	-
+59.2	A maj	Osinska	1989	2:29	149	Cassiopee 969 213/6	9101c-02	-
+59.2	A maj	Paderewski	1923	2:31	151	Philips 456 919-2	5667274b-04	-
+59.2	A maj	Paderewski	1930	2:42	162	Piano Library PL 217	918903-19	-
+59.2	A maj	Paderewski	1930	2:43	163	Pearl GEMM CD 9323	918902-13	-
+59.2	A maj	Perlemuter	1992	2:38	158	Nimbus NI5393	9089-03	-
+59.2	A maj	Poblocka	1980	2:15	135	Muza CK 1026	6100022-05	-
+59.2	A maj	Poblocka	1999	2:25	145	BeArTon CDB012/13	9093b-14	-
+59.2	A maj	Pogorelich	1980	2:46	166	Capriccio 10 024	918807-13	-
+59.2	A maj	Rangell	2001	2:36	156	Dorian DOR-93258	9094b-08	-
+59.2	A maj	Rubinstein	1939	2:26	146	Naxos 8.110656-57	9049b-08	-
+59.2	A maj	Rubinstein	1952	2:16	136	BMG 09026 63027-2	9075b-08	-
+59.2	A maj	Rubinstein	1966	2:35	155	BMG 09026-63050-2	9059b-12	-
+59.2	A maj	Schilhawsky	1960	2:38	158	Accord 476 9011	9129-22	-
+59.2	A maj	Shebanova	2002	2:20	140	DUX 0350/0351	9072b-12	-
+59.2	A maj	Smith	1975	1:05	65	EMI 724358576726	9054b-08	-
+59.2	A maj	Son	1980	2:21	141	Muza CK 1026	6100022-02	-
+59.2	A maj	Sztompka	1959	2:46	166	Muza PNOD 313 A/B	9170b-08	-
+59.2	A maj	Uninsky	1971	2:58	178	Philips 442 574-2	9061b-05	-
+59.2	A maj	Wasowski	1980	3:05	185	Concord CCD-42036	9111b-10	-
+59.2	A maj	Woodward	1992	2:38	158	Warner Classics Australia 4509903182	9157-11	-
+59.2	A maj	Yamamoto	2005	2:42	162	DUX KCh15-8	9079-07	-
+59.2	A maj	Zawadzki	1995	2:28	148	Selene CD-s 9502.25	9149-13	-
+59.3	F# min	Anderszewski	2003	3:29	209	Virgin 724354-562020	58917-03	-
+59.3	F# min	Argerich	1965	3:18	198	Muza CK 1025	6100021-06	-
+59.3	F# min	Argerich	1967	2:47	167	Philips 456 703-2 	5667203-05	-
+59.3	F# min	Ashkenazy	1981	3:13	193	Decca 448 086-2	9058b-09	-
+59.3	F# min	Ashkenazy	1999	3:12	192	Decca SACD 470 608-2	918821-11	-
+59.3	F# min	Ax	1985	3:34	214	RCA Red Seal 82876 72554 2	9179-11	-
+59.3	F# min	Bacha	2000	3:15	195	Forlane 126817	9166l-03	-
+59.3	F# min	Barbosa	1983	3:12	192	Centaur CRC2098/9	9174b-09	-
+59.3	F# min	Biret	1990	3:59	239	Naxos 8.550359	9062b-12	-
+59.3	F# min	Brailowsky	1960	3:14	194	Sony SB2K 63237	9060b-07	-
+59.3	F# min	Chiu	1999	3:35	215	HMX 2907352.53	9048b-13	precor
+59.3	F# min	Cohen	1997	4:39	279	Glossa 920507 	9069-09	-
+59.3	F# min	Coop	1996	3:00	180	Skylark 9601	9158-15	-
+59.3	F# min	Cortot	1951	4:31	271	Concert Artist 9180/12 	9066b-09	-
+59.3	F# min	Csalog	1996	3:13	193	Hungaroton HCD 31755/6	1263b-09	-
+59.3	F# min	Czerny-Stefanska	1990	3:42	222	Pony Canyon Classics PCCL-00460	9192b-09	-
+59.3	F# min	Ezaki	2006	3:23	203	Triton OVCT-00035	9139b-09	-
+59.3	F# min	Falvay	1989	3:29	209	Naxos 8.550256 	9068-18	-
+59.3	F# min	Feinberg	1953	2:55	175	Harmonia Mundi 1905175	917506-07	-
+59.3	F# min	Ferenczy	1958	3:20	200	Hungaroton HCD 32121	9097-21	-
+59.3	F# min	Fiorentino	1962	3:09	189	Con. Artist 9200-2 	9065-25	-
+59.3	F# min	Fliere	1977	3:18	198	Melodia 10 00439	9063b-13	-
+59.3	F# min	Fou	1978	3:30	210	Sony SB2K 53 246	9071b-19	-
+59.3	F# min	Francois	1956	3:16	196	EMI CZS 7 67413 2	9070b-21	-
+59.3	F# min	Gornostaeva	1994	3:12	192	Vista Vera VVCD-00064	9116-14	-
+59.3	F# min	Hatto	1993	3:35	215	Con. Artist FED4-TC-0116/7	610003b-13	-
+59.3	F# min	Hatto	2006	3:35	215	Con. Artist 9270/12	9073b-13	-
+59.3	F# min	Horowitz	1950	3:08	188	Philips 456 842-2 	5667249-18	-
+59.3	F# min	Horowitz	1973	3:30	210	S3K 93039 Legacy 	59340-11	-
+59.3	F# min	Indjic	1988	3:39	219	Calliope 3321	9050b-09	-
+59.3	F# min	Kissin	1993	3:21	201	RCA 09026 62542 2	9056-14	-
+59.3	F# min	Kushner	1989	3:50	230	Connoisseur CD4181/2	9118b-13	-
+59.3	F# min	Lim, D.H.	2003	3:36	216	EMI 7243 5 57702 2	918824-07	-
+59.3	F# min	Lim, D.H.	2005	3:21	201	DUX KCh15-14	9133-09	-
+59.3	F# min	Long	1929	3:28	208	Cascavelle Vel 3067	915401b-09	-
+59.3	F# min	Luisada	1991	3:38	218	DG 463054-2	9055b-09	-
+59.3	F# min	Magaloff	1978	3:39	219	Phillips 426 817/29-2	9074g-09	-
+59.3	F# min	Magin	1975	3:10	190	Accord 465 665-2	9138b-09	-
+59.3	F# min	Meguri	1997	2:57	177	Live Notes WWCC-7313	9137-19	-
+59.3	F# min	Milkina	1970	4:00	240	Unterschrift/EMI	9099b-13	-
+59.3	F# min	Mohovich	1999	3:54	234	Agora AG 231.2	9104b-09	-
+59.3	F# min	Niedzielski	1931	3:01	181	HMV C-2008/10	610001-11	-
+59.3	F# min	Ohlsson	1999	3:25	205	Arabesque Z6730-2	9153b-09	-
+59.3	F# min	Osinska	1989	3:37	217	Cassiopee 969 213/6	9101c-03	-
+59.3	F# min	Pachmann	1912	2:40	160	Arbiter 129	9109-07	-
+59.3	F# min	Paderewski	1923	3:26	206	Philips 456 919-2	5667274b-05	-
+59.3	F# min	Paderewski	1924	3:36	216	Muza PNCD 300	9091-02	-
+59.3	F# min	Perlemuter	1992	4:02	242	Nimbus NI5393	9089-04	-
+59.3	F# min	Poblocka	1980	3:11	191	Muza CK 1026	6100022-06	-
+59.3	F# min	Poblocka	1999	3:19	199	BeArTon CDB012/13	9093b-15	-
+59.3	F# min	Pogorelich	1980	3:53	233	Capriccio 10 024	918807-14	-
+59.3	F# min	Rangell	2001	3:23	203	Dorian DOR-93258	9094b-09	-
+59.3	F# min	Renard	1949	2:51	171	VAI VAIA/IPA 1028-2	918802b-03	-
+59.3	F# min	Rubinstein	1939	3:13	193	Naxos 8.110656-57	9049b-09	-
+59.3	F# min	Rubinstein	1952	3:15	195	BMG 09026 63027-2	9075b-09	-
+59.3	F# min	Rubinstein	1966	3:39	219	BMG 09026-63050-2	9059b-13	-
+59.3	F# min	Shebanova	2002	3:00	180	DUX 0350/0351	9072b-13	-
+59.3	F# min	Smith	1975	0:52	52	EMI 724358576726	9054b-09	-
+59.3	F# min	Son	1980	3:18	198	Muza CK 1026	6100022-03	-
+59.3	F# min	Sztompka	1959	3:40	220	Muza PNOD 313 A/B	9170b-09	-
+59.3	F# min	Uninsky	1959	3:47	227	Philips 442 574-2	9061b-06	-
+59.3	F# min	Wasowski	1980	3:56	236	Concord CCD-42036	9111b-11	-
+59.3	F# min	Woodward	1992	3:07	187	Warner Classics Australia 4509903182	9157-12	-
+59.3	F# min	Yamamoto	2005	3:37	217	DUX KCh15-8	9079-08	-
+59.3	F# min	Zawadzki	1995	3:16	196	Selene CD-s 9502.25	9149-14	-
+63.1	B maj	Anderszewski	2003	2:09	129	Virgin 724354-562020	58917-04	-
+63.1	B maj	Ashkenazy	1981	1:59	119	Decca 448 086-2	9058b-10	-
+63.1	B maj	Bacha	2000	2:00	120	Forlane 126817	9166l-08	-
+63.1	B maj	Barbosa	1983	2:02	122	Centaur CRC2098/9	9174b-10	-
+63.1	B maj	Biret	1990	2:13	133	Naxos 8.550359	9062b-13	-
+63.1	B maj	Brailowsky	1960	1:58	118	Sony SB2K 63237	9060b-08	-
+63.1	B maj	Chiu	1999	2:05	125	HMX 2907352.53	9048b-14	-
+63.1	B maj	Cohen	1997	2:50	170	Glossa 920507 	9069-10	-
+63.1	B maj	Cortot	1951	2:07	127	Concert Artist 9180/12 	9066b-10	-
+63.1	B maj	Csalog	1996	2:03	123	Hungaroton HCD 31755/6	1263b-10	-
+63.1	B maj	Czerny-Stefanska	1990	2:17	137	Pony Canyon Classics PCCL-00460	9192b-10	-
+63.1	B maj	Ezaki	2006	2:13	133	Triton OVCT-00035	9139b-10	-
+63.1	B maj	Fliere	1977	2:12	132	Melodia 10 00439	9063b-14	-
+63.1	B maj	Fou	1978	1:59	119	Sony SB2K 53 246	9071b-20	-
+63.1	B maj	Francois	1956	2:11	131	EMI CZS 7 67413 2	9070b-22	-
+63.1	B maj	Hatto	1993	1:57	117	Con. Artist FED4-TC-0116/7	610003b-14	-
+63.1	B maj	Hatto	2006	1:56	116	Con. Artist 9270/12	9073b-14	-
+63.1	B maj	Indjic	1988	1:57	117	Calliope 3321	9050b-10	-
+63.1	B maj	Kissin	1993	2:27	147	RCA 09026 62542 2	9056-16	-
+63.1	B maj	Kushner	1989	2:19	139	Connoisseur CD4181/2	9118b-14	-
+63.1	B maj	Luisada	1991	2:11	131	DG 463054-2	9055b-10	-
+63.1	B maj	Lushtak	2004	2:08	128	Centaur CRC 2707	9088-20	-
+63.1	B maj	Magaloff	1978	1:57	117	Phillips 426 817/29-2	9074g-10	-
+63.1	B maj	Magin	1975	1:54	114	Accord 465 665-2	9138b-10	-
+63.1	B maj	Milkina	1970	2:24	144	Unterschrift/EMI	9099b-14	-
+63.1	B maj	Mohovich	1999	2:16	136	Agora AG 231.2	9104b-10	-
+63.1	B maj	Ohlsson	1999	2:15	135	Arabesque Z6730-2	9153b-10	-
+63.1	B maj	Osinska	1989	2:17	137	Cassiopee 969 213/6	9101c-04	-
+63.1	B maj	Perlemuter	1992	2:23	143	Nimbus NI5393	9089-05	-
+63.1	B maj	Poblocka	1999	2:07	127	BeArTon CDB012/13	9093b-16	-
+63.1	B maj	Rangell	2001	2:04	124	Dorian DOR-93258	9094b-10	-
+63.1	B maj	Rosen	1989	2:12	132	Globe 5028 	52932-22	-
+63.1	B maj	Rosenthal	1937	2:14	134	Membran 222913-321	9057j-06	-
+63.1	B maj	Rosenthal	1937	2:15	135	Appian CDAPR 7002	9184b-09	-
+63.1	B maj	Rubinstein	1932	2:06	126	Naxos 8.110656-57	9049b-25	-
+63.1	B maj	Rubinstein	1932	2:07	127	BMG 0-9026-63002-2 	0198-05	-
+63.1	B maj	Rubinstein	1939	2:04	124	Naxos 8.110656-57	9049b-10	-
+63.1	B maj	Rubinstein	1952	1:59	119	BMG 09026 63027-2	9075b-10	-
+63.1	B maj	Rubinstein	1966	2:17	137	BMG 09026-63050-2	9059b-14	-
+63.1	B maj	Shebanova	2002	1:55	115	DUX 0350/0351	9072b-14	-
+63.1	B maj	Smith	1975	2:26	146	EMI 724358576726	9054b-10	-
+63.1	B maj	Sofronitsky	1949	1:52	112	Vista Vera VVCD-00118-2	9114-32	-
+63.1	B maj	Sztompka	1959	2:13	133	Muza PNOD 313 A/B	9170b-10	-
+63.1	B maj	Uninsky	1971	2:00	120	Philips 442 574-2	9061b-07	-
+63.1	B maj	Wasowski	1980	2:27	147	Concord CCD-42036	9111b-12	-
+63.2	F min	Afanassiev	2001	2:23	143	Denon COCQ-84063	9130-10	-
+63.2	F min	Anderszewski	2003	3:04	184	Virgin 724354-562020	58917-05	-
+63.2	F min	Ashkenazy	1981	2:08	128	Decca 448 086-2	9058b-11	-
+63.2	F min	Bacha	2000	1:37	97	Forlane 126817	9166l-09	-
+63.2	F min	Barbosa	1983	1:38	98	Centaur CRC2098/9	9174b-11	-
+63.2	F min	Biret	1990	2:18	138	Naxos 8.550359	9062b-14	-
+63.2	F min	Blet	2003	1:41	101	Marcal MA030501	9103-19	-
+63.2	F min	Block	1995	1:39	99	ProPiano PPR224507 	9064-20	-
+63.2	F min	Blumental	1952	1:48	108	Brana BR0018	9102-06	-
+63.2	F min	Boshniakovich	1969	1:40	100	Vista Vera VVCD-00022	9127-07	-
+63.2	F min	Brailowsky	1960	1:32	92	Sony SB2K 63237	9060b-09	-
+63.2	F min	Chiu	1999	1:53	113	HMX 2907352.53	9048b-15	-
+63.2	F min	Cohen	1997	2:06	126	Glossa 920507 	9069-11	-
+63.2	F min	Coop	1996	1:52	112	Skylark 9601	9158-13	-
+63.2	F min	Cortot	1951	1:57	117	Concert Artist 9180/12 	9066b-11	-
+63.2	F min	Csalog	1996	1:48	108	Hungaroton HCD 31755/6	1263b-11	-
+63.2	F min	Czerny-Stefanska	1990	1:40	100	Pony Canyon Classics PCCL-00460	9192b-11	-
+63.2	F min	Ezaki	2006	1:43	103	Triton OVCT-00035	9139b-11	-
+63.2	F min	Falvay	1989	1:43	103	Naxos 8.550256 	9068-19	-
+63.2	F min	Ferenczy	1958	2:25	145	Hungaroton HCD 32121	9097-23	-
+63.2	F min	Fiorentino	1963	1:47	107	Con. Artist 9200-2 	9065-26	-
+63.2	F min	Fliere	1977	1:55	115	Melodia 10 00439	9063b-15	-
+63.2	F min	Fou	1978	1:48	108	Sony SB2K 53 246	9071b-21	-
+63.2	F min	Fou	2005	1:46	106	NIFC CD001	9092-05	-
+63.2	F min	Francois	1956	1:30	90	EMI CZS 7 67413 2	9070b-23	-
+63.2	F min	Gornostaeva	1994	1:33	93	Vista Vera VVCD-00064	9116-18	-
+63.2	F min	Grinberg	1961	1:33	93	Denon COCQ-84244	9112-10	-
+63.2	F min	Guller	1956	1:36	96	Parnassus Dis PCCD 20291	9176-04	-
+63.2	F min	Hatto	1993	2:08	128	Con. Artist FED4-TC-0116/7	610003b-15	-
+63.2	F min	Hatto	2006	2:07	127	Con. Artist 9270/12	9073b-15	-
+63.2	F min	Horowitz	1949	1:46	106	Philips 456 842-2 	5667249-23	-
+63.2	F min	Indjic	1988	2:08	128	Calliope 3321	9050b-11	-
+63.2	F min	Janis	1995	1:49	109	EMI56196	9185-04	-
+63.2	F min	Kapell	1951	1:36	96	RCA 09026-68990-2	9090-20	-
+63.2	F min	Kissin	1993	1:46	106	RCA 09026 62542 2	9056-05	-
+63.2	F min	Kushner	1989	2:02	122	Connoisseur CD4181/2	9118b-15	-
+63.2	F min	Luisada	1991	1:56	116	DG 463054-2	9055b-11	-
+63.2	F min	Lushtak	2004	2:02	122	Centaur CRC 2707	9088-21	-
+63.2	F min	Magaloff	1978	2:08	128	Phillips 426 817/29-2	9074g-11	-
+63.2	F min	Magin	1975	1:39	99	Accord 465 665-2	9138b-11	-
+63.2	F min	Milkina	1970	2:08	128	Unterschrift/EMI	9099b-15	-
+63.2	F min	Mohovich	1999	1:55	115	Agora AG 231.2	9104b-11	-
+63.2	F min	Moravec	1982	2:14	134	Vox MCD 10016	51495-01	-
+63.2	F min	Moravec	1983	2:16	136	Philips 456 910-2	5667271-02	-
+63.2	F min	Neighaus	1950	1:31	91	Classical Records CR-083	9119-13	-
+63.2	F min	Ohlsson	1999	1:50	110	Arabesque Z6730-2	9153b-11	-
+63.2	F min	Osinska	1989	1:55	115	Cassiopee 969 213/6	9101c-05	-
+63.2	F min	Perlemuter	1992	2:03	123	Nimbus NI5393	9089-06	-
+63.2	F min	Poblocka	1999	1:52	112	BeArTon CDB012/13	9093b-17	-
+63.2	F min	Rangell	2001	1:59	119	Dorian DOR-93258	9094b-11	-
+63.2	F min	Rosen	1989	1:42	102	Globe 5028 	52932-23	-
+63.2	F min	Rubinstein	1939	1:48	108	Naxos 8.110656-57	9049b-11	-
+63.2	F min	Rubinstein	1952	1:32	92	BMG 09026 63027-2	9075b-11	-
+63.2	F min	Rubinstein	1966	1:44	104	BMG 09026-63050-2	9059b-15	-
+63.2	F min	Shebanova	2002	1:41	101	DUX 0350/0351	9072b-15	-
+63.2	F min	Smith	1975	2:04	124	EMI 724358576726	9054b-11	-
+63.2	F min	Sofronitsky	1949	1:43	103	Vista Vera VVCD-00118-2	9114-33	-
+63.2	F min	Sofronitsky	1960	1:42	102	Philips 456 970-2	5667291-11	-
+63.2	F min	Sofronitsky	1961	1:44	104	Classound 001-026 	9113-11	-
+63.2	F min	Sztompka	1959	1:38	98	Muza PNOD 313 A/B	9170b-11	-
+63.2	F min	Tomsic	1995	1:35	95	Classical Collection CC C 068	9190-10	-
+63.2	F min	Uninsky	1971	1:51	111	Philips 442 574-2	9061b-08	-
+63.2	F min	Wasowski	1980	1:58	118	Concord CCD-42036	9111b-13	-
+63.2	F min	Zak	1951	1:35	95	Muza PNCD 001	918713-19	-
+63.3	C# min	Afanassiev	2001	2:34	154	Denon COCQ-84063	9130-11	precor
+63.3	C# min	Anderszewski	2003	2:39	159	Virgin 724354-562020	58917-06	precor
+63.3	C# min	Ashkenazy	1981	2:24	144	Decca 448 086-2	9058b-12	precor
+63.3	C# min	Bacha	2000	1:50	110	Forlane 126817	9166l-10	-
+63.3	C# min	Badura-Skoda	1965	2:37	157	Kleos KL 5117	915412b-21	-
+63.3	C# min	Barbosa	1983	2:02	122	Centaur CRC2098/9	9174b-12	-
+63.3	C# min	Biret	1990	2:24	144	Naxos 8.550359	9062b-15	precor
+63.3	C# min	Blet	2003	1:59	119	Marcal MA030501	9103-20	precor
+63.3	C# min	Block	1995	2:08	128	ProPiano PPR224507 	9064-21	precor
+63.3	C# min	Blumental	1952	1:46	106	Brana BR0018	9102-07	precor
+63.3	C# min	Boshniakovich	1969	2:13	133	Vista Vera VVCD-00022	9127-06	precor
+63.3	C# min	Brailowsky	1960	2:02	122	Sony SB2K 63237	9060b-10	precor
+63.3	C# min	Bunin	1987	2:05	125	Olympia 501070	9124-13	precor
+63.3	C# min	Bunin	1987	2:10	130	DG 423 618-2	918812-13	-
+63.3	C# min	Chiu	1999	2:17	137	HMX 2907352.53	9048b-16	precor
+63.3	C# min	Cohen	1997	2:38	158	Glossa 920507 	9069-12	precor
+63.3	C# min	Cortot	1951	2:23	143	Concert Artist 9180/12 	9066b-12	precor
+63.3	C# min	Csalog	1996	2:00	120	Hungaroton HCD 31755/6	1263b-12	-
+63.3	C# min	Czerny-Stefanska	1949	2:13	133	Muza PNCD006	9085-16	precor
+63.3	C# min	Czerny-Stefanska	1990	2:12	132	Pony Canyon Classics PCCL-00460	9192b-12	-
+63.3	C# min	Ezaki	2006	2:07	127	Triton OVCT-00035	9139b-12	-
+63.3	C# min	Falvay	1989	1:55	115	Naxos 8.550256 	9068-20	precor
+63.3	C# min	Farrell	1958	2:19	139	EMI Phoenixa CDM 7 64136 2	918805-02	-
+63.3	C# min	Ferenczy	1958	1:57	117	Hungaroton HCD 32121	9097-24	precor
+63.3	C# min	Fliere	1977	2:05	125	Melodia 10 00439	9063b-16	precor
+63.3	C# min	Fou	1978	1:58	118	Sony SB2K 53 246	9071b-22	precor
+63.3	C# min	Francois	1956	1:39	99	EMI CZS 7 67413 2	9070b-24	precor
+63.3	C# min	Friedman	1923	2:09	129	Naxos 8.110684 	9108-02	precor
+63.3	C# min	Friedman	1923	2:15	135	Selene CD-s 9908.53	9148-15	-
+63.3	C# min	Friedman	1930	2:16	136	Philips 456 784-2 	5667230-16	precor
+63.3	C# min	Gierzod	1998	2:05	125	DUX 0298	9121-07	precor
+63.3	C# min	Gornostaeva	1994	2:10	130	Vista Vera VVCD-00064	9116-20	precor
+63.3	C# min	Harasiewicz	1955	4:43	283	Muza PNCD002	9086-13	precor
+63.3	C# min	Hatto	1993	2:22	142	Con. Artist FED4-TC-0116/7	610003b-16	-
+63.3	C# min	Hatto	2006	2:20	140	Con. Artist 9270/12	9073b-16	precor
+63.3	C# min	Horowitz	1949	2:02	122	Philips 456 842-2 	5667249-22	precor
+63.3	C# min	Indjic	1988	2:21	141	Calliope 3321	9050b-12	precor
+63.3	C# min	Kapell	1951	1:51	111	RCA 09026-68990-2	9090-21	precor
+63.3	C# min	Kissin	1993	1:54	114	RCA 09026 62542 2	9056-07	precor
+63.3	C# min	Kushner	1989	2:08	128	Connoisseur CD4181/2	9118b-16	precor
+63.3	C# min	Luisada	1991	2:19	139	DG 463054-2	9055b-12	precor
+63.3	C# min	Lushtak	2004	2:16	136	Centaur CRC 2707	9088-22	precor
+63.3	C# min	Malcuzynski	1961	2:05	125	EMI CZS 5 68226 2	918904-12	-
+63.3	C# min	Magaloff	1978	2:21	141	Phillips 426 817/29-2	9074g-12	precor
+63.3	C# min	Magin	1975	2:00	120	Accord 465 665-2	9138b-12	-
+63.3	C# min	Michalowski	1933	2:01	121	Selene CD-s 9803.39	9083-16	unknown
+63.3	C# min	Milkina	1970	2:14	134	Unterschrift/EMI	9099b-16	precor
+63.3	C# min	Mohovich	1999	2:06	126	Agora AG 231.2	9104b-12	precor
+63.3	C# min	Moravec	1969	1:41	101	Philips 456 910-2	5667271-05	precor
+63.3	C# min	Neighaus	1950	1:49	109	Classical Records CR-083	9119-14	precor
+63.3	C# min	Niedzielski	1931	1:36	96	HMV B 3550	919401-03	-
+63.3	C# min	Ohlsson	1999	2:09	129	Arabesque Z6730-2	9153b-12	-
+63.3	C# min	Osinska	1989	2:12	132	Cassiopee 969 213/6	9101c-06	precor
+63.3	C# min	Pachmann	1927	1:54	114	Arbiter 141	9110-09	precor
+63.3	C# min	Paderewski	1930	2:08	128	Philips 456 919-2	5667274b-06	precor
+63.3	C# min	Perlemuter	1992	2:03	123	Nimbus NI5393	9089-07	precor
+63.3	C# min	Poblocka	1999	1:56	116	BeArTon CDB012/13	9093b-18	precor
+63.3	C# min	Rabcewiczowa	1932	2:01	121	Muza PNCD 300	9091-15	precor
+63.3	C# min	Rachmaninoff	1923	2:01	121	RCA Victor Gold Seal 09026-62533-2	9095-11	precor
+63.3	C# min	Rangell	2001	2:15	135	Dorian DOR-93258	9094b-12	precor
+63.3	C# min	Richter	1976	1:54	114	Doremi DHR-7724	9172-10	-
+63.3	C# min	Rosen	1989	1:58	118	Globe 5028 	52932-24	precor
+63.3	C# min	Rosenthal	1930	1:36	96	Biddulph LHW 040	9183-05	-
+63.3	C# min	Rosenthal	1931	1:53	113	Selene CD-s 9906.51	9141-09	-
+63.3	C# min	Rosenthal	1931	1:55	115	Biddulph LHW 040	9183-11	-
+63.3	C# min	Rosenthal	1931	1:56	116	Biddulph LHW 040	9183-12	-
+63.3	C# min	Rosenthal	1931	1:57	117	Membran 222913-321	9057j-07	precor
+63.3	C# min	Rubinstein	1939	2:13	133	Naxos 8.110656-57	9049b-12	precor
+63.3	C# min	Rubinstein	1952	1:57	117	BMG 09026 63027-2	9075b-12	precor
+63.3	C# min	Rubinstein	1966	2:18	138	BMG 09026-63050-2	9059b-16	precor
+63.3	C# min	Schilhawsky	1960	2:20	140	Accord 476 9011	9129-17	precor
+63.3	C# min	Shebanova	2002	2:01	121	DUX 0350/0351	9072b-16	precor
+63.3	C# min	Smith	1975	4:30	270	EMI 724358576726	9054b-12	precor
+63.3	C# min	Sztompka	1959	2:01	121	Muza PNOD 313 A/B	9170b-12	-
+63.3	C# min	Tomsic	1995	1:50	110	Classical Collection CC C 068	9190-09	-
+63.3	C# min	Uninsky	1932	1:53	113	Muza PNCD006	9085-11	precor
+63.3	C# min	Uninsky	1971	2:10	130	Philips 442 574-2	9061b-09	precor
+63.3	C# min	Wasowski	1980	2:16	136	Concord CCD-42036	9111b-14	precor
+63.3	C# min	Zak	1937	1:59	119	Muza PNCD006	9085-12	precor
+63.3	C# min	Zak	1951	2:05	125	Muza PNCD 001	918713-20	-
+67.1	G maj	Ashkenazy	1981	1:02	62	Decca 448 086-2	9058b-13	precor
+67.1	G maj	Bacha	1998	1:12	72	Forlane 126817	9166ee-16	-
+67.1	G maj	Barbosa	1983	1:07	67	Centaur CRC2098/9	9174b-13	-
+67.1	G maj	Biret	1990	1:15	75	Naxos 8.550359	9062b-16	-
+67.1	G maj	Brailowsky	1960	1:12	72	Sony SB2K 63237	9060b-11	-
+67.1	G maj	Chiu	1999	1:17	77	HMX 2907352.53	9048b-27	precor
+67.1	G maj	Cohen	1997	1:17	77	Glossa 920507 	9069-13	-
+67.1	G maj	Cortot	1951	1:04	64	Concert Artist 9180/12 	9066b-13	-
+67.1	G maj	Csalog	1996	1:10	70	Hungaroton HCD 31755/6	1263b-13	-
+67.1	G maj	Czerny-Stefanska	1990	1:16	76	Pony Canyon Classics PCCL-00460	9192b-15	-
+67.1	G maj	Ezaki	2006	1:14	74	Triton OVCT-00035	9139b-15	-
+67.1	G maj	Ferenczy	1956	1:14	74	Hungaroton HCD 32121	9097-03	-
+67.1	G maj	Fliere	1977	1:11	71	Melodia 10 00439	9063b-19	-
+67.1	G maj	Fou	1978	1:16	76	Sony SB2K 53 246	9071-23	-
+67.1	G maj	Francois	1956	1:12	72	EMI CZS 7 67413 2	9070b-25	-
+67.1	G maj	Grinberg	1951	1:00	60	Denon COCQ-84244	9112-12	-
+67.1	G maj	Hatto	1993	1:16	76	Con. Artist FED4-TC-0116/7	610003b-17	-
+67.1	G maj	Hatto	2006	1:12	72	Con. Artist 9270/12	9073b-19	precor
+67.1	G maj	Indjic	1988	1:15	75	Calliope 3321	9050b-15	precor
+67.1	G maj	Kushner	1989	1:16	76	Connoisseur CD4181/2	9118b-19	-
+67.1	G maj	Luisada	1991	1:22	82	DG 463054-2	9055b-13	precor
+67.1	G maj	Magaloff	1978	2:44	164	Phillips 426 817/29-2	9074g-13	-
+67.1	G maj	Meguri	1997	0:56	56	Live Notes WWCC-7313	9137-20	-
+67.1	G maj	Milkina	1970	1:30	90	Unterschrift/EMI	9099b-19	-
+67.1	G maj	Mohovich	1999	1:21	81	Agora AG 231.2	9104b-13	-
+67.1	G maj	Ohlsson	1999	1:12	72	Arabesque Z6730-2	9153b-15	-
+67.1	G maj	Osinska	1989	2:38	158	Cassiopee 969 213/6	9101c-07	-
+67.1	G maj	Pachmann	1925	1:06	66	Arbiter 141	9110-28	-
+67.1	G maj	Rangell	2001	1:18	78	Dorian DOR-93258	9094b-18	-
+67.1	G maj	Rosenthal	1930	1:25	85	Muza PNCD 300	9091-12	-
+67.1	G maj	Rosenthal	1931	1:19	79	Membran 222913-321	9057j-08	-
+67.1	G maj	Rosenthal	1931	1:19	79	Biddulph LHW 040	9183-09	-
+67.1	G maj	Rosenthal	1935	1:22	82	Appian CDAPR 7002	9184-14	-
+67.1	G maj	Rosenthal	1937	1:16	76	Appian CDAPR 7002	9184b-10	-
+67.1	G maj	Rubinstein	1939	1:09	69	Naxos 8.110656-57	9049b-13	xprecor
+67.1	G maj	Rubinstein	1952	1:01	61	BMG 09026 63027-2	9075b-13	-
+67.1	G maj	Rubinstein	1966	1:10	70	BMG 09026-63050-2	9059b-17	-
+67.1	G maj	Shebanova	2002	1:18	78	DUX 0350/0351	9072b-17	-
+67.1	G maj	Smith	1975	1:55	115	EMI 724358576726	9054b-15	xprecor
+67.1	G maj	Sztompka	1927	1:12	72	Muza PNCD006	9085-06	-
+67.1	G maj	Sztompka	1959	1:12	72	Muza PNOD 313 A/B	9170b-15	-
+67.1	G maj	Uninsky	1971	1:09	69	Philips 442 574-2	9061b-10	-
+67.1	G maj	Wasowski	1980	1:26	86	Concord CCD-42036	9111b-15	-
+67.2	G min	Ashkenazy	1981	1:55	115	Decca 448 086-2	9058b-14	-
+67.2	G min	Bacha	2000	1:52	112	Forlane 126817	9166l-16	-
+67.2	G min	Barbosa	1983	1:46	106	Centaur CRC2098/9	9174b-14	-
+67.2	G min	Biret	1990	1:57	117	Naxos 8.550359	9062b-17	-
+67.2	G min	Brailowsky	1960	2:00	120	Sony SB2K 63237	9060b-12	-
+67.2	G min	Chiu	1999	2:18	138	HMX 2907352.53	9048b-30	-
+67.2	G min	Cohen	1997	2:31	151	Glossa 920507 	9069-14	-
+67.2	G min	Cortot	1951	2:05	125	Concert Artist 9180/12 	9066b-14	-
+67.2	G min	Csalog	1996	2:03	123	Hungaroton HCD 31755/6	1263b-14	-
+67.2	G min	Czerny-Stefanska	1990	2:04	124	Pony Canyon Classics PCCL-00460	9192b-16	-
+67.2	G min	Ezaki	2006	1:53	113	Triton OVCT-00035	9139b-16	-
+67.2	G min	Ferenczy	1958	2:51	171	Hungaroton HCD 32121	9097-22	-
+67.2	G min	Fliere	1977	2:28	148	Melodia 10 00439	9063b-20	-
+67.2	G min	Fou	1978	1:51	111	Sony SB2K 53 246	9071b-24	-
+67.2	G min	Francois	1956	1:05	65	EMI CZS 7 67413 2	9070b-26	-
+67.2	G min	Grinberg	1951	1:53	113	Denon COCQ-84244	9112-13	-
+67.2	G min	Hatto	1993	1:48	108	Con. Artist FED4-TC-0116/7	610003b-18	-
+67.2	G min	Hatto	2006	1:50	110	Con. Artist 9270/12	9073b-20	-
+67.2	G min	Indjic	1988	1:50	110	Calliope 3321	9050b-16	-
+67.2	G min	Jonas	1947	1:40	100	PERL GEM 0077	9096-08	-
+67.2	G min	Kapell	1951	1:37	97	RCA 09026-68990-2	9090-22	-
+67.2	G min	Kiepura	1999	1:56	116	Patria KIE2000	9098-17	-
+67.2	G min	Kushner	1989	2:09	129	Connoisseur CD4181/2	9118b-20	-
+67.2	G min	Luisada	1991	2:10	130	DG 463054-2	9055b-14	-
+67.2	G min	Magaloff	1978	3:20	200	Phillips 426 817/29-2	9074g-14	-
+67.2	G min	Michelangeli	1971	1:58	118	Philips 456 904-2	5667269b-31	-
+67.2	G min	Milkina	1970	2:12	132	Unterschrift/EMI	9099b-20	-
+67.2	G min	Mohovich	1999	2:06	126	Agora AG 231.2	9104b-14	-
+67.2	G min	Ohlsson	1999	2:00	120	Arabesque Z6730-2	9153b-16	-
+67.2	G min	Osinska	1989	3:20	200	Cassiopee 969 213/6	9101c-08	-
+67.2	G min	Rangell	2001	2:05	125	Dorian DOR-93258	9094b-19	-
+67.2	G min	Rubinstein	1939	1:28	88	Naxos 8.110656-57	9049b-14	-
+67.2	G min	Rubinstein	1952	1:35	95	BMG 09026 63027-2	9075b-14	-
+67.2	G min	Rubinstein	1966	1:58	118	BMG 09026-63050-2	9059b-18	-
+67.2	G min	Shebanova	2002	2:03	123	DUX 0350/0351	9072b-18	-
+67.2	G min	Smith	1975	2:06	126	EMI 724358576726	9054b-16	-
+67.2	G min	Sztompka	1927	1:48	108	Muza PNCD006	9085-07	-
+67.2	G min	Sztompka	1959	1:47	107	Muza PNOD 313 A/B	9170b-16	-
+67.2	G min	Uninsky	1971	1:42	102	Philips 442 574-2	9061b-11	-
+67.2	G min	Vardi	1988	2:02	122	Carriere Classics 21.0017	9173-05	-
+67.2	G min	Wasowski	1980	1:52	112	Concord CCD-42036	9111b-16	-
+67.3	C maj	Ashkenazy	1981	1:25	85	Decca 448 086-2	9058b-15	-
+67.3	C maj	Bacha	1998	1:31	91	Forlane 126817	9166ee-15	-
+67.3	C maj	Barbosa	1983	1:25	85	Centaur CRC2098/9	9174b-15	-
+67.3	C maj	Biret	1990	1:17	77	Naxos 8.550359	9062b-18	-
+67.3	C maj	Blet	2003	1:17	77	Marcal MA030501	9103-21	-
+67.3	C maj	Block	1995	1:39	99	ProPiano PPR224507 	9064-01	-
+67.3	C maj	Boshniakovich	1972	1:28	88	Vista Vera VVCD-00022	9127-03	-
+67.3	C maj	Brailowsky	1960	1:37	97	Sony SB2K 63237	9060b-13	-
+67.3	C maj	Bunin	1985	1:27	87	DG 431 585-2	918810-15	-
+67.3	C maj	Bunin	1987	1:21	81	Olympia 501070	9124-15	-
+67.3	C maj	Bunin	1987	1:22	82	DG 423 618-2	918812-15	-
+67.3	C maj	Chiu	1999	1:27	87	HMX 2907352.53	9048b-28	-
+67.3	C maj	Cohen	1997	2:01	121	Glossa 920507 	9069-15	-
+67.3	C maj	Cortot	1951	1:48	108	Concert Artist 9180/12 	9066b-15	-
+67.3	C maj	Csalog	1996	1:37	97	Hungaroton HCD 31755/6	1263b-15	-
+67.3	C maj	Czerny-Stefanska	1990	1:29	89	Pony Canyon Classics PCCL-00460	9192b-17	-
+67.3	C maj	Ezaki	2006	1:31	91	Triton OVCT-00035	9139b-17	-
+67.3	C maj	Falvay	1989	1:27	87	Naxos 8.550256 	9068-21	-
+67.3	C maj	Fliere	1977	1:33	93	Melodia 10 00439	9063b-21	-
+67.3	C maj	Fou	1978	1:26	86	Sony SB2K 53 246	9071-24	-
+67.3	C maj	Francois	1956	1:30	90	EMI CZS 7 67413 2	9070b-27	-
+67.3	C maj	Friedman	1930	1:12	72	Philips 456 784-2 	5667230-17	-
+67.3	C maj	Hatto	1993	1:22	82	Con. Artist FED4-TC-0116/7	610003b-19	-
+67.3	C maj	Hatto	2006	1:24	84	Con. Artist 9270/12	9073b-21	-
+67.3	C maj	Indjic	1988	1:24	84	Calliope 3321	9050b-17	-
+67.3	C maj	Kapell	1951	1:19	79	RCA 09026-68990-2	9090-23	-
+67.3	C maj	Kushner	1989	1:36	96	Connoisseur CD4181/2	9118b-21	-
+67.3	C maj	Luisada	1991	1:37	97	DG 463054-2	9055b-15	-
+67.3	C maj	Magaloff	1978	1:15	75	Phillips 426 817/29-2	9074g-15	-
+67.3	C maj	Milkina	1970	1:54	114	Unterschrift/EMI	9099b-21	-
+67.3	C maj	Mohovich	1999	1:28	88	Agora AG 231.2	9104b-15	-
+67.3	C maj	Niedzielski	1931	1:25	85	HMV B 3550	919401-02	-
+67.3	C maj	Ohlsson	1999	1:23	83	Arabesque Z6730-2	9153b-17	-
+67.3	C maj	Osinska	1989	1:18	78	Cassiopee 969 213/6	9101c-09	-
+67.3	C maj	Rangell	2001	1:31	91	Dorian DOR-93258	9094b-20	-
+67.3	C maj	Richter	1976	1:16	76	Doremi DHR-7724	9172-11	-
+67.3	C maj	Rosenthal	1931	1:17	77	Selene CD-s 9906.51	9141-10	-
+67.3	C maj	Rubinstein	1939	1:38	98	Naxos 8.110656-57	9049b-15	-
+67.3	C maj	Rubinstein	1952	1:22	82	BMG 09026 63027-2	9075b-15	-
+67.3	C maj	Rubinstein	1966	1:37	97	BMG 09026-63050-2	9059b-19	-
+67.3	C maj	Shebanova	2002	1:29	89	DUX 0350/0351	9072b-19	-
+67.3	C maj	Smith	1975	4:35	275	EMI 724358576726	9054b-17	-
+67.3	C maj	Sztompka	1927	1:33	93	Muza PNCD006	9085-08	-
+67.3	C maj	Sztompka	1959	1:34	94	Muza PNOD 313 A/B	9170b-17	-
+67.3	C maj	Uninsky	1971	1:33	93	Philips 442 574-2	9061b-12	-
+67.3	C maj	Vasary	1965	1:29	89	DG 449313-2	9053-20	-
+67.3	C maj	Wasowski	1980	1:46	106	Concord CCD-42036	9111b-17	-
+67.4	A min	Afanassiev	2001	4:30	270	Denon COCQ-84063	9130-12	-
+67.4	A min	Ashkenazy	1981	2:28	148	Decca 448 086-2	9058b-16	-
+67.4	A min	Bacha	2000	3:01	181	Forlane 126817	9166l-15	-
+67.4	A min	Barbosa	1983	2:48	168	Centaur CRC2098/9	9174b-16	-
+67.4	A min	Biret	1990	2:37	157	Naxos 8.550359	9062b-19	-
+67.4	A min	Blet	2003	3:05	185	Marcal MA030501	9103-22	-
+67.4	A min	Boshniakovich	1969	3:03	183	Vista Vera VVCD-00022	9127-01	-
+67.4	A min	Brailowsky	1960	2:24	144	Sony SB2K 63237	9060b-14	-
+67.4	A min	Bunin	1987	3:33	213	Olympia 501070	9124-16	-
+67.4	A min	Bunin	1987	3:43	223	DG 423 618-2	918812-16	-
+67.4	A min	Chiu	1999	2:50	170	HMX 2907352.53	9048b-29	tap05
+67.4	A min	Cohen	1997	3:47	227	Glossa 920507 	9069-16	-
+67.4	A min	Coop	1996	2:15	135	Skylark 9601	9158-01	-
+67.4	A min	Cortot	1951	3:47	227	Concert Artist 9180/12 	9066b-16	-
+67.4	A min	Csalog	1996	3:02	182	Hungaroton HCD 31755/6	1263b-16	-
+67.4	A min	Czerny-Stefanska	1949	2:38	158	Muza PNCD006	9085-17	-
+67.4	A min	Czerny-Stefanska	1990	2:39	159	Pony Canyon Classics PCCL-00460	9192b-18	-
+67.4	A min	Ezaki	2006	2:51	171	Triton OVCT-00035	9139b-18	-
+67.4	A min	Falvay	1989	2:53	173	Naxos 8.550256 	9068-22	-
+67.4	A min	Ferenczy	1958	3:24	204	Hungaroton HCD 32121	9097-25	-
+67.4	A min	Fliere	1977	3:22	202	Melodia 10 00439	9063b-22	-
+67.4	A min	Fou	1978	2:34	154	Sony SB2K 53 246	9071b-23	-
+67.4	A min	Francois	1956	1:34	94	EMI CZS 7 67413 2	9070b-28	-
+67.4	A min	Friedman	1930	2:02	122	Philips 456 784-2 	5667230-18	tap05
+67.4	A min	Gornostaeva	1994	2:45	165	Vista Vera VVCD-00064	9116-05	-
+67.4	A min	Gruenfeld	1902	2:05	125	OPAL CD 9850	9168-04	-
+67.4	A min	Harasiewicz	1955	2:33	153	Muza PNCD002	9086-12	-
+67.4	A min	Hatto	1993	2:53	173	Con. Artist FED4-TC-0116/7	610003b-20	-
+67.4	A min	Hatto	2006	2:53	173	Con. Artist 9270/12	9073b-22	-
+67.4	A min	Indjic	1988	2:55	175	Calliope 3321	9050b-18	tap05
+67.4	A min	Janis	1956	2:33	153	Philips 456 847-2	5667250b-05	tap05
+67.4	A min	Janis	1995	2:58	178	EMI56196	9185-06	-
+67.4	A min	Kapell	1951	2:00	120	RCA 09026-68990-2	9090-24	-
+67.4	A min	Kushner	1989	3:00	180	Connoisseur CD4181/2	9118b-22	-
+67.4	A min	Luisada	1991	2:55	175	DG 463054-2	9055b-16	tap05
+67.4	A min	Malcuzynski	1961	2:50	170	EMI CZS 5 68226 2	918904-13	-
+67.4	A min	Magaloff	1978	1:50	110	Phillips 426 817/29-2	9074g-16	-
+67.4	A min	Michalowski	1910	2:19	139	Muza PNCD 300	9091-03	-
+67.4	A min	Michelangeli	1971	3:06	186	Philips 456 904-2	5667269b-33	tap05
+67.4	A min	Milkina	1970	3:21	201	Unterschrift/EMI	9099b-22	-
+67.4	A min	Mohovich	1999	2:57	177	Agora AG 231.2	9104b-16	-
+67.4	A min	Niedzielski	1931	2:17	137	HMV C-2008/10	610001-10	-
+67.4	A min	Ohlsson	1999	2:30	150	Arabesque Z6730-2	9153b-18	-
+67.4	A min	Olejniczac	1990	2:41	161	Na&iuml;ve OP20002	9100b-23	-
+67.4	A min	Osinska	1989	2:00	120	Cassiopee 969 213/6	9101c-10	-
+67.4	A min	Pachmann	1911	2:16	136	Arbiter 129	9109-08	-
+67.4	A min	Pachmann	1917	2:13	133	Membran 222913-321	9057h-11	-
+67.4	A min	Pachmann	1927	2:19	139	Arbiter 141	9110-10	-
+67.4	A min	Rangell	2001	3:29	209	Dorian DOR-93258	9094b-21	-
+67.4	A min	Rubinstein	1939	1:49	109	Naxos 8.110656-57	9049b-16	tap05
+67.4	A min	Rubinstein	1952	2:34	154	BMG 09026 63027-2	9075b-16	-
+67.4	A min	Rubinstein	1966	3:04	184	BMG 09026-63050-2	9059b-20	-
+67.4	A min	Shebanova	2002	3:19	199	DUX 0350/0351	9072b-20	-
+67.4	A min	Smith	1975	1:37	97	EMI 724358576726	9054b-18	tap05
+67.4	A min	Sofronitsky	1949	2:45	165	Vista Vera VVCD-00118-2	9114-26	-
+67.4	A min	Sztompka	1927	2:37	157	Muza PNCD006	9085-09	-
+67.4	A min	Sztompka	1959	2:39	159	Muza PNOD 313 A/B	9170b-18	-
+67.4	A min	Uninsky	1971	2:47	167	Philips 442 574-2	9061b-13	-
+67.4	A min	Vardi	1988	3:25	205	Carriere Classics 21.0017	9173-02	-
+67.4	A min	Wasowski	1980	2:03	123	Concord CCD-42036	9111b-18	-
+68.1	C maj	Ashkenazy	1981	1:25	85	Decca 448 086-2	9058b-17	-
+68.1	C maj	Bacha	1997	1:37	97	Forlane 126817	9166b-15	-
+68.1	C maj	Barbosa	1983	1:21	81	Centaur CRC2098/9	9174b-17	-
+68.1	C maj	Ben-Or	1989	1:51	111	Meridian CDE 84186	9161-04	-
+68.1	C maj	Biret	1990	1:47	107	Naxos 8.550359	9062b-20	-
+68.1	C maj	Brailowsky	1960	1:38	98	Sony SB2K 63237	9060b-15	-
+68.1	C maj	Cherkassky	1945	1:37	97	Ivory Classics 72003	9155b-14	-
+68.1	C maj	Chiu	1999	1:38	98	HMX 2907352.53	9048b-21	-
+68.1	C maj	Cohen	1997	1:46	106	Glossa 920507 	9069-17	-
+68.1	C maj	Cortot	1951	1:45	105	Concert Artist 9180/12 	9066b-17	-
+68.1	C maj	Csalog	1996	1:27	87	Hungaroton HCD 31755/6	1263b-17	-
+68.1	C maj	Czerny-Stefanska	1949	1:41	101	Muza PNCD006	9085-18	-
+68.1	C maj	Czerny-Stefanska	1949	1:46	106	Muza PNCD002	9086-06	-
+68.1	C maj	Czerny-Stefanska	1990	1:48	108	Pony Canyon Classics PCCL-00460	9192b-19	-
+68.1	C maj	Ezaki	2006	1:38	98	Triton OVCT-00035	9139b-19	-
+68.1	C maj	Fliere	1977	1:37	97	Melodia 10 00439	9063b-23	-
+68.1	C maj	Fou	1978	1:40	100	Sony SB2K 53 246	9071-05	-
+68.1	C maj	Francois	1956	1:12	72	EMI CZS 7 67413 2	9070b-29	-
+68.1	C maj	Guller	1956	1:37	97	Parnassus Dis PCCD 20291	9176-05	-
+68.1	C maj	Hatto	1993	1:43	103	Con. Artist FED4-TC-0116/7	610003b-21	-
+68.1	C maj	Hatto	2006	1:40	100	Con. Artist 9270/12	9073b-23	-
+68.1	C maj	Indjic	1988	1:41	101	Calliope 3321	9050b-19	-
+68.1	C maj	Kiepura	1999	1:43	103	Patria KIE2000	9098-19	-
+68.1	C maj	Kushner	1989	1:51	111	Connoisseur CD4181/2	9118b-23	-
+68.1	C maj	Luisada	1991	1:47	107	DG 463054-2	9055b-17	-
+68.1	C maj	Lushtak	2004	1:40	100	Centaur CRC 2707	9088-23	-
+68.1	C maj	Magaloff	1978	1:24	84	Phillips 426 817/29-2	9074g-17	-
+68.1	C maj	Meguri	1997	1:20	80	Live Notes WWCC-7313	9137-21	-
+68.1	C maj	Michelangeli	1971	1:29	89	Philips 456 904-2	5667269b-35	-
+68.1	C maj	Milkina	1970	1:49	109	Unterschrift/EMI	9099b-23	-
+68.1	C maj	Mohovich	1999	1:53	113	Agora AG 231.2	9104b-17	-
+68.1	C maj	Niedzielski	1931	1:12	72	HMV C-2008/10	610001-05	-
+68.1	C maj	Ohlsson	1999	1:25	85	Arabesque Z6730-2	9153b-19	-
+68.1	C maj	Olejniczac	1990	1:50	110	Na&iuml;ve OP20002	9100b-06	-
+68.1	C maj	Osinska	1989	1:31	91	Cassiopee 969 213/6	9101c-11	-
+68.1	C maj	Rangell	2001	1:34	94	Dorian DOR-93258	9094b-25	-
+68.1	C maj	Rubinstein	1939	1:35	95	Naxos 8.110656-57	9049b-17	-
+68.1	C maj	Rubinstein	1952	1:30	90	BMG 09026 63027-2	9075b-17	-
+68.1	C maj	Rubinstein	1961	1:39	99	Philips 456 955-2	5667285b-08	-
+68.1	C maj	Rubinstein	1966	1:40	100	BMG 09026-63050-2	9059b-21	-
+68.1	C maj	Shebanova	2002	1:40	100	DUX 0350/0351	9072b-21	-
+68.1	C maj	Smith	1975	1:09	69	EMI 724358576726	9054b-19	-
+68.1	C maj	Sofronitsky	1949	1:33	93	Vista Vera VVCD-00118-2	9114-35	-
+68.1	C maj	Sztompka	1959	1:40	100	Muza PNOD 313 A/B	9170b-19	-
+68.1	C maj	Uninsky	1971	1:29	89	Philips 442 574-2	9061b-14	-
+68.1	C maj	Wasowski	1980	1:43	103	Concord CCD-42036	9111b-19	-
+68.2	A min	Smidowicz	1948	2:40	160	Selene CD-s 9905.50	9082-10	-
+68.2	A min	Afanassiev	2001	4:30	270	Denon COCQ-84063	9130-13	-
+68.2	A min	Ashkenazy	1981	3:09	189	Decca 448 086-2	9058b-18	-
+68.2	A min	Bacha	1996	2:35	155	Forlane 126817	9166-11	-
+68.2	A min	Barbosa	1983	2:39	159	Centaur CRC2098/9	9174b-18	-
+68.2	A min	Biret	1990	3:03	183	Naxos 8.550359	9062b-21	-
+68.2	A min	Brailowsky	1960	2:12	132	Sony SB2K 63237	9060b-16	-
+68.2	A min	Chiu	1999	2:51	171	HMX 2907352.53	9048b-18	tap05
+68.2	A min	Clidat	1994	2:15	135	Forlane UCD16729 	9067-26	-
+68.2	A min	Cohen	1997	3:36	216	Glossa 920507 	9069-18	-
+68.2	A min	Cortot	1951	3:30	210	Concert Artist 9180/12 	9066b-18	-
+68.2	A min	Csalog	1996	3:02	182	Hungaroton HCD 31755/6	1263b-18	-
+68.2	A min	Czerny-Stefanska	1949	3:01	181	Muza PNCD006	9085-19	-
+68.2	A min	Czerny-Stefanska	1990	2:49	169	Pony Canyon Classics PCCL-00460	9192b-20	-
+68.2	A min	Ezaki	2006	3:10	190	Triton OVCT-00035	9139b-20	-
+68.2	A min	Falvay	1989	2:40	160	Naxos 8.550256 	9068-23	-
+68.2	A min	Fliere	1977	3:19	199	Melodia 10 00439	9063b-24	-
+68.2	A min	Fou	1978	3:17	197	Sony SB2K 53 246	9071-03	-
+68.2	A min	Francois	1956	2:36	156	EMI CZS 7 67413 2	9070b-30	-
+68.2	A min	Friedman	1930	2:31	151	Philips 456 784-2 	5667230-19	tap05
+68.2	A min	Gierzod	1998	5:57	357	DUX 0298	9121-08	-
+68.2	A min	Gornostaeva	1994	3:21	201	Vista Vera VVCD-00064	9116-15	-
+68.2	A min	Hatto	1993	3:25	205	Con. Artist FED4-TC-0116/7	610003b-22	-
+68.2	A min	Hatto	2006	3:23	203	Con. Artist 9270/12	9073b-24	-
+68.2	A min	Indjic	1988	3:27	207	Calliope 3321	9050b-20	tap05
+68.2	A min	Kapell	1951	2:22	142	RCA 09026-68990-2	9090-25	-
+68.2	A min	Kiepura	1999	2:44	164	Patria KIE2000	9098-04	-
+68.2	A min	Koczalski	1928	2:06	126	Archiphon ARC-119/20	9191-34	-
+68.2	A min	Kushner	1989	2:10	130	Connoisseur CD4181/2	9118b-24	-
+68.2	A min	Luisada	1991	3:05	185	DG 463054-2	9055b-18	tap05
+68.2	A min	Lushtak	2004	3:23	203	Centaur CRC 2707	9088-24	-
+68.2	A min	Malcuzynski	1961	2:55	175	EMI CZS 5 68226 2	918904-14	-
+68.2	A min	Magaloff	1978	2:55	175	Phillips 426 817/29-2	9074g-18	-
+68.2	A min	Michalowski	1910	2:15	135	Selene CD-s 9803.39	9083-07	-
+68.2	A min	Michelangeli	1941	3:01	181	Membran 222913-321	9057f-03	-
+68.2	A min	Michelangeli	1962	3:06	186	Warner Apex 40647	918726-07	-
+68.2	A min	Michelangeli	1971	3:04	184	Philips 456 904-2	5667269b-34	tap05
+68.2	A min	Milkina	1970	2:36	156	Unterschrift/EMI	9099b-24	-
+68.2	A min	Mohovich	1999	3:02	182	Agora AG 231.2	9104b-18	-
+68.2	A min	Moravec	1982	3:15	195	Vox MCD 10016	51495-02	tap05
+68.2	A min	Moravec	1983	3:15	195	Philips 456 910-2	5667271-03	-
+68.2	A min	Niedzielski	1931	1:35	95	HMV C-2008/10	610001-09	-
+68.2	A min	Ohlsson	1999	2:40	160	Arabesque Z6730-2	9153b-20	-
+68.2	A min	Olejniczac	1990	3:26	206	Na&iuml;ve OP20002	9100b-07	-
+68.2	A min	Osinska	1989	2:47	167	Cassiopee 969 213/6	9101c-12	-
+68.2	A min	Rachmaninoff	1935	2:43	163	RCA Victor Gold Seal 09026-62533-2	9095-09	-
+68.2	A min	Rangell	2001	2:24	144	Dorian DOR-93258	9094b-26	-
+68.2	A min	Rubinstein	1939	2:47	167	Naxos 8.110656-57	9049b-18	tap05
+68.2	A min	Rubinstein	1952	2:27	147	BMG 09026 63027-2	9075b-18	-
+68.2	A min	Rubinstein	1961	2:45	165	Philips 456 955-2	5667285b-09	tap05
+68.2	A min	Rubinstein	1966	2:46	166	BMG 09026-63050-2	9059b-22	-
+68.2	A min	Rummel	1943	2:34	154	Dante HPC027	54851-13	tap05
+68.2	A min	Shebanova	2002	3:20	200	DUX 0350/0351	9072b-22	-
+68.2	A min	Smith	1975	2:43	163	EMI 724358576726	9054b-20	tap05
+68.2	A min	Sofronitsky	1949	2:05	125	Vista Vera VVCD-00118-2	9114b-14	-
+68.2	A min	Sofronitsky	1949	2:24	144	Vista Vera VVCD-00118-2	9114b-06	-
+68.2	A min	Solomon	1946	2:22	142	PERL GEM 0177	9136-11	-
+68.2	A min	Solomon	1946	2:22	142	Testament SBT1030	918712-15	-
+68.2	A min	Sztompka	1959	2:48	168	Muza PNOD 313 A/B	9170b-20	-
+68.2	A min	Tomsic	1995	2:52	172	Classical Collection CC C 068	9190-12	-
+68.2	A min	Uninsky	1959	2:46	166	Philips 442 574-2	9061b-15	-
+68.2	A min	Vasary	1965	2:36	156	DG 449313-2	9053-21	tap05
+68.2	A min	Vardi	1988	2:35	155	Carriere Classics 21.0017	9173-01	-
+68.2	A min	Wasowski	1980	2:52	172	Concord CCD-42036	9111b-20	-
+68.3	F maj	Smidowicz	1948	1:40	100	Selene CD-s 9905.50	9082-11	precor
+68.3	F maj	Smidowicz	1948	1:43	103	Muza PNCD 300	9091-17	precor
+68.3	F maj	Ashkenazy	1981	1:14	74	Decca 448 086-2	9058b-19	precor
+68.3	F maj	Bacha	1997	1:46	106	Forlane 126817	9166b-09	-
+68.3	F maj	Barbosa	1983	1:28	88	Centaur CRC2098/9	9174b-19	-
+68.3	F maj	Biret	1990	1:59	119	Naxos 8.550359	9062b-22	precor
+68.3	F maj	Block	1995	1:45	105	ProPiano PPR224507 	9064-02	precor
+68.3	F maj	Brailowsky	1960	1:51	111	Sony SB2K 63237	9060b-17	precor
+68.3	F maj	Chiu	1999	1:42	102	HMX 2907352.53	9048b-22	xprecor
+68.3	F maj	Clidat	1994	1:25	85	Forlane UCD16729 	9067-27	precor
+68.3	F maj	Cohen	1997	1:34	94	Glossa 920507 	9069-19	precor
+68.3	F maj	Cortot	1951	2:46	166	Concert Artist 9180/12 	9066b-19	precor
+68.3	F maj	Csalog	1996	1:58	118	Hungaroton HCD 31755/6	1263b-19	-
+68.3	F maj	Czerny-Stefanska	1990	1:30	90	Pony Canyon Classics PCCL-00460	9192b-21	-
+68.3	F maj	Ezaki	2006	1:20	80	Triton OVCT-00035	9139b-21	-
+68.3	F maj	Ferenczy	1958	2:12	132	Hungaroton HCD 32121	9097-15	-
+68.3	F maj	Fliere	1977	2:02	122	Melodia 10 00439	9063b-25	precor
+68.3	F maj	Fou	1978	1:25	85	Sony SB2K 53 246	9071-04	precor
+68.3	F maj	Francois	1956	1:16	76	EMI CZS 7 67413 2	9070b-31	precor
+68.3	F maj	Grinberg	1951	1:14	74	Denon COCQ-84244	9112-11	-
+68.3	F maj	Hatto	1993	1:48	108	Con. Artist FED4-TC-0116/7	610003b-23	-
+68.3	F maj	Hatto	2006	1:47	107	Con. Artist 9270/12	9073b-25	precor
+68.3	F maj	Indjic	1988	1:46	106	Calliope 3321	9050b-21	precor
+68.3	F maj	Jonas	1947	2:22	142	PERL GEM 0077	9096-03	precor
+68.3	F maj	Kapell	1951	1:41	101	RCA 09026-68990-2	9090-26	precor
+68.3	F maj	Kiepura	1999	1:36	96	Patria KIE2000	9098-07	-
+68.3	F maj	Koczalski	1948	1:20	80	Selene CD-s 9801.37	9140-05	-
+68.3	F maj	Kushner	1989	3:09	189	Connoisseur CD4181/2	9118b-25	-
+68.3	F maj	Luisada	1991	1:47	107	DG 463054-2	9055b-19	xprecor
+68.3	F maj	Lushtak	2004	2:08	128	Centaur CRC 2707	9088-25	precor
+68.3	F maj	Magaloff	1978	1:41	101	Phillips 426 817/29-2	9074g-19	precor
+68.3	F maj	Meguri	1997	2:09	129	Live Notes WWCC-7313	9137-22	-
+68.3	F maj	Milkina	1970	1:45	105	Unterschrift/EMI	9099b-25	-
+68.3	F maj	Mohovich	1999	1:35	95	Agora AG 231.2	9104b-19	-
+68.3	F maj	Niedzielski	1931	1:17	77	HMV B 3550	919401-04	-
+68.3	F maj	Ohlsson	1999	1:39	99	Arabesque Z6730-2	9153b-21	-
+68.3	F maj	Olejniczac	1990	1:31	91	Na&iuml;ve OP20002	9100b-08	-
+68.3	F maj	Osinska	1989	1:48	108	Cassiopee 969 213/6	9101c-13	-
+68.3	F maj	Rangell	2001	1:34	94	Dorian DOR-93258	9094b-27	precor
+68.3	F maj	Richter	1976	1:11	71	Doremi DHR-7724	9172-12	-
+68.3	F maj	Rubinstein	1939	1:27	87	Naxos 8.110656-57	9049b-19	xprecor
+68.3	F maj	Rubinstein	1952	1:09	69	BMG 09026 63027-2	9075b-19	precor
+68.3	F maj	Rubinstein	1961	1:26	86	Philips 456 955-2	5667285b-10	xprecor
+68.3	F maj	Rubinstein	1966	1:26	86	BMG 09026-63050-2	9059b-23	precor
+68.3	F maj	Shebanova	2002	1:32	92	DUX 0350/0351	9072b-23	precor
+68.3	F maj	Smith	1975	3:42	222	EMI 724358576726	9054b-21	xprecor
+68.3	F maj	Sofronitsky	1949	1:23	83	Vista Vera VVCD-00118-2	9114-34	-
+68.3	F maj	Sztompka	1959	1:40	100	Muza PNOD 313 A/B	9170b-21	-
+68.3	F maj	Tomsic	1995	1:16	76	Classical Collection CC C 068	9190-11	-
+68.3	F maj	Uninsky	1971	1:45	105	Philips 442 574-2	9061b-16	precor
+68.3	F maj	Wasowski	1980	1:38	98	Concord CCD-42036	9111b-21	-
+68.4	F min	Anderszewski	2003	2:27	147	Virgin 724354-562020	58917-11	-
+68.4	F min	Ashkenazy	1981	2:17	137	Decca 448 086-2	9058b-20	-
+68.4	F min	Bacha	2000	3:15	195	Forlane 126817	9166l-17	-
+68.4	F min	Barbosa	1983	2:12	132	Centaur CRC2098/9	9174b-20	-
+68.4	F min	Ben-Or	1989	2:05	125	Meridian CDE 84186	9161-05	-
+68.4	F min	Biret	1990	2:32	152	Naxos 8.550359	9062b-23	-
+68.4	F min	Blet	2003	2:33	153	Marcal MA030501	9103-23	-
+68.4	F min	Block	1995	3:22	202	ProPiano PPR224507 	9064-03	-
+68.4	F min	Boshniakovich	1987	1:57	117	Vista Vera VVCD-00022	9127-04	-
+68.4	F min	Brailowsky	1960	1:21	81	Sony SB2K 63237	9060b-18	-
+68.4	F min	Chiu	1999	2:02	122	HMX 2907352.53	9048b-31	-
+68.4	F min	Clidat	1994	1:57	117	Forlane UCD16729 	9067-28	-
+68.4	F min	Cohen	1997	1:51	111	Glossa 920507 	9069-20	-
+68.4	F min	Coop	1996	1:34	94	Skylark 9601	9158-07	-
+68.4	F min	Cortot	1951	2:33	153	Concert Artist 9180/12 	9066b-20	-
+68.4	F min	Csalog	1996	1:59	119	Hungaroton HCD 31755/6	1263b-20	-
+68.4	F min	Czerny-Stefanska	1990	1:55	115	Pony Canyon Classics PCCL-00460	9192b-22	-
+68.4	F min	Davidovich	1949	1:49	109	Muza PNCD 001	918713-23	-
+68.4	F min	Ezaki	2006	2:37	157	Triton OVCT-00035	9139b-22	-
+68.4	F min	Fliere	1977	4:26	266	Melodia 10 00439	9063b-26	-
+68.4	F min	Fou	1955	1:57	117	Muza PNCD006	9085-22	-
+68.4	F min	Fou	1978	3:42	222	Sony SB2K 53 246	9071b-25	-
+68.4	F min	Fou	2005	3:33	213	NIFC CD001	9092-18	-
+68.4	F min	Francois	1956	1:46	106	EMI CZS 7 67413 2	9070b-32	-
+68.4	F min	Gornostaeva	1994	2:00	120	Vista Vera VVCD-00064	9116-11	-
+68.4	F min	Guller	1956	1:50	110	Parnassus Dis PCCD 20291	9176-09	-
+68.4	F min	Hatto	1993	2:07	127	Con. Artist FED4-TC-0116/7	610003b-24	-
+68.4	F min	Hatto	2006	2:06	126	Con. Artist 9270/12	9073b-26	-
+68.4	F min	Indjic	1988	2:08	128	Calliope 3321	9050b-22	-
+68.4	F min	Janis	1998	3:47	227	EMI Angel 56780	917525-10	-
+68.4	F min	Jonas	1947	1:36	96	PERL GEM 0077	9096-02	-
+68.4	F min	Kapell	1951	1:49	109	RCA 09026-68990-2	9090-27	-
+68.4	F min	Katin	1996	4:44	284	Diversions 24116	9126-06	-
+68.4	F min	Kissin	1993	1:59	119	RCA 09026 62542 2	9056-09	-
+68.4	F min	Kushner	1989	2:17	137	Connoisseur CD4181/2	9118b-26	-
+68.4	F min	Luisada	1991	4:32	272	DG 463054-2	9055b-20	-
+68.4	F min	Lushtak	2004	2:04	124	Centaur CRC 2707	9088-26	-
+68.4	F min	Malcuzynski	1961	1:58	118	EMI CZS 5 68226 2	918904-15	-
+68.4	F min	Magaloff	1978	3:27	207	Phillips 426 817/29-2	9074g-20	-
+68.4	F min	Michelangeli	1971	3:39	219	Philips 456 904-2	5667269b-40	-
+68.4	F min	Milkina	1970	2:09	129	Unterschrift/EMI	9099b-26	-
+68.4	F min	Mohovich	1999	1:31	91	Agora AG 231.2	9104b-20	-
+68.4	F min	Moravec	1989	2:08	128	Philips 456 910-2	5667271-06	-
+68.4	F min	Neighaus	1950	1:33	93	Classical Records CR-083	9119-17	-
+68.4	F min	Niedzielski	1931	1:59	119	HMV C-2008/10	610001-04	-
+68.4	F min	Ohlsson	1999	2:02	122	Arabesque Z6730-2	9153b-22	-
+68.4	F min	Olejniczac	1990	2:16	136	Na&iuml;ve OP20002	9100b-09	-
+68.4	F min	Osinska	1989	3:06	186	Cassiopee 969 213/6	9101c-14	-
+68.4	F min	Perlemuter	1992	2:03	123	Nimbus NI5393	9089-14	-
+68.4	F min	Rangell	2001	2:22	142	Dorian DOR-93258	9094-30	-
+68.4	F min	Rubinstein	1939	2:04	124	Naxos 8.110656-57	9049b-20	-
+68.4	F min	Rubinstein	1952	1:40	100	BMG 09026 63027-2	9075b-20	-
+68.4	F min	Rubinstein	1961	3:13	193	Philips 456 955-2	5667285b-11	-
+68.4	F min	Rubinstein	1966	3:12	192	BMG 09026-63050-2	9059b-24	-
+68.4	F min	Shebanova	2002	2:17	137	DUX 0350/0351	9072b-24	-
+68.4	F min	Smith	1975	1:46	106	EMI 724358576726	9054b-22	-
+68.4	F min	Sofronitsky	1960	1:43	103	Philips 456 970-2	5667291-14	-
+68.4	F min	Sofronitsky	1961	1:44	104	Classound 001-026 	9113-14	-
+68.4	F min	Sztompka	1959	2:03	123	Muza PNOD 313 A/B	9170b-22	-
+68.4	F min	Uninsky	1959	2:01	121	Philips 442 574-2	9061b-17	-
+68.4	F min	Vardi	1988	3:26	206	Carriere Classics 21.0017	9173-23	-
+68.4	F min	Wasowski	1980	2:38	158	Concord CCD-42036	9111b-22	-
