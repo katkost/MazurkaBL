@@ -4,7 +4,7 @@ MazurkaBL
 
 Name identification:
 --------------------
--Chopin Mazurkas: M<opus>-<number>
+-Chopin Mazurkas: M < opus > - < number >
 -PianistID: example "pid1263-01" ->
 (mazurka-discography.txt)
 opus |key    |performer |year |time |seconds |label                  |pid     |status
@@ -18,8 +18,9 @@ Folders:
 ___________
 "beat_dyn":
 One file per Mazurka.
-Columns: 1. Number of score bar | 2. Number of score beat in bar | 3-x. Performer dynamic values (normalised sones)
-                                       each column for a recording identified by PianistID
+Columns:
+1. Number of score bar | 2. Number of score beat in bar | 3-x. Performer dynamic values (normalised sones)
+                                                          each column for a recording identified by PianistID
 Rows: 1. PianistID | 2-y. Score beats
 
 ____________
@@ -39,7 +40,7 @@ ___________
 One file per Mazurka.
 Columns: 1. Time (sec.) | 2. sone value (computed using ma_sone algorithm [1])
 
-[1] www.pampalk.at/ma/documentation.html, accessed 3 January 2018.
+> [1] www.pampalk.at/ma/documentation.html, accessed 3 January 2018.
 
 
 If using the dataset, please refer to as:
