@@ -43,6 +43,10 @@ Columns: 1. Time (sec.) | 2. sone value (computed using ma_sone algorithm [1])
 
 [1] www.pampalk.at/ma/documentation.html, accessed 3 January 2018.
 
+If using the dataset, please refer to as:
 
+[Katerina Kosta, Oscar F. Bandtlow, and Elaine Chew. "MazurkaBL: Score-aligned loudness, beat, expressive markings data for 2000 Chopin Mazurka recordings”. In Proceedings of the forth International Conference on Technologies for Music Notation and Representation (TENOR). 2018]
 
+Paper: https://drive.google.com/file/d/1h6Ekso91S1U_Ayhx_Y9-NoqV7rxE36ma/view?usp=sharing
+Presentation: https://drive.google.com/file/d/1OfrY2jzq_LYt2NnVewM_DVX5ib0-XXBo/view?usp=sharing
 
