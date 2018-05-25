@@ -43,17 +43,13 @@ Columns:
 Rows: 1. PianistID | 2-y. Score beats
 </pre>
 ___________
-"markings":
-
-One file per Mazurka.
-
+"markings": One file per Mazurka.
+Rows:
 <pre>
-Rows: 1. Expressive markings found in score | 2. Score beat location of marking
+1. Expressive markings found in score | 2. Score beat location of marking
 </pre>
 ___________
-"sones":
-
-One file per Mazurka.
+"sones": One file per Mazurka.
 
 Columns:
 
