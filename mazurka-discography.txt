@@ -852,7 +852,7 @@ opus	key	performer	year	time	seconds	label	pid	status
 24.3	A maj	Rubinstein	1939	2:01	121	Naxos 8.110656-57	9049-16	-
 24.3	A maj	Rubinstein	1952	2:03	123	BMG 09026 63027-2	9075-16	-
 24.3	A maj	Rubinstein	1966	2:07	127	BMG 09026-63050-2	9059-16	-
-24.3	A maj	Shebanova	2002	2:13	133	DUX 0350/0351	9072-16	-&ouml;
+24.3	A maj	Shebanova	2002	2:13	133	DUX 0350/0351	9072-16	-
 24.3	A maj	Smith	1975	1:56	116	EMI 724358576726	9054-16	-
 24.3	A maj	Sztompka	1959	2:17	137	Muza PNOD 313 A/B	9170-16	-
 24.3	A maj	Tsujii	2005	2:01	121	DUX KCh15-7	9078-08	-
