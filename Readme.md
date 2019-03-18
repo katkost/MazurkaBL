@@ -67,3 +67,6 @@ If using the dataset, please refer to as:
 Paper: https://drive.google.com/file/d/1h6Ekso91S1U_Ayhx_Y9-NoqV7rxE36ma/view?usp=sharing
 
 Presentation: https://drive.google.com/file/d/1OfrY2jzq_LYt2NnVewM_DVX5ib0-XXBo/view?usp=sharing
+
+____________
+Licence: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -661,7 +661,7 @@ opus	key	performer	year	time	seconds	label	pid	status
 17.4	A min	P&ouml;ntinen	2003	3:53	233	BIS CD 1326	917812-05	-
 17.4	A min	Paderewski	1912	3:23	203	Philips 456 919-2	5667274-09	precor
 17.4	A min	Paderewski	1923	3:28	208	Pearl GEMM CD 9397	918901-10	-
-17.4	A min	Paderewski<sub><small><i>PR</i></small></sub>	1924	3:21	201	Aeolia 2002	9193-03	-
+17.4	A min	Paderewski	1924	3:21	201	Aeolia 2002	9193-03	-
 17.4	A min	Perahia	1994	4:30	270	Sony 45931	54293-09	precor
 17.4	A min	Perlemuter	1986	4:08	248	Nimbus NI5393	9089-15	precor
 17.4	A min	Poblocka	1999	3:46	226	BeArTon CDB012/13	9093-13	precor
@@ -914,7 +914,7 @@ opus	key	performer	year	time	seconds	label	pid	status
 24.4	B min	Olejniczac	1990	5:14	314	Na&iuml;ve OP20002	9100b-13	-
 24.4	B min	Osinska	1989	5:06	306	Cassiopee 969 213/6	9101-17	-
 24.4	B min	Pachmann	1917	3:45	225	Membran 222913-321	9057h-10	-
-24.4	B min	Paderewski<sub><small><i>PR</i></small></sub>	1922	4:33	273	Aeolia 2002	9193-02	-
+24.4	B min	Paderewski	1922	4:33	273	Aeolia 2002	9193-02	-
 24.4	B min	Poblocka	1999	4:48	288	BeArTon CDB012/13	9093-17	-
 24.4	B min	Rangell	2001	5:09	309	Dorian DOR-93258	9094-17	-
 24.4	B min	Richter	1961	4:38	278	BBC Legends BBCL 4021	918722-06	-
