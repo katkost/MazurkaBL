@@ -2,6 +2,10 @@
 MazurkaBL
 ---------
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katkost/MazurkaBL/ismir_tutorial)
+
+
+About the dataset: 
 Name identification:
 
 -Chopin Mazurkas: M < opus > - < number >
