@@ -74,7 +74,7 @@ def merge_dicts(dict1, dict2):
     return {**dict1, **dict2}
 
 
-def prepare_dataset(files_beat, files_dyn, markings):
+def prepare_dataset(files_beat, files_dyn, files_mark):
     """
     Gets files from MazurkaBL folder
     returns dictionary: key: Mazurka ID,
