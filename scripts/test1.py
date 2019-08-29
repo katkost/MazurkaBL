@@ -15,6 +15,7 @@ def prepare_dataset(files_beat, files_dyn, markings):
                         value: list of namedtuple objects
                         Pianist: 'id beat dyn markings'
     """
+    
     Mazurka_ID = ['M06-1', 
                 'M06-2', 
                 'M06-3', 
