@@ -10,3 +10,4 @@ files_mark = glob.glob('../markings/*.csv')
 
 Mazurka_info = prepare_dataset(files_beat, files_dyn, files_mark)
 plot_beat_dyn(Mazurka_info['M06-3'][4:6])
+
