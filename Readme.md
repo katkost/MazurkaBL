@@ -62,6 +62,7 @@ Columns:
 </pre>
 
 > [1] www.pampalk.at/ma/documentation.html, accessed 3 January 2018.
+mazurka-discography.txt from https://charm.kcl.ac.uk/index.html
 
 
 If using the dataset, please refer to as:
