@@ -73,8 +73,11 @@ def make_dict_from_csv(file):
 def merge_dicts(dict1, dict2):
     return {**dict1, **dict2}
 
+def norm_by_max(values):
+    return [x / max(values) for x in values]
 
-def prepare_dataset(files_beat, files_dyn, markings):
+
+def prepare_dataset(files_beat, files_dyn, files_mark):
     """
     Gets files from MazurkaBL folder
     returns dictionary: key: Mazurka ID,
@@ -97,11 +100,13 @@ def prepare_dataset(files_beat, files_dyn, markings):
         for tub in tuple_beats:
             for tud in tuple_dyns:
                 if tub[0] == tud[0]:
-                    tuple_all.append(Pianist(id = tub[0], beat = tub[1], dyn = tud[1], markings = make_dict_from_csv(mark)))
+                    tuple_all.append(Pianist(id = tub[0], beat = [*tub[1].values()], dyn = norm_by_max([*tud[1].values()]), markings = make_dict_from_csv(mark)))
         Mazurka_info[M_ID] = tuple_all
-
     return Mazurka_info
 
+def get_markings_dyn_values(Mazurka_info)
+
+    return
 
 ####### Vector processing #######
 
@@ -110,14 +115,26 @@ def prepare_dataset(files_beat, files_dyn, markings):
 
 ######## Plotting tools #########
     
-def plot_beat_dyn(M_info):
-    plt.figure()
+def plot_beat_dyn(M_info_pianist):
+    plt.figure(figsize=(18, 16), dpi= 80)
     plt.subplot(211)
-    for pianist in M_info:
-        plt.plot([*pianist.beat.keys()], np.diff([*pianist.beat.values()]))
-    
-    plt.subplot(2,1,2)
-    for pianist in M_info:
-        plt.plot([*pianist.dyn.keys()], np.diff([*pianist.dyn.values()]))
+    for pianist in M_info_pianist:
+        plt.plot(range(len(pianist.beat) -1 ), norm_by_max(np.diff(pianist.beat)))
+        plt.title('Inter-beat-intervals in Mazurka recording', fontsize=14)
+        plt.xlabel('Score beats', fontsize=14)
+        plt.xticks([v[0] for v in [list(mark.values()) for mark in list(pianist.markings.values())]], 
+                   [m.split('.')[0] for m in [*pianist.markings.keys()]], rotation='vertical', fontsize=14) 
+        plt.ylabel('IBIs (normalised)', fontsize=14)
+        plt.tight_layout()
+
+    plt.subplot(212)
+    for pianist in M_info_pianist:
+        plt.plot(range(len(pianist.dyn)), pianist.dyn)
+        plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
+        plt.xlabel('Score beats', fontsize=14)
+        plt.xticks([v[0] for v in [list(mark.values()) for mark in list(pianist.markings.values())]], 
+                   [m.split('.')[0] for m in [*pianist.markings.keys()]], rotation='vertical', fontsize=14) 
+        plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=14)
+        plt.tight_layout()
     plt.show()
 
