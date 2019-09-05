@@ -244,7 +244,7 @@ def plot_beat_dyn(M_info_pianist):
         plt.plot(range(len(pianist.beat) -1 ), norm_by_max(np.diff(pianist.beat)))
         plt.title('Inter-beat-intervals in Mazurka recording', fontsize=14)
         plt.xlabel('Score beats', fontsize=14)
-        plt.xticks([v[0] for v in [list(mark.values()) for mark in [*pianist.markings.values()]]], 
+        plt.xticks([v[0] for v in [*pianist.markings.values()]]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=14) 
         plt.ylabel('IBIs (normalised)', fontsize=14)
         plt.tight_layout()
@@ -254,7 +254,7 @@ def plot_beat_dyn(M_info_pianist):
         plt.plot(range(len(pianist.dyn)), pianist.dyn)
         plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
         plt.xlabel('Score beats', fontsize=14)
-        plt.xticks([v[0] for v in [list(mark.values()) for mark in [*pianist.markings.values()]]], 
+        plt.xticks([v[0] for v in [*pianist.markings.values()]]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=14) 
         plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=14)
         plt.tight_layout()
