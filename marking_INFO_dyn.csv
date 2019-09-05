@@ -1,0 +1,532 @@
+M_ID,PR_M,N_M,Dist_PR,Dist_N,Annot_PR,Annot_N,Annot_M,EN,M
+M06-1,None,p,None,37,None,Crescendo,None,,p
+M06-1,p,pp,37,9,Crescendo,Diminuendo,Diminuendo,,p
+M06-1,p,p,9,2,Crescendo,None,None,,pp
+M06-1,pp,p,2,37,None,Crescendo,None,,p
+M06-1,p,pp,37,9,Crescendo,Diminuendo,Diminuendo,,p
+M06-1,p,ff,9,3,Crescendo,None,None,,pp
+M06-1,pp,f,3,24,None,Crescendo,a tempo,,ff
+M06-1,ff,p,24,36,Diminuendo,Crescendo,a tempo,,f
+M06-1,f,pp,36,9,Crescendo,Diminuendo,Diminuendo,,p
+M06-1,p,ff,9,3,Crescendo,None,None,,pp
+M06-1,pp,f,3,24,None,Crescendo,None,,ff
+M06-1,ff,p,24,36,rall.,Crescendo,a tempo,,f
+M06-1,f,pp,36,9,Crescendo,Diminuendo,Diminuendo,,p
+M06-1,p,f,9,2,Crescendo,None,None,,pp
+M06-1,pp,p,2,49,None,scherzando,None,,f
+M06-1,f,p,49,36,rit.,Crescendo,a tempo,,p
+M06-1,p,pp,36,9,Crescendo,Diminuendo,Diminuendo,,p
+M06-1,p,None,9,None,Crescendo,None,None,,pp
+M06-2,None,p,None,24,None,None,sotto voce,,p
+M06-2,p,f,24,17,None,Crescendo,None,,p
+M06-2,p,p,17,7,Crescendo,con forza,None,,f
+M06-2,f,f,7,17,con forza,Crescendo,None,,p
+M06-2,p,f,17,43,Crescendo,con forza,None,,f
+M06-2,f,f,43,48,a tempo,leggiero,None,,f
+M06-2,f,p,48,11,a tempo,con forza,None,,f
+M06-2,f,p,11,13,con forza,Crescendo,Gajo,,p
+M06-2,p,f,13,12,Crescendo,sf,None,,p
+M06-2,p,p,12,48,sf,Diminuendo,None,,f
+M06-2,f,p,48,23,sotto voce,con forza,None,,p
+M06-2,p,f,23,13,con forza,rubato,None,,p
+M06-2,p,None,13,None,rubato,con forza,None,,f
+M06-3,None,f,None,24,None,None,None,,p
+M06-3,p,p,24,24,None,Crescendo,None,,f
+M06-3,f,f,24,12,Crescendo,None,None,,p
+M06-3,p,p,12,24,None,Crescendo,None,,f
+M06-3,f,ff,24,12,Crescendo,None,None,,p
+M06-3,p,p,12,6,None,None,None,,ff
+M06-3,ff,ff,6,6,None,None,None,,p
+M06-3,p,p,6,6,None,None,None,,ff
+M06-3,ff,ff,6,6,None,None,None,,p
+M06-3,p,p,6,6,None,None,None,,ff
+M06-3,ff,ff,6,6,None,None,None,,p
+M06-3,p,p,6,6,None,None,None,,ff
+M06-3,ff,p,6,6,None,None,None,,p
+M06-3,p,f,6,17,None,Diminuendo,None,,p
+M06-3,p,p,17,30,Crescendo,Diminuendo,None,,f
+M06-3,f,p,30,25,Crescendo,Crescendo,None,,p
+M06-3,p,f,25,12,Crescendo,None,None,,p
+M06-3,p,p,12,24,None,Crescendo,None,,f
+M06-3,f,f,24,12,Crescendo,None,None,,p
+M06-3,p,p,12,18,None,Crescendo,None,,f
+M06-3,f,pp,18,9,Crescendo,Crescendo,None,,p
+M06-3,p,None,9,None,Crescendo,None,None,,pp
+M07-1,None,ff,None,6,None,Crescendo,None,,f
+M07-1,f,p,6,3,Crescendo,sf,None,,ff
+M07-1,ff,f,3,33,Diminuendo,Crescendo,scherzando,,p
+M07-1,p,p,33,30,Crescendo,sf,None,,f
+M07-1,f,f,30,24,Crescendo,Crescendo,None,,p
+M07-1,p,p,24,36,a tempo,sf,None,,f
+M07-1,f,f,36,24,Crescendo,Crescendo,None,,p
+M07-1,p,pp,24,36,a tempo,sf,None,,f
+M07-1,f,f,36,24,Crescendo,Crescendo,sotto voce,,pp
+M07-1,pp,f,24,33,rall.,Crescendo,a tempo,,f
+M07-1,f,pp,33,3,Crescendo,None,None,,f
+M07-1,f,f,3,24,None,Crescendo,sotto voce,,pp
+M07-1,pp,None,24,None,rall.,Crescendo,a tempo,,f
+M07-2,None,f,None,19,None,Crescendo,None,,p
+M07-2,p,p,19,5,Crescendo,Crescendo,stretto,,f
+M07-2,f,p,5,24,Crescendo,Crescendo,None,,p
+M07-2,p,f,24,19,a tempo,Crescendo,None,,p
+M07-2,p,p,19,5,Crescendo,Crescendo,stretto,,f
+M07-2,f,p,5,24,Crescendo,Crescendo,None,,p
+M07-2,p,p,24,48,a tempo,Crescendo,None,,p
+M07-2,p,f,48,73,a tempo,Crescendo,None,,p
+M07-2,p,f,73,48,Crescendo,sf,None,,f
+M07-2,f,p,48,47,Crescendo,sf,None,,f
+M07-2,f,f,47,19,Crescendo,Crescendo,None,,p
+M07-2,p,p,19,5,Crescendo,Crescendo,stretto,,f
+M07-2,f,None,5,None,Crescendo,Crescendo,None,,p
+M07-3,None,p,None,24,None,smorzando,sotto voce,,pp
+M07-3,pp,p,24,48,smorzando,Crescendo,con anima,,p
+M07-3,p,p,48,24,con forza,Crescendo,stretto,,p
+M07-3,p,f,24,24,Crescendo,Crescendo,stretto,,p
+M07-3,p,p,24,6,Diminuendo,Crescendo,None,,f
+M07-3,f,ff,6,6,ten.,Crescendo,None,,p
+M07-3,p,p,6,6,Crescendo,Diminuendo,None,,ff
+M07-3,ff,f,6,6,ten.,None,None,,p
+M07-3,p,p,6,6,None,Diminuendo,None,,f
+M07-3,f,ff,6,6,ten.,Crescendo,None,,p
+M07-3,p,p,6,6,Crescendo,Crescendo,None,,ff
+M07-3,ff,p,6,6,ten.,None,None,,p
+M07-3,p,pp,6,48,None,None,None,,p
+M07-3,p,pp,48,12,None,smorzando,sotto voce,,pp
+M07-3,pp,f,12,24,smorzando,None,None,,pp
+M07-3,pp,p,24,24,None,Crescendo,tempo I,,f
+M07-3,f,pp,24,35,con forza,Crescendo,rubato,,p
+M07-3,p,None,35,None,Crescendo,None,None,,pp
+M17-1,None,f,None,49,None,sf,risoluto,,f
+M17-1,f,f,49,48,sf,sf,None,,f
+M17-1,f,p,48,24,sf,sf,None,,f
+M17-1,f,f,24,59,sf,dolce,None,,p
+M17-1,p,f,59,49,dolce,sf,None,,f
+M17-1,f,f,49,48,sf,sf,None,,f
+M17-1,f,None,48,None,sf,sf,None,,f
+M17-2,None,f,None,32,None,Crescendo,Lento,,f
+M17-2,f,p,32,41,Diminuendo,Crescendo,None,,f
+M17-2,f,pp,41,69,leggiero,Crescendo,dolce,,p
+M17-2,p,f,69,15,Diminuendo,Crescendo,None,,pp
+M17-2,pp,p,15,30,Crescendo,Crescendo,a tempo,,f
+M17-2,f,None,30,None,Diminuendo,rit.,None,,p
+M17-3,None,p,None,25,dolce,stretto,None,,mf
+M17-3,mf,mf,25,47,rit.,None,a tempo,,p
+M17-3,p,p,47,25,None,stretto,None,,mf
+M17-3,mf,p,25,48,rit.,None,a tempo,,p
+M17-3,p,p,48,72,None,smorzando,None,,p
+M17-3,p,p,72,72,smorzando,None,None,,p
+M17-3,p,mf,72,93,None,None,None,,p
+M17-3,p,p,93,27,None,stretto,None,,mf
+M17-3,mf,None,27,None,rit.,None,a tempo,,p
+M17-4,None,p,None,23,None,espressivo,sotto voce,,pp
+M17-4,pp,p,23,48,ten.,delicatissimo,None,,p
+M17-4,p,p,48,108,ten.,ten.,None,,p
+M17-4,p,ff,108,90,ten.,Crescendo,dolce,,p
+M17-4,p,p,90,6,Crescendo,ten.,None,,ff
+M17-4,ff,p,6,90,ten,Crescendo,None,,p
+M17-4,p,None,90,None,sotto voce,calando,piu,,p
+M24-1,None,mf,None,193,None,rubato,None,,p
+M24-1,p,p,193,39,sf,Crescendo,con anima,,mf
+M24-1,mf,p,39,33,Crescendo,Diminuendo,Crescendo,,p
+M24-1,p,pp,33,21,Diminuendo,Crescendo,None,,p
+M24-1,p,None,21,None,Diminuendo,None,None,,pp
+M24-2,None,f,None,96,None,dolce,piu,,f
+M24-2,f,p,96,24,Diminuendo,None,piu,,f
+M24-2,f,p,24,6,None,fz,None,,p
+M24-2,p,pp,6,4,fz,None,None,,p
+M24-2,p,f,4,14,None,dolce,rit.,,pp
+M24-2,pp,p,14,3,sotto voce,None,None,,f
+M24-2,f,f,3,9,None,None,None,,p
+M24-2,p,p,9,3,None,None,None,,f
+M24-2,f,f,3,9,None,None,None,,p
+M24-2,p,p,9,3,None,None,None,,f
+M24-2,f,pp,3,105,None,None,None,,p
+M24-2,p,None,105,None,Diminuendo,None,sotto voce,,pp
+M24-3,None,p,None,18,None,None,con anima,,mf
+M24-3,mf,p,18,36,Fermata,None,None,,p
+M24-3,p,p,36,19,Fermata,None,None,,p
+M24-3,p,p,19,53,None,None,None,,p
+M24-3,p,p,53,19,Fermata,None,None,,p
+M24-3,p,p,19,53,None,None,None,,p
+M24-3,p,None,53,None,Fermata,None,None,,p
+M24-4,None,ff,None,30,None,None,Moderato,,p
+M24-4,p,p,30,7,None,None,None,,ff
+M24-4,ff,ff,7,17,None,None,None,,p
+M24-4,p,p,17,3,None,None,None,,ff
+M24-4,ff,f,3,37,None,dolce,None,,p
+M24-4,p,ff,37,32,scherzando,rit.,None,,f
+M24-4,f,p,32,3,a tempo,None,None,,ff
+M24-4,ff,ff,3,21,None,agitato,None,,p
+M24-4,p,p,21,3,agitato,None,None,,ff
+M24-4,ff,f,3,37,None,dolce,None,,p
+M24-4,p,ff,37,32,scherzando,a tempo,None,,f
+M24-4,f,p,32,3,a tempo,None,None,,ff
+M24-4,ff,ff,3,21,None,agitato,None,,p
+M24-4,p,p,21,3,agitato,None,None,,ff
+M24-4,ff,p,3,3,None,None,None,,p
+M24-4,p,f,3,48,None,sotto voce,None,,p
+M24-4,p,pp,48,13,sotto voce,None,con anima,,f
+M24-4,f,f,13,12,None,None,None,,pp
+M24-4,pp,pp,12,12,None,None,None,,f
+M24-4,f,ff,12,12,None,None,dolcissimo,,pp
+M24-4,pp,pp,12,12,None,None,a tempo,,ff
+M24-4,ff,ff,12,12,None,None,None,,pp
+M24-4,pp,pp,12,12,None,None,con forza,,ff
+M24-4,ff,ff,12,18,None,None,sotto voce,,pp
+M24-4,pp,ff,18,29,None,a tempo,None,,ff
+M24-4,ff,p,29,3,a tempo,None,None,,ff
+M24-4,ff,ff,3,21,None,agitato,None,,p
+M24-4,p,p,21,7,agitato,None,None,,ff
+M24-4,ff,pp,7,48,None,None,None,,p
+M24-4,p,pp,48,12,None,None,calando,,pp
+M24-4,pp,pp,12,9,None,None,None,,pp
+M24-4,pp,p,9,16,None,fermata,mancando,,pp
+M24-4,pp,None,16,None,sf,smorzando,None,,p
+M30-1,None,f,None,13,None,None,Allegretto,,p
+M30-1,p,p,13,12,None,Diminuendo,None,,f
+M30-1,f,f,12,12,Diminuendo,None,None,,p
+M30-1,p,p,12,30,None,Diminuendo,None,,f
+M30-1,f,p,30,42,Crescendo,Crescendo,None,,p
+M30-1,p,f,42,12,Diminuendo,None,a tempo,,p
+M30-1,p,p,12,12,None,Diminuendo,None,,f
+M30-1,f,None,12,None,Diminuendo,Diminuendo,None,,p
+M30-2,None,f,None,10,None,None,Allegretto,,p
+M30-2,p,p,10,6,None,None,None,,f
+M30-2,f,f,6,3,None,None,None,,p
+M30-2,p,p,3,5,None,None,None,,f
+M30-2,f,f,5,7,None,None,None,,p
+M30-2,p,p,7,6,None,None,None,,f
+M30-2,f,f,6,6,None,None,None,,p
+M30-2,p,p,6,6,None,None,None,,f
+M30-2,f,p,6,24,None,Crescendo,None,,p
+M30-2,p,p,24,24,Crescendo,Crescendo,None,,p
+M30-2,p,p,24,24,Crescendo,rit.,None,,p
+M30-2,p,p,24,24,rit.,None,a tempo,,p
+M30-2,p,p,24,24,None,Crescendo,None,,p
+M30-2,p,None,24,None,Crescendo,sf,Crescendo,,p
+M30-3,None,f,None,24,None,None,Allegro,,f
+M30-3,f,pp,24,12,None,None,risoluto,,f
+M30-3,f,ff,12,6,None,None,None,,pp
+M30-3,pp,pp,6,3,None,None,None,,ff
+M30-3,ff,f,3,3,None,None,None,,pp
+M30-3,pp,pp,3,12,None,None,None,,f
+M30-3,f,f,12,12,None,None,None,,pp
+M30-3,pp,pp,12,12,None,None,risoluto,,f
+M30-3,f,ff,12,6,None,None,None,,pp
+M30-3,pp,pp,6,3,None,None,None,,ff
+M30-3,ff,f,3,3,None,None,None,,pp
+M30-3,pp,pp,3,12,None,None,None,,f
+M30-3,f,f,12,12,None,None,None,,pp
+M30-3,pp,f,12,72,None,dolce,con anima,,f
+M30-3,f,p,72,24,sotto voce,None,None,,f
+M30-3,f,f,24,24,None,sf,None,,p
+M30-3,p,pp,24,30,sf,None,None,,f
+M30-3,f,f,30,12,None,None,slentando,,pp
+M30-3,pp,pp,12,12,None,None,risoluto,,f
+M30-3,f,ff,12,6,None,None,None,,pp
+M30-3,pp,pp,6,3,None,None,None,,ff
+M30-3,ff,f,3,3,None,None,None,,pp
+M30-3,pp,pp,3,12,None,None,None,,f
+M30-3,f,f,12,12,None,None,None,,pp
+M30-3,pp,None,12,None,None,None,None,,f
+M30-4,None,p,None,36,None,sotto voce,Allegretto,,p
+M30-4,p,f,36,12,Crescendo,None,None,,p
+M30-4,p,p,12,12,None,Crescendo,None,,f
+M30-4,f,p,12,36,Crescendo,Fermata,None,,p
+M30-4,p,p,36,24,fermata,rit.,None,,p
+M30-4,p,pp,24,21,rit.,Diminuendo,sempre,,p
+M30-4,p,f,21,21,Diminuendo,None,None,,pp
+M30-4,pp,p,21,6,None,None,rit.,,f
+M30-4,f,ff,6,48,None,Crescendo,sempre,,p
+M30-4,p,p,48,12,Crescendo,ten.,None,,ff
+M30-4,ff,ff,12,36,ten.,Crescendo,None,,p
+M30-4,p,p,36,12,Crescendo,Diminuendo,None,,ff
+M30-4,ff,p,12,48,Diminuendo,Diminuendo,None,,p
+M30-4,p,f,48,12,Fermata,None,None,,p
+M30-4,p,p,12,12,None,Crescendo,None,,f
+M30-4,f,p,12,24,Crescendo,Fermata,None,,p
+M30-4,p,pp,24,24,Fermata,stretto,None,,p
+M30-4,p,None,24,None,Diminuendo,smorzando,None,,pp
+M33-1,None,f,None,61,None,Crescendo,Lento,,p
+M33-1,p,p,61,12,Crescendo,appassionato,None,,f
+M33-1,f,f,12,12,appassionato,Diminuendo,None,,p
+M33-1,p,p,12,12,Diminuendo,None,None,,f
+M33-1,f,None,12,None,None,Fermata,None,,p
+M33-2,None,pp,None,25,None,None,Vivace,,f
+M33-2,f,f,25,24,None,None,None,,pp
+M33-2,pp,pp,24,24,None,None,None,,f
+M33-2,f,ff,24,24,None,None,None,,pp
+M33-2,pp,pp,24,24,None,None,None,,ff
+M33-2,ff,f,24,36,None,Crescendo,None,,pp
+M33-2,pp,ff,36,24,Diminuendo,Crescendo,None,,f
+M33-2,f,f,24,12,sf,None,None,,ff
+M33-2,ff,f,12,24,None,None,None,,f
+M33-2,f,f,24,24,None,None,None,,f
+M33-2,f,pp,24,24,None,None,None,,f
+M33-2,f,f,24,24,None,None,None,,pp
+M33-2,pp,pp,24,24,None,None,None,,f
+M33-2,f,ff,24,24,None,None,None,,pp
+M33-2,pp,pp,24,24,None,None,None,,ff
+M33-2,ff,None,24,None,None,accelerando,None,,pp
+M33-3,None,p,None,48,None,None,Semplice,,p
+M33-3,p,f,48,49,None,None,None,,p
+M33-3,p,p,49,48,None,None,None,,f
+M33-3,f,None,48,None,None,None,dolce,,p
+M33-4,None,f,None,18,None,None,Mesto,,p
+M33-4,p,f,18,71,None,sotto voce,None,,f
+M33-4,f,f,71,56,Diminuendo,sotto voce,None,,f
+M33-4,f,f,56,65,Diminuendo,sf,None,,f
+M33-4,f,f,65,72,Diminuendo,sotto voce,None,,f
+M33-4,f,f,72,55,Diminuendo,sotto voce,None,,f
+M33-4,f,f,55,144,Diminuendo,sf,None,,f
+M33-4,f,f,144,36,Diminuendo,Diminuendo,Diminuendo,,f
+M33-4,f,pp,36,9,Diminuendo,None,None,,f
+M33-4,f,p,9,51,None,None,None,,pp
+M33-4,pp,f,51,16,None,None,None,,p
+M33-4,p,None,16,None,None,sotto voce,None,,f
+M41-1,None,f,None,48,None,None,Maestoso,,p
+M41-1,p,p,48,48,None,None,None,,f
+M41-1,f,p,48,25,None,sf,None,,p
+M41-1,p,f,25,66,sf,None,None,,p
+M41-1,p,pp,66,5,None,None,rit.,,f
+M41-1,f,p,5,24,None,None,a tempo,,pp
+M41-1,pp,f,24,48,None,None,None,,p
+M41-1,p,ff,48,90,None,None,None,,f
+M41-1,f,f,90,12,None,None,None,,ff
+M41-1,ff,p,12,12,None,None,None,,f
+M41-1,f,pp,12,12,None,None,None,,p
+M41-1,p,None,12,None,None,smorzando,None,,pp
+M41-2,None,f,None,48,None,Crescendo,Andantino,,p
+M41-2,p,mf,48,60,Diminuendo,Crescendo,None,,f
+M41-2,f,f,60,12,Crescendo,Crescendo,None,,mf
+M41-2,mf,ff,12,48,Crescendo,Crescendo,None,,f
+M41-2,f,None,48,None,Crescendo,Decrescendo,sostenuto,,ff
+M41-3,None,p,None,24,None,None,Animato,,p
+M41-3,p,p,24,36,None,None,None,,p
+M41-3,p,f,36,54,None,None,None,,p
+M41-3,p,ff,54,45,None,None,None,,f
+M41-3,f,p,45,66,None,None,None,,ff
+M41-3,ff,None,66,None,None,None,None,,p
+M41-4,None,p,70,3,Crescendo,None,None,,mf
+M41-4,mf,f,3,36,None,None,None,,p
+M41-4,p,p,36,12,None,Diminuendo,None,,f
+M41-4,f,pp,12,21,Diminuendo,sotto voce,None,,p
+M41-4,p,f,21,15,sotto voce,Crescendo,None,,pp
+M41-4,pp,f,15,24,Crescendo,Crescendo,None,,f
+M41-4,f,None,24,None,Diminuendo,Crescendo,None,,f
+M50-1,None,p,None,36,None,sf,Vivace,,f
+M50-1,f,f,36,12,Diminuendo,None,None,,p
+M50-1,p,p,12,3,None,None,None,,f
+M50-1,f,f,3,9,None,None,None,,p
+M50-1,p,p,9,3,None,None,None,,f
+M50-1,f,f,3,9,None,Crescendo,None,,p
+M50-1,p,p,9,36,Crescendo,sf,None,,f
+M50-1,f,f,36,48,Diminuendo,Crescendo,None,,p
+M50-1,p,p,48,12,Crescendo,Crescendo,None,,f
+M50-1,f,p,12,36,Diminuendo,Crescendo,None,,p
+M50-1,p,mf,36,12,Diminuendo,None,None,,p
+M50-1,p,f,12,24,None,Crescendo,None,,mf
+M50-1,mf,p,24,24,Crescendo,Crescendo,None,,f
+M50-1,f,p,24,44,Diminuendo,Crescendo,ten.,,p
+M50-1,p,None,44,None,rit.,None,None,,p
+M50-2,None,p,None,10,Crescendo,Diminuendo,None,,f
+M50-2,f,f,10,45,Diminuendo,Crescendo,None,,p
+M50-2,p,p,45,12,Crescendo,Diminuendo,None,,f
+M50-2,f,f,12,26,Diminuendo,Crescendo,None,,p
+M50-2,p,p,26,10,Crescendo,Diminuendo,None,,f
+M50-2,f,p,10,24,Diminuendo,Crescendo,None,,p
+M50-2,p,p,24,24,Diminuendo,Crescendo,None,,p
+M50-2,p,p,24,24,Diminuendo,Crescendo,None,,p
+M50-2,p,p,24,25,Diminuendo,Crescendo,None,,p
+M50-2,p,p,25,23,a tempo,Crescendo,None,,p
+M50-2,p,p,23,25,Diminuendo,Crescendo,None,,p
+M50-2,p,f,25,49,a tempo,Crescendo,None,,p
+M50-2,p,p,49,10,Crescendo,Diminuendo,None,,f
+M50-2,f,None,10,None,Diminuendo,Crescendo,None,,p
+M50-3,None,p,None,24,Crescendo,None,None,,f
+M50-3,f,pp,24,48,None,Diminuendo,Diminuendo,,p
+M50-3,p,p,48,12,Crescendo,Crescendo,None,,pp
+M50-3,pp,pp,12,120,Crescendo,Crescendo,None,,p
+M50-3,p,f,120,12,Diminuendo,Crescendo,None,,pp
+M50-3,pp,p,12,13,Crescendo,Crescendo,None,,f
+M50-3,f,f,13,47,Fermata,Crescendo,None,,p
+M50-3,p,p,47,24,Crescendo,None,None,,f
+M50-3,f,p,24,100,None,Diminuendo,Diminuendo,,p
+M50-3,p,p,100,6,sf,Crescendo,None,,p
+M50-3,p,p,6,3,sf,sf,None,,p
+M50-3,p,f,3,32,sf,Crescendo,None,,p
+M50-3,p,p,32,1,Crescendo,None,None,,f
+M50-3,f,f,1,23,None,Crescendo,None,,p
+M50-3,p,p,23,24,Crescendo,Crescendo,None,,f
+M50-3,f,ff,24,32,Diminuendo,slentando,None,,p
+M50-3,p,None,32,None,slentando,None,None,,ff
+M56-1,None,f,None,36,None,dolcissimo,Allegro,,p
+M56-1,p,p,36,30,Crescendo,Crescendo,None,,f
+M56-1,f,f,30,36,Diminuendo,dolcissimo,Allegro,,p
+M56-1,p,p,36,30,Crescendo,Crescendo,None,,f
+M56-1,f,p,30,108,Diminuendo,None,mosso,,p
+M56-1,p,f,108,36,rall.,dolcissimo,Tempo I,,p
+M56-1,p,p,36,30,Crescendo,Crescendo,None,,f
+M56-1,f,p,30,120,Diminuendo,None,mosso,,p
+M56-1,p,f,120,36,rall.,dolcissimo,Tempo I,,p
+M56-1,p,p,36,31,Crescendo,Crescendo,None,,f
+M56-1,f,mf,31,47,Diminuendo,Diminuendo,None,,p
+M56-1,p,p,47,25,Diminuendo,Diminuendo,None,,mf
+M56-1,mf,f,25,44,Diminuendo,Diminuendo,None,,p
+M56-1,p,None,44,None,Crescendo,None,None,,f
+M56-2,None,p,None,34,None,None,Vivace,,f
+M56-2,f,p,34,48,Diminuendo,Diminuendo,None,,p
+M56-2,p,p,48,24,Diminuendo,sf,None,,p
+M56-2,p,f,24,41,sf,sf,None,,p
+M56-2,p,f,41,24,Crescendo,sf,None,,f
+M56-2,f,p,24,7,Crescendo,sf,None,,f
+M56-2,f,None,7,None,sf,rit.,None,,p
+M56-3,None,f,None,40,None,Diminuendo,Moderato,,mf
+M56-3,mf,p,40,3,Crescendo,None,None,,f
+M56-3,f,f,3,69,None,rall.,None,,p
+M56-3,p,p,69,3,Crescendo,None,None,,f
+M56-3,f,f,3,30,None,Diminuendo,None,,p
+M56-3,p,f,30,54,Crescendo,Crescendo,None,,f
+M56-3,f,p,54,18,Crescendo,Diminuendo,None,,f
+M56-3,f,f,18,24,Diminuendo,Crescendo,None,,p
+M56-3,p,f,24,22,Crescendo,Diminuendo,None,,f
+M56-3,f,p,22,53,Diminuendo,Diminuendo,Diminuendo,,f
+M56-3,f,p,53,45,sostenuto,None,None,,p
+M56-3,p,f,45,24,None,Crescendo,None,,p
+M56-3,p,f,24,63,Crescendo,Diminuendo,None,,f
+M56-3,f,p,63,3,Crescendo,None,None,,f
+M56-3,f,p,3,115,None,rall.,None,,p
+M56-3,p,None,115,None,sf,Diminuendo,None,,p
+M59-1,None,p,None,36,None,Crescendo,Moderato,,p
+M59-1,p,f,36,124,ten.,Crescendo,Moderato,,p
+M59-1,p,p,124,44,Crescendo,Diminuendo,None,,f
+M59-1,f,f,44,51,Diminuendo,Crescendo,None,,p
+M59-1,p,f,51,3,Crescendo,Crescendo,None,,f
+M59-1,f,p,3,6,Crescendo,None,None,,f
+M59-1,f,p,6,6,None,Crescendo,Crescendo,,p
+M59-1,p,None,6,None,Crescendo,Crescendo,None,,p
+M59-2,None,ff,None,25,Crescendo,Crescendo,None,,f
+M59-2,f,f,25,11,Crescendo,Crescendo,None,,ff
+M59-2,ff,p,11,9,Crescendo,Diminuendo,None,,f
+M59-2,f,ff,9,117,Diminuendo,Diminuendo,None,,p
+M59-2,p,f,117,13,Crescendo,Crescendo,None,,ff
+M59-2,ff,p,13,24,sf,Crescendo,None,,f
+M59-2,f,pp,24,62,Decrescendo,rall.,None,,p
+M59-2,p,None,62,None,Diminuendo,None,None,,pp
+M59-3,None,p,None,47,None,Crescendo,Vivace,,f
+M59-3,f,f,47,50,Crescendo,Crescendo,Crescendo,,p
+M59-3,p,p,50,18,Crescendo,Crescendo,None,,f
+M59-3,f,p,18,97,Diminuendo,Crescendo,None,,p
+M59-3,p,p,97,30,sf,Diminuendo,None,,p
+M59-3,p,f,30,71,sf,Crescendo,None,,p
+M59-3,p,p,71,18,Crescendo,Diminuendo,None,,f
+M59-3,f,f,18,24,Diminuendo,rit.,None,,p
+M59-3,p,f,24,25,Crescendo,Diminuendo,None,,f
+M59-3,f,p,25,23,Crescendo,Crescendo,None,,f
+M59-3,f,None,23,None,Diminuendo,Diminuendo,None,,p
+M63-1,None,p,None,24,Crescendo,sf,None,,f
+M63-1,f,p,24,48,Crescendo,Crescendo,None,,p
+M63-1,p,f,48,21,Diminuendo,None,None,,p
+M63-1,p,p,21,9,None,None,None,,f
+M63-1,f,f,9,21,None,None,None,,p
+M63-1,p,p,21,9,None,None,None,,f
+M63-1,f,pp,9,126,None,Diminuendo,None,,p
+M63-1,p,f,126,21,Diminuendo,None,None,,pp
+M63-1,pp,None,21,None,None,None,None,,f
+M63-3,None,f,None,68,None,Diminuendo,Alegretto,,p
+M63-3,p,p,68,126,Diminuendo,Diminuendo,None,,f
+M63-3,f,f,126,31,Crescendo,Crescendo,None,,p
+M63-3,p,None,31,None,Crescendo,None,None,,f
+M67-1,None,f,None,12,None,Crescendo,Vivace,,mf
+M67-1,mf,p,12,1,Crescendo,None,None,,f
+M67-1,f,p,1,12,None,Crescendo,Crescendo,,p
+M67-1,p,f,12,11,sf,Crescendo,Crescendo,,p
+M67-1,p,f,11,24,sf,Crescendo,None,,f
+M67-1,f,ff,24,24,Diminuendo,Crescendo,None,,f
+M67-1,f,p,24,3,Diminuendo,sf,None,,ff
+M67-1,ff,ff,3,9,sf,None,scherzando,,p
+M67-1,p,pp,9,3,None,sf,None,,ff
+M67-1,ff,ff,3,9,sf,None,None,,pp
+M67-1,pp,ff,9,12,None,marcato,None,,ff
+M67-1,ff,pp,12,3,marcato,None,None,,ff
+M67-1,ff,p,3,10,None,rit.,None,,pp
+M67-1,pp,p,10,12,a tempo,Crescendo,Crescendo,,p
+M67-1,p,f,12,11,sf,Crescendo,None,,p
+M67-1,p,f,11,3,sf,None,None,,f
+M67-1,f,f,3,18,None,Crescendo,None,,f
+M67-1,f,None,18,None,Crescendo,None,None,,f
+M67-2,None,f,None,41,None,Crescendo,Cantabile,,p
+M67-2,p,pp,41,20,Crescendo,Diminuendo,None,,f
+M67-2,f,p,20,24,sf,sf,None,,pp
+M67-2,pp,p,24,9,sf,Crescendo,leggiero,,p
+M67-2,p,pp,9,15,Crescendo,sf,None,,p
+M67-2,p,p,15,24,sf,sf,None,,pp
+M67-2,pp,p,24,9,sf,Crescendo,leggiero,,p
+M67-2,p,mf,9,27,Crescendo,sotto voce,None,,p
+M67-2,p,f,27,40,Crescendo,Crescendo,None,,mf
+M67-2,mf,None,40,None,Crescendo,Diminuendo,None,,f
+M67-3,None,f,None,25,None,rubato,Allegretto,,p
+M67-3,p,ff,25,18,Diminuendo,Diminuendo,None,,f
+M67-3,f,p,18,5,sf,None,rit.,,ff
+M67-3,ff,f,5,25,None,a tempo,None,,p
+M67-3,p,ff,25,18,Diminuendo,Diminuendo,None,,f
+M67-3,f,pp,18,7,sf,a tempo,rit.,,ff
+M67-3,ff,pp,7,6,a tempo,Crescendo,None,,pp
+M67-3,pp,pp,6,6,sf,sf,None,,pp
+M67-3,pp,pp,6,6,sf,Crescendo,None,,pp
+M67-3,pp,p,6,5,sf,Crescendo,None,,pp
+M67-3,pp,f,5,24,Diminuendo,Crescendo,a tempo,,p
+M67-3,p,ff,24,18,Diminuendo,Crescendo,None,,f
+M67-3,f,None,18,None,sf,None,rit.,,ff
+M67-4,None,p,None,62,Moderato animato,Diminuendo,None,,mf
+M67-4,mf,p,62,48,Diminuendo,Diminuendo,None,,p
+M67-4,p,f,48,46,Diminuendo,Diminuendo,None,,p
+M67-4,p,f,46,28,Crescendo,rit.,None,,f
+M67-4,f,p,28,2,Crescendo,Fermata,None,,f
+M67-4,f,f,2,18,Fermata,Crescendo,None,,p
+M67-4,p,f,18,28,Crescendo,rit.,None,,f
+M67-4,f,p,28,2,Crescendo,Fermata,None,,f
+M67-4,f,mf,2,6,Fermata,None,None,,p
+M67-4,p,p,6,62,None,Diminuendo,None,,mf
+M67-4,mf,None,62,None,Diminuendo,Diminuendo,None,,p
+M68-1,None,p,None,12,None,Crescendo,Crescendo,,f
+M68-1,f,f,12,48,sf,Crescendo,None,,p
+M68-1,p,p,48,11,Crescendo,sf,None,,f
+M68-1,f,f,11,25,sf,Crescendo,None,,p
+M68-1,p,p,25,11,Crescendo,sf,None,,f
+M68-1,f,p,11,25,sf,Crescendo,None,,p
+M68-1,p,f,25,39,Crescendo,Crescendo,None,,p
+M68-1,p,f,39,9,Crescendo,sf,None,,f
+M68-1,f,p,9,12,sf,Crescendo,Crescendo,,f
+M68-1,f,f,12,24,sf,Crescendo,None,,p
+M68-1,p,p,24,11,Crescendo,sf,None,,f
+M68-1,f,None,11,None,sf,Crescendo,None,,p
+M68-2,None,pp,None,23,None,Crescendo,Lento,,p
+M68-2,p,mf,23,24,Crescendo,Crescendo,None,,pp
+M68-2,pp,p,24,14,Crescendo,rit.,None,,mf
+M68-2,mf,mf,14,22,rit.,Crescendo,a tempo,,p
+M68-2,p,p,22,14,Crescendo,rit.,None,,mf
+M68-2,mf,mf,14,24,rit.,Crescendo,a tempo,,p
+M68-2,p,f,24,6,Crescendo,Crescendo,mosso,,mf
+M68-2,mf,pp,6,3,Crescendo,None,None,,f
+M68-2,f,p,3,3,None,None,None,,pp
+M68-2,pp,mf,3,6,None,Crescendo,None,,p
+M68-2,p,pp,6,3,Crescendo,None,None,,mf
+M68-2,mf,mf,3,3,None,None,None,,pp
+M68-2,pp,f,3,6,None,Crescendo,mosso,,mf
+M68-2,mf,pp,6,3,Crescendo,None,None,,f
+M68-2,f,p,3,3,None,None,None,,pp
+M68-2,pp,mf,3,6,None,Crescendo,None,,p
+M68-2,p,pp,6,3,Crescendo,None,None,,mf
+M68-2,mf,p,3,27,None,None,None,,pp
+M68-2,pp,mf,27,22,rit.,Crescendo,Tempo I,,p
+M68-2,p,p,22,14,Crescendo,rit.,None,,mf
+M68-2,mf,None,14,None,rit.,Crescendo,a tempo,,p
+M68-3,None,p,None,24,None,None,Allegro,,f
+M68-3,f,ff,24,24,None,None,None,,p
+M68-3,p,p,24,12,None,sf,None,,ff
+M68-3,ff,p,12,12,sf,Crescendo,None,,p
+M68-3,p,p,12,36,sf,vivo,None,,p
+M68-3,p,f,36,24,vivo,rit.,None,,p
+M68-3,p,p,24,24,rit.,None,Tempo I,,f
+M68-3,f,None,24,None,None,None,None,,p
