@@ -1,5 +1,6 @@
 import glob
-from data_processing import make_dict_from_csv, prepare_dataset, plot_beat_dyn, add_dyn_values_for_markings_in_features_info, modify_continuous_features, modify_categorical_features
+from data_processing import (make_dict_from_csv, prepare_dataset, plot_beat_dyn, add_dyn_values_for_markings_in_features_info, 
+                             modify_continuous_features, modify_categorical_features, plot_dyn_with_markings_values_boxplots)
 import numpy as np
 from collections import namedtuple
 import matplotlib
@@ -15,8 +16,13 @@ files_mark_dyn = glob.glob('../markings_dyn/*.csv')
 
 Mazurka_info = prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn)
 
+plot_dyn_with_markings_values_boxplots(Mazurka_info['M06-1'], 1, 5)
+
+import ipdb; ipdb.set_trace()
+# Marckings features for training model 
 features_info = make_dict_from_csv('../marking_INFO_dyn.csv')
 features_info_with_dyn_values = add_dyn_values_for_markings_in_features_info(Mazurka_info, features_info)
+
 
 features_info_continuous = modify_continuous_features(features_info_with_dyn_values, ['Dist_PR', 'Dist_N'])
 categories_mapping, final_features_info = modify_categorical_features(features_info_continuous, ['PR_M', 'N_M', 'Annot_PR', 'Annot_N', 'Annot_M', 'M'])
