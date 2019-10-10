@@ -5,7 +5,7 @@ import os
 from collections import namedtuple
 import tkinter
 import matplotlib
-matplotlib.use("macOSX")
+matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 from functools import partial
 
@@ -96,10 +96,10 @@ def prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn):
 
     Mazurka_info = {}
 
-    Pianist = namedtuple('Pianist', 'id beat dyn markings markings_dyn')
+    Pianist = namedtuple('Pianist', 'id beat dyn markings markings_dyn dyns_in_markings_dyn dyn_change')
 
     files_ID = []
-    print ('Retrieving information from the csv files...')
+    print ('Retrieving information from the .csv files...')
     for M_ID in Mazurka_ID:
         files_ID.append([(M_ID, fb, fd, fm, fmd) for fb in files_beat if M_ID in fb 
                                                  for fd in files_dyn if M_ID in fd 
@@ -118,22 +118,66 @@ def prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn):
             for id2, vals_dyn in dyns.items():
                 if id1 == id2:
 
-                    # round values
+                    # round beat and dyn values
                     vals_beat = [np.round(v, 3) for v in vals_beat]
                     vals_dyn = [np.round(v, 3) for v in vals_dyn]
+
+                    # store info about dyns in markings
+                    markings_dyn_positions = [int(v[0]) for v in make_dict_from_csv(mark_dyn).values()]
+                    pianist_dyn_mark_values = list(map(partial(get_marking_dyn_value, vals_dyn), markings_dyn_positions))      
 
                     tuple_all.append((Pianist(id = id1, 
                                               beat = vals_beat, 
                                               dyn = norm_by_max(vals_dyn), 
                                               markings = make_dict_from_csv(mark), 
-                                              markings_dyn = make_dict_from_csv(mark_dyn)
+                                              markings_dyn = make_dict_from_csv(mark_dyn),
+                                              dyns_in_markings_dyn = pianist_dyn_mark_values,
+                                              dyn_change = list(map(map_discrete_variation_value, values_pairs(pianist_dyn_mark_values)))
                                               )))
         Mazurka_info[M_ID] = tuple_all
-
+    print ("Done!")
     return Mazurka_info
 
-####### Features calling #######
+####### clustering task #######
+
+def values_pairs(list):
+    return [(first, second) for first, second in zip(list, list[1:])]
+
+def map_discrete_variation_value(values):
+    v1 = values[0]
+    v2 = values[1]
+    if v1-v2 > 0.5: return 2
+    elif v1-v2 > 0 and v1-v2 <= 0.5: return 1
+    elif v1-v2 == 0: return 0
+    elif v1-v2 >= -0.5 and v1-v2 < 0: return -1
+    elif v1-v2 < -0.5: return -2
+
+def add_linear_dynamics_change_to_data_info(Mazurka_info):
+
+    for M_ID, ps in Mazurka_info.items():
+        # get list of marking positions
+        markings_positions = [int(v[0]) for v in [*ps[0].markings_dyn.values()]]
+
+        # pid_dyn_values = list(map(partial(get_dyn_values_per_pianist, markings_positions), ps))
+        for pianist in ps:
+            import ipdb; ipdb.set_trace()
+            pianist.dyns_in_markings_dyn = get_dyn_values_per_pianist(markings_positions, pianist)[1]
+            pianist.dyn_change = map_discrete_variation_value(values_pairs(get_dyn_values_per_pianist(markings_positions, pianist)[1]))
+
+            import ipdb; ipdb.set_trace()
+    return  # Mazurka_info_extended
+
+
+
+
+####### Features calling for prediction task #######
+
 def get_marking_dyn_value(dyns, idx):
+    # Extract the dynamic value in marking position
+    # taking into account the dynamic values of the 
+    # current position and the following two.
+    # this function does not consider the possibility one 
+    # marking to be located very close to another. 
     _idx = int(idx) - 1
     if _idx == len(dyns) - 1:
         dyn_value = dyns[_idx]
@@ -239,7 +283,7 @@ def modify_categorical_features(features_info, tags):
 ######## Plotting tools #########
     
 def plot_beat_dyn(M_info_pianist):
-    plt.figure(figsize=(16, 14), dpi= 80)
+    plt.figure(figsize=(12, 10), dpi= 80)
     plt.subplot(211)
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.beat) -1 ), norm_by_max(np.diff(pianist.beat)))
@@ -256,41 +300,54 @@ def plot_beat_dyn(M_info_pianist):
         plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
         plt.xlabel('Score beats', fontsize=14)
         plt.xticks([v[0] for v in [*pianist.markings.values()]], 
-                   [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=14) 
-        plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=14)
-        plt.tight_layout()
+                   [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
+        plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
+        # plt.tight_layout()
     plt.show()
 
 def plot_dyn_with_markings_values_boxplots(M_info, idx1, idx2):
-
     # Get dyn.values per marking for data in boxplot
+    
     # get list of marking positions
     markings_positions = [int(v[0])-1 for v in [*M_info[0].markings_dyn.values()]]
 
     pid_dyn_values = list(map(partial(get_dyn_values_per_pianist, markings_positions), M_info))
 
-    plt.figure(figsize=(14, 7), dpi= 80)
+    plt.figure(figsize=(12, 6), dpi= 80)
     m=0
 
     for mp in markings_positions:
-        
         values = [v[1][m] for v in pid_dyn_values]
-        print (values)
         plt.boxplot(values, positions=[mp])
         m+=1
+    
     M_info_pianist = M_info[idx1:idx2]
+
     for pianist in M_info_pianist:     
-        plt.plot(range(len(pianist.dyn)), pianist.dyn)
+        plt.plot(range(len(pianist.dyn)), pianist.dyn, alpha=0.6)
         plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
         plt.xlabel('Score beats', fontsize=14)
         plt.xticks([v[0]-1 for v in [*pianist.markings.values()]], 
-                   [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=14) 
-        plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=14)
+                   [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
+        plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
         plt.ylim(0, 1)
         plt.xlim(-2, len(pianist.dyn)+2)
-        plt.tight_layout()
-    plt.savefig('test_plot.png')
     plt.show()    
+
+def plot_dyn_change_curves(M_info_pianist):
+    # [v[1] for v in M_info_pianist[0].markings_dyn.values()]
+    for pianist in M_info_pianist:
+        plt.plot(range(len(pianist.dyn_change) ), pianist.dyn_change)
+        plt.title('Dynamics transitions', fontsize=14)
+        plt.xlabel('Score markings transition', fontsize=14)
+        plt.xticks(range(len(pianist.dyn_change)), 
+                   [str(v) for v in values_pairs([v[1] for v in pianist.markings_dyn.values()])], 
+                   rotation='vertical', 
+                   fontsize=14) 
+        plt.ylabel('Discrete transition type', fontsize=14)
+    plt.tight_layout()
+    plt.show()
+    return
 
 
 
