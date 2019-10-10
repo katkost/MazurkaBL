@@ -3,8 +3,9 @@ from data_processing import (make_dict_from_csv, prepare_dataset, plot_beat_dyn,
                              modify_continuous_features, modify_categorical_features, plot_dyn_with_markings_values_boxplots)
 import numpy as np
 from collections import namedtuple
+import tkinter
 import matplotlib
-matplotlib.use('agg')
+matplotlib.use("macOSX")
 import matplotlib.pyplot as plt
 import pandas as pd
 import copy
@@ -16,7 +17,7 @@ files_mark_dyn = glob.glob('../markings_dyn/*.csv')
 
 Mazurka_info = prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn)
 
-plot_dyn_with_markings_values_boxplots(Mazurka_info['M06-1'], 1, 5)
+plot_dyn_with_markings_values_boxplots(Mazurka_info['M06-1'], 1, 3)
 
 import ipdb; ipdb.set_trace()
 # Marckings features for training model 

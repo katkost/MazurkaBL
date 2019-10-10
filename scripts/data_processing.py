@@ -3,8 +3,9 @@ import pandas as pd
 import glob
 import os
 from collections import namedtuple
+import tkinter
 import matplotlib
-matplotlib.use('agg')
+matplotlib.use("macOSX")
 import matplotlib.pyplot as plt
 from functools import partial
 
@@ -238,7 +239,7 @@ def modify_categorical_features(features_info, tags):
 ######## Plotting tools #########
     
 def plot_beat_dyn(M_info_pianist):
-    plt.figure(figsize=(18, 16), dpi= 80)
+    plt.figure(figsize=(16, 14), dpi= 80)
     plt.subplot(211)
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.beat) -1 ), norm_by_max(np.diff(pianist.beat)))
@@ -261,20 +262,20 @@ def plot_beat_dyn(M_info_pianist):
     plt.show()
 
 def plot_dyn_with_markings_values_boxplots(M_info, idx1, idx2):
-    
+
     # Get dyn.values per marking for data in boxplot
     # get list of marking positions
-
-    markings_positions = [int(v[0]) for v in [*M_info[0].markings_dyn.values()]]
+    markings_positions = [int(v[0])-1 for v in [*M_info[0].markings_dyn.values()]]
 
     pid_dyn_values = list(map(partial(get_dyn_values_per_pianist, markings_positions), M_info))
 
-    plt.figure(figsize=(18, 16), dpi= 80)
+    plt.figure(figsize=(14, 7), dpi= 80)
     m=0
 
     for mp in markings_positions:
         
         values = [v[1][m] for v in pid_dyn_values]
+        print (values)
         plt.boxplot(values, positions=[mp])
         m+=1
     M_info_pianist = M_info[idx1:idx2]
@@ -282,9 +283,11 @@ def plot_dyn_with_markings_values_boxplots(M_info, idx1, idx2):
         plt.plot(range(len(pianist.dyn)), pianist.dyn)
         plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
         plt.xlabel('Score beats', fontsize=14)
-        plt.xticks([v[0] for v in [*pianist.markings.values()]], 
+        plt.xticks([v[0]-1 for v in [*pianist.markings.values()]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=14) 
         plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=14)
+        plt.ylim(0, 1)
+        plt.xlim(-2, len(pianist.dyn)+2)
         plt.tight_layout()
     plt.savefig('test_plot.png')
     plt.show()    
