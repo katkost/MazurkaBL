@@ -10,3 +10,4 @@ six==1.12.0
 mpld3
 librosa==0.7.1
 ipython
+soundfile
