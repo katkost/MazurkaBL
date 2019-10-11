@@ -283,7 +283,7 @@ def modify_categorical_features(features_info, tags):
 ######## Plotting tools #########
     
 def plot_beat_dyn(M_info_pianist):
-    plt.figure(figsize=(12, 10), dpi= 80)
+    plt.figure(figsize=(12, 8), dpi= 80)
     plt.subplot(211)
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.beat) -1 ), norm_by_max(np.diff(pianist.beat)))
