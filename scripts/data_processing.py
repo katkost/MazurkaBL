@@ -5,7 +5,7 @@ import os
 from collections import namedtuple
 import tkinter
 import matplotlib
-matplotlib.use("TkAgg")
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from functools import partial
 

@@ -6,7 +6,7 @@ import numpy as np
 from collections import namedtuple
 import tkinter
 import matplotlib
-matplotlib.use("TkAgg")
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 import copy
