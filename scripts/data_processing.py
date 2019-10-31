@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import glob
 import os
-from collections import namedtuple
+from collections import namedtuple, Counter
 import tkinter
 import matplotlib
 matplotlib.use("Agg")
@@ -176,12 +176,28 @@ def map_discrete_variation_value(values):
     elif v2-v1 >= -0.5 and v2-v1 < 0: return -1
     elif v2-v1 < -0.5: return -2
 
-def get_clusters(M_info):
+def get_clusters_and_print_outlier_cluster_names(M_info, num_clusters):
     data = []
     for pianist in M_info:
         data.append(pianist.dyn_change)
-    k_means_model_ = KMeans(n_clusters=4, max_iter=150, n_init=5).fit(data)    
+    k_means_model = KMeans(n_clusters=num_clusters, max_iter=150, n_init=5, verbose=0).fit(data)    
+    labels = k_means_model.labels_
+    cl_centers = k_means_model.cluster_centers_
+
+    counter = Counter(labels)
+    outlier_cluster = min(counter, key=counter.get)
+    outlier_pianists = []
+    for ind, cluster_point in enumerate(labels):
+        if cluster_point == outlier_cluster:
+            outlier_pianists.append(get_name_from_ID_map(M_info[ind].id, data_map))
+    
     import ipdb; ipdb.set_trace()
+    fig, ax = plt.subplots()
+    for x in list(range(num_clusters)):
+        ax.plot(cl_centers[x], label='Cluster' + str(x) + '(' + counter[x] + ')')
+    ax.legend()
+
+
 
 ####### Features calling for prediction task #######
 
