@@ -81,6 +81,22 @@ def make_dict_from_csv(file):
     df = pd.read_csv(file)
     return df.to_dict('list')
 
+def make_dict_from_csv_without_header(file):
+    df = pd.read_csv(file, header=None, usecols=[1,2], names=['location', 'num_cp'])
+    return df.to_dict('list')
+
+def make_dict_from_csv_without_header2(file):
+    df = pd.read_csv(file, header=None, usecols=[0,1], names=['time_frame_in_sec', 'sone_value'])
+    return df.to_dict('list')
+
+def get_sones(folder, mazurka_id):
+    return sorted(glob.glob(os.path.join(folder, mazurka_id + '/*.csv')))
+
+def read_txt_for_cps(file):
+    df = pd.read_csv(file, sep=" ", header=None)
+    data = df.to_dict('list')
+    return [list(map(int, a[1:-1].split(','))) for a in data[0]]
+
 ######## Data processing ########
 
 def get_name_from_ID_map(ID, data_map):
@@ -113,7 +129,7 @@ def prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn):
     Gets files from MazurkaBL folder
     returns dictionary: key: Mazurka ID,
                         value: list of namedtuple objects
-                        Pianist: 'id beat dyn markings'
+                        Pianist: 'id beat dyn markings markings_dyn dyns_in_markings_dyn dyn_change'
     """
 
     Mazurka_info = {}
@@ -139,7 +155,6 @@ def prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn):
         for id1, vals_beat in beats.items():
             for id2, vals_dyn in dyns.items():
                 if id1 == id2:
-
                     # round beat and dyn values
                     vals_beat = [np.round(v, 3) for v in vals_beat]
                     vals_dyn = [np.round(v, 3) for v in vals_dyn]
@@ -159,6 +174,99 @@ def prepare_dataset(files_beat, files_dyn, files_mark, files_mark_dyn):
         Mazurka_info[M_ID] = tuple_all
     print ("Done!")
     return Mazurka_info
+
+def prepare_dataset_change_points(folder_sones, files_cp_per_recording_in_mazurka, files_total_cp, files_mark):
+    """
+    Gets files from MazurkaBL folder
+    returns dictionary: key: Mazurka ID,
+                        value: list of namedtuple objects
+                        Pianist: 'id sones cp dyn cp_total_in_mazurka'
+    """
+
+    Mazurka_info = {}
+
+    Pianist = namedtuple('Pianist', 'id sones cp cp_total_in_mazurka markings')
+
+    tuple_all = []
+    print ('Retrieving information from the .csv and .txt files...')
+    Mazurka_ID = ['M06-1', 
+                'M06-2', 
+                'M06-3', 
+                'M06-4', 
+                'M07-1', 
+                'M07-2', 
+                'M07-3', 
+                'M17-1', 
+                'M17-2', 
+                'M17-3', 
+                'M17-4', 
+                'M24-1', 
+                'M24-2', 
+                'M24-3', 
+                'M24-4', 
+                'M30-1', 
+                'M30-2', 
+                'M30-3', 
+                'M30-4', 
+                'M33-1', 
+                'M33-2', 
+                'M33-3', 
+                'M33-4', 
+                'M41-1', 
+                'M41-2', 
+                'M41-3', 
+                'M41-4', 
+                'M50-1', 
+                'M50-2', 
+                'M50-3', 
+                'M56-1', 
+                'M56-2', 
+                'M56-3', 
+                'M59-1', 
+                'M59-2', 
+                'M59-3', 
+                'M63-1', 
+                'M63-3', 
+                'M67-1', 
+                'M67-2', 
+                'M67-3', 
+                'M67-4', 
+                'M68-1', 
+                'M68-2', 
+                'M68-3']
+    for M_ID in Mazurka_ID:
+        tuple_all = []
+        # Get total change points in Mazurka
+        for cp_total_file in files_total_cp:
+            if M_ID in cp_total_file:
+                cp_total_in_m = make_dict_from_csv_without_header(cp_total_file)
+
+        # Get markings in Mazurka
+        for marking_file in files_mark:
+            if M_ID in marking_file:
+                markings = make_dict_from_csv(marking_file)
+
+        # Get change-point lists per recording
+        for cp_file in files_cp_per_recording_in_mazurka:
+            if M_ID in cp_file:
+                rec_cps_in_mazurka = read_txt_for_cps(cp_file)
+
+        # Get sone values per recording
+        sone_files = get_sones(folder_sones, M_ID)
+
+        # We assume the lists in files_cp_per_recording_in_mazurka are in alphabetical order
+        for ind, sf in enumerate(sone_files):
+            sones = make_dict_from_csv_without_header2(sf)
+            tuple_all.append(Pianist(id = sf.split('/')[3].split('Ntot')[0], 
+                                    sones = sones, 
+                                    cp = rec_cps_in_mazurka[ind], 
+                                    cp_total_in_mazurka = cp_total_in_m, 
+                                    markings = markings))
+
+        Mazurka_info[M_ID] = tuple_all
+    print ("Done!")
+    return Mazurka_info
+
 
 ####### clustering task #######
 
@@ -196,7 +304,6 @@ def get_clusters_and_print_outlier_cluster_names(M_info, num_clusters):
     for x in list(range(num_clusters)):
         ax.plot(cl_centers[x], label='Cluster' + str(x) + '(' + counter[x] + ')')
     ax.legend()
-
 
 
 ####### Features calling for prediction task #######
@@ -397,3 +504,17 @@ def plot_dyn_change_curves(M_info_pianist):
     plt.show()
     return
 
+def plot_sones(M_info_with_cp, idxs_or_names_list):
+    plt.figure(figsize=(12, 6), dpi= 80)
+
+    if all(isinstance(n, int) for n in idxs_or_names_list):
+        M_info_pianist = [M_info_with_cp[x] for x in idxs_or_names_list]
+        for pianist in M_info_pianist:
+            plt.plot(pianist.sones['time_frame_in_sec'], pianist.sones['sone_value'])
+    else:
+        for name in idxs_or_names_list:
+            for mip in M_info_with_cp:
+                if get_name_from_ID_map(mip.id, data_map) == name:
+                    plt.plot(mip.sones['time_frame_in_sec'], mip.sones['sone_value'])
+    plt.tight_layout()
+    plt.show()                
