@@ -286,6 +286,7 @@ def map_discrete_variation_value(values):
 
 def get_clusters_and_print_outlier_cluster_names(M_info, num_clusters):
     data = []
+
     for pianist in M_info:
         data.append(pianist.dyn_change)
     k_means_model = KMeans(n_clusters=num_clusters, max_iter=150, n_init=5, verbose=0).fit(data)    
@@ -298,11 +299,16 @@ def get_clusters_and_print_outlier_cluster_names(M_info, num_clusters):
     for ind, cluster_point in enumerate(labels):
         if cluster_point == outlier_cluster:
             outlier_pianists.append(get_name_from_ID_map(M_info[ind].id, data_map))
-    
-    import ipdb; ipdb.set_trace()
-    fig, ax = plt.subplots()
+    print ('Pianists in outlier (smallest) cluster: ', outlier_pianists)
+    fig, ax = plt.subplots(figsize=(12, 6), dpi= 80)
     for x in list(range(num_clusters)):
-        ax.plot(cl_centers[x], label='Cluster' + str(x) + '(' + counter[x] + ')')
+        ax.plot(cl_centers[x], label='Cluster' + str(x) + '(' + str(counter[x]) + ')')
+    plt.xlabel('Score markings transition', fontsize=14)
+    plt.xticks(range(len(M_info[0].dyn_change)), 
+                [str(v) for v in values_pairs([v[1] for v in M_info[0].markings_dyn.values()])], 
+                rotation='vertical', 
+                fontsize=14)     
+    
     ax.legend()
 
 
