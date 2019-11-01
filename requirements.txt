@@ -9,4 +9,5 @@ seaborn==0.9.0
 six==1.12.0
 mpld3==0.3
 ipython
-jupyterlab
+Jupyterlab
+scikit-learn
