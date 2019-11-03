@@ -115,6 +115,17 @@ def get_names_from_mazurka(M_info):
 def norm_by_max(values):
     return [np.round(x / max(values), 3) for x in values]
 
+def find_nearest(array, value):
+    array = np.asarray(array)
+    idx = (np.abs(array - value)).argmin()
+    return idx
+
+def get_seconds_for_change_points(beats, change_points):
+    return [beats[cp-1] for cp in change_points] 
+
+def get_change_point_positions_in_sone_data(sones_locs, seconds_for_cp):
+    return list(map(partial(find_nearest, sones_locs), seconds_for_cp))
+
 def remove_redundant_keys(dictionary, keys_to_remove):
     """
     Removes redundant information from the dictionaries
@@ -188,7 +199,8 @@ def prepare_dataset_change_points(folder_sones, files_cp_per_recording_in_mazurk
     Pianist = namedtuple('Pianist', 'id sones cp cp_total_in_mazurka markings')
 
     tuple_all = []
-    print ('Retrieving information from the .csv and .txt files...')
+    print ('Retrieving information from the change points data files...')
+    # exclude 'M63-2' for the change-point data
     Mazurka_ID = ['M06-1', 
                 'M06-2', 
                 'M06-3', 
@@ -431,8 +443,8 @@ def plot_beat_dyn(M_info_pianist):
 
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.beat)-1), norm_by_max(np.diff(pianist.beat)))
-
-        plt.xticks([v[0] for v in [*pianist.markings.values()]], 
+        print([int(v[0]) for v in [*pianist.markings.values()]])
+        plt.xticks([int(v[0]) for v in [*pianist.markings.values()]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
 
     plt.title('Inter-beat-intervals in Mazurka recording', fontsize=14)
@@ -442,14 +454,14 @@ def plot_beat_dyn(M_info_pianist):
     plt.subplot(212)
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.dyn)), pianist.dyn)
-        plt.xticks([v[0] for v in [*pianist.markings.values()]], 
+        plt.xticks([int(v[0]) for v in [*pianist.markings.values()]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
 
     plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
     plt.xlabel('Score beats', fontsize=14)
     plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
     plt.tight_layout()
-    plt.show()
+    plt.savefig('bubu.png')
 
 def plot_dyn_with_markings_values_boxplots(M_info, idxs_or_names_list):
     # Get dyn.values per marking for data in boxplot
@@ -473,7 +485,7 @@ def plot_dyn_with_markings_values_boxplots(M_info, idxs_or_names_list):
             plt.plot(range(len(pianist.dyn)), pianist.dyn, alpha=0.6)
             plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
             plt.xlabel('Score beats', fontsize=14)
-            plt.xticks([v[0]-1 for v in [*pianist.markings.values()]], 
+            plt.xticks([int(v[0])-1 for v in [*pianist.markings.values()]], 
                     [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
             plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
             plt.ylim(0, 1)
@@ -487,7 +499,7 @@ def plot_dyn_with_markings_values_boxplots(M_info, idxs_or_names_list):
                     plt.plot(range(len(mip.dyn)), mip.dyn, alpha=0.6)
                     plt.title('Dynamics per score beat in Mazurka recording', fontsize=14)
                     plt.xlabel('Score beats', fontsize=14)
-                    plt.xticks([v[0]-1 for v in [*mip.markings.values()]], 
+                    plt.xticks([int(v[0])-1 for v in [*mip.markings.values()]], 
                                 [m.split('.')[0] for m in list(mip.markings.keys())], rotation='vertical', fontsize=12) 
                     plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
                     plt.ylim(0, 1)
@@ -510,17 +522,43 @@ def plot_dyn_change_curves(M_info_pianist):
     plt.show()
     return
 
-def plot_sones(M_info_with_cp, idxs_or_names_list):
+def plot_sones_with_cp(M_info_with_cp, M_info, idxs_or_names_list):
     plt.figure(figsize=(12, 6), dpi= 80)
 
     if all(isinstance(n, int) for n in idxs_or_names_list):
-        M_info_pianist = [M_info_with_cp[x] for x in idxs_or_names_list]
-        for pianist in M_info_pianist:
-            plt.plot(pianist.sones['time_frame_in_sec'], pianist.sones['sone_value'])
+        M_info_pianist_cp = [M_info_with_cp[x] for x in idxs_or_names_list]
+        M_info_pianist_general = [M_info[x] for x in idxs_or_names_list]
+        
+        for pianist, pianist_general in zip(M_info_pianist_cp, M_info_pianist_general):
+            assert pianist.id == pianist_general.id
+            plt.plot(pianist.sones['sone_value'])
+            seconds_for_change_points = get_seconds_for_change_points(pianist_general.beat, pianist.cp)
+            change_point_positions_in_sone_data = get_change_point_positions_in_sone_data(pianist.sones['time_frame_in_sec'], seconds_for_change_points)
+            print (change_point_positions_in_sone_data)
+            plt.vlines(change_point_positions_in_sone_data, 0, max(pianist.sones['sone_value']), color='#39D2B4', alpha=0.8, linewidth=1.2, label='Onsets')
+            plt.xlabel('Frames')
+            plt.ylabel('Sones')
     else:
         for name in idxs_or_names_list:
             for mip in M_info_with_cp:
                 if get_name_from_ID_map(mip.id, data_map) == name:
-                    plt.plot(mip.sones['time_frame_in_sec'], mip.sones['sone_value'])
+                    plt.plot(mip.sones['sone_value'])
+                    seconds_for_change_points = get_seconds_for_change_points(pianist_general.beat, pianist.cp)
+                    change_point_positions_in_sone_data = get_change_point_positions_in_sone_data(pianist.sones['time_frame_in_sec'], seconds_for_change_points)
+                    plt.vlines(change_point_positions_in_sone_data, 0, max(pianist.sones['sone_value']), color='#39D2B4', alpha=0.8, linewidth=1.2, label='Onsets')
+                    plt.xlabel('Frames')
+                    plt.ylabel('Sones')
     plt.tight_layout()
-    plt.show()                
+    plt.show()               
+
+def plot_total_cps(M_info_with_cp, Mazurka_ID):
+    
+    total_cps = M_info_with_cp[Mazurka_ID][0].cp_total_in_mazurka
+    import ipdb; ipdb.set_trace()
+    plt.figure(figsize=(12, 6), dpi= 80)
+    plt.bar(total_cps['location'], total_cps['num_cp'], align='center')
+    plt.xticks([int(v[0]) for v in [*M_info_with_cp[Mazurka_ID][0].markings.values()]], 
+                [m.split('.')[0] for m in list(M_info_with_cp[Mazurka_ID][0].markings.keys())], rotation='vertical', fontsize=12) 
+    plt.show()
+
+
