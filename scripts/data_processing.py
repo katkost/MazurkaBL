@@ -443,7 +443,6 @@ def plot_beat_dyn(M_info_pianist):
 
     for pianist in M_info_pianist:
         plt.plot(range(len(pianist.beat)-1), norm_by_max(np.diff(pianist.beat)))
-        print([int(v[0]) for v in [*pianist.markings.values()]])
         plt.xticks([int(v[0]) for v in [*pianist.markings.values()]], 
                    [m.split('.')[0] for m in list(pianist.markings.keys())], rotation='vertical', fontsize=12) 
 
