@@ -438,7 +438,6 @@ def modify_categorical_features(features_info, tags):
     
 def plot_beat_dyn(M_info_pianist):
     plt.figure(figsize=(18, 12), dpi= 80)
-
     plt.subplot(211)
 
     for pianist in M_info_pianist:
@@ -460,6 +459,7 @@ def plot_beat_dyn(M_info_pianist):
     plt.xlabel('Score beats', fontsize=14)
     plt.ylabel('Dynamics in smoothed sones (normalised)', fontsize=12)
     plt.tight_layout()
+
     plt.savefig('bubu.png')
 
 def plot_dyn_with_markings_values_boxplots(M_info, idxs_or_names_list):
@@ -556,6 +556,9 @@ def plot_total_cps(M_info_with_cp, Mazurka_ID):
     plt.bar(total_cps['location'], total_cps['num_cp'], align='center')
     plt.xticks([int(v[0]) for v in [*M_info_with_cp[Mazurka_ID][0].markings.values()]], 
                 [m.split('.')[0] for m in list(M_info_with_cp[Mazurka_ID][0].markings.keys())], rotation='vertical', fontsize=12) 
+    plt.ylabel('Number of recordings')
+    plt.xlabel('Score beat')
+
     plt.show()
 
 
