@@ -5,7 +5,7 @@ import os
 from collections import namedtuple, Counter
 import tkinter
 import matplotlib
-matplotlib.use("Agg")
+# matplotlib.use("Agg")
 from mpld3 import plugins
 from mpld3.utils import get_id
 import matplotlib.pyplot as plt
@@ -530,10 +530,9 @@ def plot_sones_with_cp(M_info_with_cp, M_info, idxs_or_names_list):
         
         for pianist, pianist_general in zip(M_info_pianist_cp, M_info_pianist_general):
             assert pianist.id == pianist_general.id
-            plt.plot(pianist.sones['sone_value'])
+            plt.plot(list(pianist.sones['sone_value']))
             seconds_for_change_points = get_seconds_for_change_points(pianist_general.beat, pianist.cp)
             change_point_positions_in_sone_data = get_change_point_positions_in_sone_data(pianist.sones['time_frame_in_sec'], seconds_for_change_points)
-            print (change_point_positions_in_sone_data)
             plt.vlines(change_point_positions_in_sone_data, 0, max(pianist.sones['sone_value']), color='#39D2B4', alpha=0.8, linewidth=1.2, label='Onsets')
             plt.xlabel('Frames')
             plt.ylabel('Sones')
@@ -541,7 +540,7 @@ def plot_sones_with_cp(M_info_with_cp, M_info, idxs_or_names_list):
         for name in idxs_or_names_list:
             for mip in M_info_with_cp:
                 if get_name_from_ID_map(mip.id, data_map) == name:
-                    plt.plot(mip.sones['sone_value'])
+                    plt.plot(list(mip.sones['sone_value']))
                     seconds_for_change_points = get_seconds_for_change_points(pianist_general.beat, pianist.cp)
                     change_point_positions_in_sone_data = get_change_point_positions_in_sone_data(pianist.sones['time_frame_in_sec'], seconds_for_change_points)
                     plt.vlines(change_point_positions_in_sone_data, 0, max(pianist.sones['sone_value']), color='#39D2B4', alpha=0.8, linewidth=1.2, label='Onsets')
@@ -553,7 +552,6 @@ def plot_sones_with_cp(M_info_with_cp, M_info, idxs_or_names_list):
 def plot_total_cps(M_info_with_cp, Mazurka_ID):
     
     total_cps = M_info_with_cp[Mazurka_ID][0].cp_total_in_mazurka
-    import ipdb; ipdb.set_trace()
     plt.figure(figsize=(12, 6), dpi= 80)
     plt.bar(total_cps['location'], total_cps['num_cp'], align='center')
     plt.xticks([int(v[0]) for v in [*M_info_with_cp[Mazurka_ID][0].markings.values()]], 
