@@ -553,7 +553,7 @@ def plot_total_cps(M_info_with_cp, Mazurka_ID):
     
     total_cps = M_info_with_cp[Mazurka_ID][0].cp_total_in_mazurka
     plt.figure(figsize=(12, 6), dpi= 80)
-    plt.bar(total_cps['location'], total_cps['num_cp'], align='center')
+    plt.bar(total_cps['location'], total_cps['num_cp'], align='center', color='red')
     plt.xticks([int(v[0]) for v in [*M_info_with_cp[Mazurka_ID][0].markings.values()]], 
                 [m.split('.')[0] for m in list(M_info_with_cp[Mazurka_ID][0].markings.keys())], rotation='vertical', fontsize=12) 
     plt.ylabel('Number of recordings')
