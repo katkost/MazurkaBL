@@ -2,6 +2,7 @@
 MazurkaBL
 ---------
 
+Interactive notebook for parsing and visualising the dataset:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katkost/MazurkaBL/master?filepath=%2Fscripts%2Fismir_tutorial.ipynb)
 
 
