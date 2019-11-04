@@ -2,7 +2,7 @@
 MazurkaBL
 ---------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katkost/MazurkaBL/ismir_tutorial)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katkost/MazurkaBL/master?filepath=%2Fscripts%2Fismir_tutorial.ipynb)
 
 
 About the dataset: 
@@ -19,9 +19,6 @@ opus |key    |performer |year |time |seconds |label                  |pid     |s
 
 6.1  |F# min |Csalog    |1996 |3:16 |196     |Hungaroton HCD 31755/6 |1263-01 |-
 </pre>
-
-Interactive plots: https://plot.ly/~katkost/211/?share_key=euAI7btMXU8mlDAuwKFUl4
-_________________________________________________________________________________
 
 Folders:
 ___________
@@ -53,7 +50,7 @@ Rows:
 1. Expressive markings found in score | 2. Score beat location of marking
 </pre>
 ___________
-"sones": One file per Mazurka.
+"sones": One file per Mazurka recording
 
 Columns:
 
