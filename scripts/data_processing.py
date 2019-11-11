@@ -379,60 +379,6 @@ def add_dyn_values_for_markings_in_features_info(Mazurka_info, features_info):
         
     return features_info
 
-####### Vector processing #######
-
-def replace_Nones_and_make_values_int(values):
-    values = [int(x) if x != 'None' else 0 for x in values]
-    return values
-
-def replace_names_to_numbers(values, tag):
-    if tag == 'N_M' or tag == 'PR_M' or tag == 'M':
-        mapping = ['None', 'pp', 'p', 'mf', 'f', 'ff']
-    else: 
-        mapping = list(set(values))
-    new_values = [mapping.index(v) for v in values]
-
-    return mapping, new_values
-
-def modify_continuous_features(features_info, tags):
-    '''
-    input: 
-    features_info: 
-    the features info table (rows: marking, columns: features values). 
-    Tag 'EN' includes list of tuples of: (pianist_ID, dyn_value) for 
-    the particular marking.
-    tags: 
-    the feature name(s) that we want to modify.
-    '''
-    for t in tags:
-        features_info[t] = norm_by_max(replace_Nones_and_make_values_int(features_info[t]))
-    return features_info
-
-def modify_categorical_features(features_info, tags):
-    from keras.utils.np_utils import to_categorical
-    categories_mapping = {}
-    mapping_markings = ['None', 'pp', 'p', 'mf', 'f', 'ff']
-    for t in tags:
-        mapping, numerical_labels = replace_names_to_numbers(features_info[t], t)
-        categories_mapping[t] = mapping 
-        categorical_labels = to_categorical(numerical_labels, num_classes=len(mapping))
-    
-        features_info[t] = categorical_labels
-
-    # from keras.utils.np_utils import to_categorical   
-    # categorical_labels = to_categorical(int_labels, num_classes=3)
-
-    ## first encode the features in integers
-    # from sklearn.preprocessing import LabelEncoder
-    # le = LabelEncoder()
-    # X_train_le = le.fit_transform(X_train)
-    ## then make them one-hot
-    # from sklearn.preprocessing import MultiLabelBinarizer
-    # one_hot = MultiLabelBinarizer()
-    # one_hot.fit_transform(y)
-
-    return categories_mapping, features_info
-
 
 ######## Plotting tools #########
     
